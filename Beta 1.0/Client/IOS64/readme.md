@@ -1,0 +1,1 @@
+[click this link to install](itms-services://?action=download-manifest&url=https://raw.github.com/cordaware/bestinformed-releases/blob/master/Beta%201.0/Client/IOS64/bestinformed.info.plist)
