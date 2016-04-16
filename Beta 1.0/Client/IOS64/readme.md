@@ -1,0 +1,1 @@
+[click this link to open installation page](http://htmlpreview.github.io/?https://github.com/cordaware/bestinformed-releases/blob/master/Beta%201.0/Client/IOS64/index.html)
