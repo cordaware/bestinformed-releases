@@ -1,1 +1,0 @@
-You have to install [erlang](http://erlang.org/download/otp_win64_18.3.exe) before installing best_srv!
