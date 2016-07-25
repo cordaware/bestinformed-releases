@@ -1,0 +1,1 @@
+6.0.4 fixed wrong datetime in static/dynamic channels;
