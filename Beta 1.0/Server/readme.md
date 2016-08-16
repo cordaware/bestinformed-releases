@@ -4,3 +4,4 @@
 6.0.8 Statusinfos to all Groups, DynAddr send to Infoclient
 6.0.9 Fixed OpenEnd
 6.0.10 Datetime Infoclient
+6.0.11 Response,IniFiles,latin12utf8
