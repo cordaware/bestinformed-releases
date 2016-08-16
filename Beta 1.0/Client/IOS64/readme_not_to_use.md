@@ -1,1 +1,0 @@
-[click this link to open installation page](https://rawgit.com/cordaware/bestinformed-releases/master/Beta%201.0/Client/IOS64/index.html)
