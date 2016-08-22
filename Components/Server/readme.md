@@ -5,3 +5,4 @@
 6.0.9 Fixed OpenEnd
 6.0.10 Datetime Infoclient
 6.0.11 Response,IniFiles,latin12utf8
+6.0.12 Haltgroup,Duplicateuserlist,https_couchdb,Minute 0
