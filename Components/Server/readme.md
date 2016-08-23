@@ -6,3 +6,4 @@
 6.0.10 Datetime Infoclient
 6.0.11 Response,IniFiles,latin12utf8
 6.0.12 Haltgroup,Duplicateuserlist,https_couchdb,Minute 0
+6.0.13 Installation Address,Port and SSL
