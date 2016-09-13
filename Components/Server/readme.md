@@ -8,3 +8,4 @@
 6.0.12 Haltgroup,Duplicateuserlist,https_couchdb,Minute 0
 6.0.13 Installation Address,Port and SSL
 6.0.14 Sound,Passive,HaltComputerList
+6.0.15 Switch CouchDB, Bor, Mqtt, Buri Client fixed
