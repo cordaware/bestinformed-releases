@@ -9,3 +9,4 @@
 6.0.13 Installation Address,Port and SSL
 6.0.14 Sound,Passive,HaltComputerList
 6.0.15 Switch CouchDB, Bor, Mqtt, Buri Client fixed
+6.0.16 Telegram Bot First Edition, Push not Polling
