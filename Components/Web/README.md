@@ -1,6 +1,6 @@
 # best_web.exe Version´s
 
-Current best_web.exe 6.0.10 - http://download.cordaware.com/support/v6/web/6010/best_web.exe
+> Current best_web.exe 6.0.10 - http://download.cordaware.com/support/v6/web/6010/best_web.exe
 
 
 EN: Webinterface for bestinformed Version 6 can be downloaded here:
