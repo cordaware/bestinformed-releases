@@ -11,3 +11,4 @@
 6.0.15 Switch CouchDB, Bor, Mqtt, Buri Client fixed
 6.0.16 Telegram Bot First Edition, Push not Polling
 6.0.17 Html telegram as it is, bi-botmsgin
+6.0.18 doc_type, advanced bots
