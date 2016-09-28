@@ -13,11 +13,11 @@ http://download.cordaware.com/support/v6/web/
 
 
 ------------------
-- Changelog best_web 6.0.15
+-Changelog best_web 6.0.15
 * Comes later :)
 
 ---
-- Changelog best_web 6.0.14
+-Changelog best_web 6.0.14
 * Fixed: Suchen der LDAP-Gruppen nicht mehr limitiert auf 10 Zeichen
 * Fixed: Aufrufen der Gruppenumfragen und Umfragen
 * Fixed: Multi Search Grid
