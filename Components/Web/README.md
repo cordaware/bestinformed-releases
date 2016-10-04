@@ -1,6 +1,6 @@
 # best_web.exe Version´s
 
-> Current best_web.exe 6.0.14 - http://download.cordaware.com/support/v6/web/6014/best_web.exe
+> Current best_web.exe 6.0.15 - http://download.cordaware.com/support/v6/web/6015/best_web.exe
 
 
 EN: Webinterface for bestinformed Version 6 can be downloaded here:
@@ -13,8 +13,17 @@ http://download.cordaware.com/support/v6/web/
 
 
 ------------------
--Changelog best_web 6.0.15
+
+-Changelog best_web 6.0.16
 * Comes later :)
+---
+
+-Changelog best_web 6.0.15
+* Fixed: Info an Benutzerschnellauswahl
+* Fixed: Templates speichern, editieren
+* Geändert: Tooltips bei Umfragen Ergebnisbaum
+* Geändert: Gruppenumfrage Aktualisierung
+
 
 ---
 -Changelog best_web 6.0.14
