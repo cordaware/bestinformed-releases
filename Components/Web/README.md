@@ -18,15 +18,16 @@ http://download.cordaware.com/support/v6/web/
 * Comes later :)
 ---
 
--Changelog best_web 6.0.15
+-Changelog best_web 6.0.15 (04.10.2016)
 * Fixed: Info an Benutzerschnellauswahl
 * Fixed: Templates speichern, editieren
 * Geändert: Tooltips bei Umfragen Ergebnisbaum
 * Geändert: Gruppenumfrage Aktualisierung
+* Geändert: Installationsroutine Struktur: etc/infoserver.ini etc/ssl/*, Mnesia Ordner direkt im Installationspfad
 
 
 ---
--Changelog best_web 6.0.14
+-Changelog best_web 6.0.14 (28.09.2016)
 * Fixed: Suchen der LDAP-Gruppen nicht mehr limitiert auf 10 Zeichen
 * Fixed: Aufrufen der Gruppenumfragen und Umfragen
 * Fixed: Multi Search Grid
