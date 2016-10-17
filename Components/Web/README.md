@@ -16,43 +16,43 @@ http://download.cordaware.com/support/v6/web/
 
 -Changelog best_web 6.0.16 (COMES LATER)
 
-*Sprachbausteine hinzugefügt für Webbenutzer, AKM, Infoeditor, Guardians
-*Sprachbausteine optimiert
-*Geändert: Webbenutzer für admin zeigt keine Domäne mehr an
-*Upgrade: couchbeam lib zu Version 1.3.1
-*Neu: Statistik App
-*Fixed: Schriftfarbe setzen im HTMLEditor unter Firefox, Opera
-*Neue Version für Alarmierung App implementiert
-*Fixed & Geändert: Info an Benutzerschnellauswahl. Einträge können in der Tabelle mit einem Klick nachträglich editiert werden
-*Fixed: Templategruppen erstellen, löschen, editieren, Optimierungen, Berechtigungen hinzugefügt für Template speichern, löschen, Templategruppe speichern, löschen
-*Fixed: emptyText bei Infofeldern im Baum, wenn keine Daten vorhanden sind
-*Fixed: Benutzereinstellungen - Tagfield für Benutzerdefiniertes Menü
-*Fixed: Benutzereinstellungen - Sprachauswahl
-*Geändert: Beschreibung im Infoeditor für Benutzerliste geändert
-*Geändert: Beschreibung für Entwarnungs-ID im Infoeditor
-*Neu: Berichte Beispiele - Letzten 10 aktive Nachrichten, Jahresübersicht Nachrichten aus der Historie
-*Benachrichtigungen für den Status zum Laden der Domäne befindet sich jetzt in den Nachrichten
-*Verbesserte Fehlermeldungen bei der Benutzeranmeldung für diverse Konstellationen
-*Zusätzliche Prüfung eingebaut, wenn der Alias eines Profil der gleiche ist wie das eingetragene Standardprofil in den System (global) Einstellungen
-*Geändertes Verhalten für die Ressourcen Mitbenutzung auf Profilebene
-*Mimetypes für Web Font´s hinzugefügt
-*Möglichkeit zum Filter testen für Domänen Filter hinzugefügt
-*Fixed: Benutzersession optimiert (kein doppeltes anmelden mehr)
+* Sprachbausteine hinzugefügt für Webbenutzer, AKM, Infoeditor, Guardians
+* Sprachbausteine optimiert
+* Geändert: Webbenutzer für admin zeigt keine Domäne mehr an
+* Upgrade: couchbeam lib zu Version 1.3.1
+* Neu: Statistik App
+* Fixed: Schriftfarbe setzen im HTMLEditor unter Firefox, Opera
+* Neue Version für Alarmierung App implementiert
+* Fixed & Geändert: Info an Benutzerschnellauswahl. Einträge können in der Tabelle mit einem Klick nachträglich editiert werden
+* Fixed: Templategruppen erstellen, löschen, editieren, Optimierungen, Berechtigungen hinzugefügt für Template speichern, löschen, Templategruppe speichern, löschen
+* Fixed: emptyText bei Infofeldern im Baum, wenn keine Daten vorhanden sind
+* Fixed: Benutzereinstellungen - Tagfield für Benutzerdefiniertes Menü
+* Fixed: Benutzereinstellungen - Sprachauswahl
+* Geändert: Beschreibung im Infoeditor für Benutzerliste geändert
+* Geändert: Beschreibung für Entwarnungs-ID im Infoeditor
+* Neu: Berichte Beispiele - Letzten 10 aktive Nachrichten, Jahresübersicht Nachrichten aus der Historie
+* Benachrichtigungen für den Status zum Laden der Domäne befindet sich jetzt in den Nachrichten
+* Verbesserte Fehlermeldungen bei der Benutzeranmeldung für diverse Konstellationen
+* Zusätzliche Prüfung eingebaut, wenn der Alias eines Profil der gleiche ist wie das eingetragene Standardprofil in den System (global) Einstellungen
+* Geändertes Verhalten für die Ressourcen Mitbenutzung auf Profilebene
+* Mimetypes für Web Font´s hinzugefügt
+* Möglichkeit zum Filter testen für Domänen Filter hinzugefügt
+* Fixed: Benutzersession optimiert (kein doppeltes anmelden mehr)
 
-*Umfragen:
-*Spalten verkleinert beim Anzeigen der Umfrageergebnisse (Fortschritt, Anzahl / Summe)
-*Prozentanzeige bei Kommentaren geändert
-*Umfrage Benachrichtigungen können kopiert werden
-*Prüfung auf 100% optimiert, wenn Umfrage bereits beendet ist. Der Titel und der Prüfung Button werden angepasst / versteckt je nach Konstellation der Umfrage bei der Anzeige des Ergebnis
-*Neue Benachrichtigungsoptionen für Umfrage wurde zurückgewiesen, Umfrage wurde vollständig ausgefüllt
-*Ergebnisanzeige zeigt den ausgefüllten Status mit einem Häkchen (grün) oder X (rot) an…. (Prozentanzeige ist ausgeblendet)
-*Abfrage für Prüfung auf 100% geändert: Schaltflächen geändert zu Bestätigen, Zurückweisen, Abbrechen
-*Aufklappen einer Instanz einer Gruppenumfrage zeigt nun auch gleich die initiierten Umfragen
-*Neue Auswertung Option bei Umfragen: Vollständige Ergebnisansicht mit allen Fragen und Antworten
-*Ergebnisse sind bei der Auswertung alle aufgeklappt standardmäßig
-*Neue Option bei Umfragen: Schließen und benachrichtigen. Fügt auf der letzten Seite der initiierten Umfrage eine weitere Benachrichtigung ein, wenn die Umfrage vollständig ausgefüllt wurde
-*Unterstützung für mehrfache Filter bei der Umfrage Benachrichtigung hinzugefügt
-*Fragenbaum Navigation mit zusätzlicher Prüfung auf geänderte Antworten
+Umfragen:
+* Spalten verkleinert beim Anzeigen der Umfrageergebnisse (Fortschritt, Anzahl / Summe)
+* Prozentanzeige bei Kommentaren geändert
+* Umfrage Benachrichtigungen können kopiert werden
+* Prüfung auf 100% optimiert, wenn Umfrage bereits beendet ist. Der Titel und der Prüfung Button werden angepasst / versteckt je nach Konstellation der Umfrage bei der Anzeige des Ergebnis
+* Neue Benachrichtigungsoptionen für Umfrage wurde zurückgewiesen, Umfrage wurde vollständig ausgefüllt
+* Ergebnisanzeige zeigt den ausgefüllten Status mit einem Häkchen (grün) oder X (rot) an…. (Prozentanzeige ist ausgeblendet)
+* Abfrage für Prüfung auf 100% geändert: Schaltflächen geändert zu Bestätigen, Zurückweisen, Abbrechen
+* Aufklappen einer Instanz einer Gruppenumfrage zeigt nun auch gleich die initiierten Umfragen
+* Neue Auswertung Option bei Umfragen: Vollständige Ergebnisansicht mit allen Fragen und Antworten
+* Ergebnisse sind bei der Auswertung alle aufgeklappt standardmäßig
+* Neue Option bei Umfragen: Schließen und benachrichtigen. Fügt auf der letzten Seite der initiierten Umfrage eine weitere Benachrichtigung ein, wenn die Umfrage vollständig ausgefüllt wurde
+* Unterstützung für mehrfache Filter bei der Umfrage Benachrichtigung hinzugefügt
+* Fragenbaum Navigation mit zusätzlicher Prüfung auf geänderte Antworten
 
 
 ---
