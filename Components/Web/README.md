@@ -36,6 +36,8 @@ http://download.cordaware.com/support/v6/web/
 *Zusätzliche Prüfung eingebaut, wenn der Alias eines Profil der gleiche ist wie das eingetragene Standardprofil in den System (global) Einstellungen
 *Geändertes Verhalten für die Ressourcen Mitbenutzung auf Profilebene
 *Mimetypes für Web Font´s hinzugefügt
+*Möglichkeit zum Filter testen für Domänen Filter hinzugefügt
+*Fixed: Benutzersession optimiert (kein doppeltes anmelden mehr)
 
 *Umfragen:
 *Spalten verkleinert beim Anzeigen der Umfrageergebnisse (Fortschritt, Anzahl / Summe)
@@ -50,6 +52,7 @@ http://download.cordaware.com/support/v6/web/
 *Ergebnisse sind bei der Auswertung alle aufgeklappt standardmäßig
 *Neue Option bei Umfragen: Schließen und benachrichtigen. Fügt auf der letzten Seite der initiierten Umfrage eine weitere Benachrichtigung ein, wenn die Umfrage vollständig ausgefüllt wurde
 *Unterstützung für mehrfache Filter bei der Umfrage Benachrichtigung hinzugefügt
+*Fragenbaum Navigation mit zusätzlicher Prüfung auf geänderte Antworten
 
 
 ---
