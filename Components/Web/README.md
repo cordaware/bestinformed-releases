@@ -12,6 +12,11 @@ DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 http://download.cordaware.com/support/v6/web/
 
 
+
+-Changelog best_web 6.0.17 (COMES LATER)
+* Webbenutzer laden beim Aktivieren der App
+
+
 ------------------
 
 -Changelog best_web 6.0.16 (18.10.2016)
