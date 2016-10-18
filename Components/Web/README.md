@@ -1,6 +1,6 @@
 # best_web.exe Version´s
 
-> Current best_web.exe 6.0.15 - http://download.cordaware.com/support/v6/web/6015/best_web.exe
+> Current best_web.exe 6.0.16 - http://download.cordaware.com/support/v6/web/6016/best_web.exe
 
 
 EN: Webinterface for bestinformed Version 6 can be downloaded here:
@@ -14,7 +14,7 @@ http://download.cordaware.com/support/v6/web/
 
 ------------------
 
--Changelog best_web 6.0.16 (COMES LATER)
+-Changelog best_web 6.0.16 (18.10.2016)
 
 * Sprachbausteine hinzugefügt für Webbenutzer, AKM, Infoeditor, Guardians
 * Sprachbausteine optimiert
@@ -38,6 +38,8 @@ http://download.cordaware.com/support/v6/web/
 * Mimetypes für Web Font´s hinzugefügt
 * Möglichkeit zum Filter testen für Domänen Filter hinzugefügt
 * Fixed: Benutzersession optimiert (kein doppeltes anmelden mehr)
+* Geändertes Datenbank Backup per Replikation oder auf HDD (stündlich)
+* Aktualisieren Button in orange für die aktuelle Verbindungsübersicht, wenn neue Infoclients etc. verbunden werden.
 
 Umfragen:
 * Spalten verkleinert beim Anzeigen der Umfrageergebnisse (Fortschritt, Anzahl / Summe)
@@ -53,6 +55,9 @@ Umfragen:
 * Neue Option bei Umfragen: Schließen und benachrichtigen. Fügt auf der letzten Seite der initiierten Umfrage eine weitere Benachrichtigung ein, wenn die Umfrage vollständig ausgefüllt wurde
 * Unterstützung für mehrfache Filter bei der Umfrage Benachrichtigung hinzugefügt
 * Fragenbaum Navigation mit zusätzlicher Prüfung auf geänderte Antworten
+* Gruppenumfragen Ansicht zeigt keine beendeten Umfragen mehr bei einer erstellten Instanz
+* Auswertungen bei einer Compliance Umfrage die noch nicht vollständig ausgefüllt ist, zeigt die weiteren kommenden & offenen Fragen mit einem roten X
+
 
 
 ---
