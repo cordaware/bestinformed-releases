@@ -1,6 +1,6 @@
 # best_web.exe Version´s
 
-> Current best_web.exe 6.0.16 - http://download.cordaware.com/support/v6/web/6016/best_web.exe
+> Current best_web.exe 6.0.17 - http://download.cordaware.com/support/v6/web/6017/best_web.exe
 
 
 EN: Webinterface for bestinformed Version 6 can be downloaded here:
@@ -13,9 +13,11 @@ http://download.cordaware.com/support/v6/web/
 
 
 
--Changelog best_web 6.0.17 (COMES LATER)
+-Changelog best_web 6.0.17 (19.10.2016)
 * Webbenutzer laden beim Aktivieren der App
-
+* Fixed: Rollen App - alle Rechte im Container selektieren / deselektieren
+* Ausgabe von verbesserten Fehlermeldungen innerhalb der Weboberfläche
+* Umfragen: Teilnahme an anonymisierten Umfragen ohne Benutzeranmeldung
 
 ------------------
 
