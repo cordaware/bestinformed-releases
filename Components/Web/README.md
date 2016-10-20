@@ -1,6 +1,6 @@
 # best_web.exe Version´s
 
-> Current best_web.exe 6.0.17 - http://download.cordaware.com/support/v6/web/6017/best_web.exe
+> Current best_web.exe 6.0.18 - http://download.cordaware.com/support/v6/web/6018/best_web.exe
 
 
 EN: Webinterface for bestinformed Version 6 can be downloaded here:
@@ -11,7 +11,14 @@ DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 
 http://download.cordaware.com/support/v6/web/
 
+------------------
 
+-Changelog best_web 6.0.18 (20.10.2016)
+* Durchführung von anonymisierten Umfragen
+* Umfragen: Fragen editieren Formular (diverse Felder sind jetzt versteckt für den Benutzer)
+* Session-Timeout bei anonymisierten Umfragen sind immer 8 Std.
+
+------------------
 
 -Changelog best_web 6.0.17 (19.10.2016)
 * Webbenutzer laden beim Aktivieren der App
