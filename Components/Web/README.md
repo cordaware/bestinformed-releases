@@ -39,6 +39,7 @@ Neue Info:
 * Zweite Toolbar des Editors hat sich nicht deaktiviert beim Source editieren
 * Negative Werte können nicht mehr bei Nummerfeldern eingegeben werden
 
+Weiteres:
 * StatusInfos: kleine Verbesserungen beim Erstellen des StatusDetails
 * Scriptvar: AuswahlBox warf Fehler beim Leeren des Wertes
 * Infoübersicht: Info/Szenarien entwarnen und/oder abbrechen verbessert
