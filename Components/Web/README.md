@@ -1,6 +1,6 @@
 # best_web.exe Version´s
 
-> Current best_web.exe 6.0.18 - http://download.cordaware.com/support/v6/web/6018/best_web.exe
+> Current best_web.exe 6.0.19 - http://download.cordaware.com/support/v6/web/6019/best_web.exe
 
 
 EN: Webinterface for bestinformed Version 6 can be downloaded here:
@@ -10,6 +10,39 @@ http://download.cordaware.com/support/v6/web/
 DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 
 http://download.cordaware.com/support/v6/web/
+
+------------------
+
+-Changelog best_web 6.0.19 (21.10.2016)
+* Berichte: Layout in der App geändert
+* Erlang Cowboy Webserver zu N20 -  ?REQ (request) verbessert
+* Umfragen: Formulare geändert beim Erstellen von neuen Umfragen, neuen Fragen
+* Umfragen: Schaltfläche zu Prüfung auf 100% nur bei Compliance Umfragen möglich
+* Umfragen Ergebnisse: Ausgefüllter Zustand optimiert für normale Umfragen
+* Umfragen durchführen: weiter Schaltfläche geändert
+* Umfragen initiieren: Beschriftung für die Felder (fieldLabel´s) werden dynamisch errechnet pro Fragenseite
+* Alle Links aus der Oberfläche werden in einem neuen Fenster geöffnet
+* Dashboard Hilfe -> Einträge angepasst/ausgeblendet
+* Guardians: Layout Anpassung bei der Wahl der Aktion -> Auswahlbox statt Radiobuttons
+* Guardians: Upload der Archive wurde optimiert
+
+Neue Info:         
+* Periode wurde verbessert
+* Kleine Verbesserungen beim Erstellen einer Info
+* Templates: Fehlende Inhalte beim Speichern und Laden von Templates hinzugefügt
+* Templates: Kommunikation zwischen Neue Info und Infoübersicht verbessert
+* Templates: Speichern des Templates unter anderen Namen ist jetzt möglich
+* Layout der Template Card bei Neue Info geändert
+* Verbesserung der Contentverwaltung
+* Sound konnte nicht mehr hinzugefügt werden
+* Sprachbausteine verbessert
+* Zweite Toolbar des Editors hat sich nicht deaktiviert beim Source editieren
+* Negative Werte können nicht mehr bei Nummerfeldern eingegeben werden
+
+* StatusInfos: kleine Verbesserungen beim Erstellen des StatusDetails
+* Scriptvar: AuswahlBox warf Fehler beim Leeren des Wertes
+* Infoübersicht: Info/Szenarien entwarnen und/oder abbrechen verbessert
+* Überschriften bei Neue Info bei Aktionen aus Infoübersicht richtig gesetzt
 
 ------------------
 
