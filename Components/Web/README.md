@@ -13,6 +13,11 @@ http://download.cordaware.com/support/v6/web/
 
 ------------------
 
+-Changelog best_web 6.0.20 (COMES LATER)
+* ETAG Header in Cowboy-Server bei statischen Dateien (generell für CSS, gesamte Weboberfläche usw.)
+
+------------------
+
 -Changelog best_web 6.0.19 (21.10.2016)
 * Berichte: Layout in der App geändert
 * Erlang Cowboy Webserver zu N20 -  ?REQ (request) verbessert
