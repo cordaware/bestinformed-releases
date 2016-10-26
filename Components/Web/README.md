@@ -1,6 +1,6 @@
 # best_web.exe Version´s
 
-> Current best_web.exe 6.0.19 - http://download.cordaware.com/support/v6/web/6019/best_web.exe
+> Current best_web.exe 6.0.20 - http://download.cordaware.com/support/v6/web/6020/best_web.exe
 
 
 EN: Webinterface for bestinformed Version 6 can be downloaded here:
@@ -13,8 +13,31 @@ http://download.cordaware.com/support/v6/web/
 
 ------------------
 
--Changelog best_web 6.0.20 (COMES LATER)
+-Changelog best_web 6.0.20 (26.10.2016)
 * ETAG Header in Cowboy-Server bei statischen Dateien (generell für CSS, gesamte Weboberfläche usw.)
+* Szenario speichern und editieren verbessert
+* Performance Verbesserungen Webseite laden
+* EmptyText im Grid bei Textdateien App hinzugefügt
+
+Verbesserungen bei Templates
+* Doppelte Infos beim Versenden der Info, welche zuvor als Template gespeichert wurde.
+ 
+Neue Info:
+* ScriptVar in M2I Ansicht wurde abgeschnitten
+* Anpassung des Layouts/Sprachbausteine an die kleinere Auflösungen
+* Overflows, Scrollbalken, Wordwraps
+* Scrollverhalten beim Editor verbessert
+* Zurück-Button führte in bestimmten Fällen zu Templates
+* 2. Toolbar im HTML-Editor verschwinden jetzt keine Elemente mehr
+ 
+Infoübersicht:
+* Keine Detailansicht war bei einer periodischen Info möglich
+* Fehlermeldung bei fehlenden Entwarnung beim Entwarnen des Szenarios verbessert
+* Entwarnungsinfo konnte nicht kopiert und entwarnt werden
+ 
+Guardians:
+* Formulare bei Zielen haben sich nicht geleert
+* Ziele wurden nicht aktualisiert, wenn ein neues Ziel hinzugefügt wurde
 
 ------------------
 
