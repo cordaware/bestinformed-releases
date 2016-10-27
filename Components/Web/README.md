@@ -1,6 +1,6 @@
 # best_web.exe Version´s
 
-> Current best_web.exe 6.0.20 - http://download.cordaware.com/support/v6/web/6020/best_web.exe
+> Current best_web.exe 6.0.21 - http://download.cordaware.com/support/v6/web/6021/best_web.exe
 
 
 EN: Webinterface for bestinformed Version 6 can be downloaded here:
@@ -11,6 +11,22 @@ DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 
 http://download.cordaware.com/support/v6/web/
 
+------------------
+-Changelog best_web 6.0.21 (27.10.2016)
+
+Channel:
+* Optimierungen für den Scripteditor
+
+Domänen:
+* Einstellungen testen zeigen weitere Fehlermeldungen
+
+Neue Info:
+* Templates versenden -> startWith wurde durch indexOf wegen Kompatibilität zu IE ersetzt
+* Doppelte Schlüssel beim Laden der Templates wurden entfernt
+
+Infoübersicht:
+* Scrollverhalten beim Laden des Stores verbessert
+                         
 ------------------
 
 -Changelog best_web 6.0.20 (26.10.2016)
