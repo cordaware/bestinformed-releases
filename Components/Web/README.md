@@ -1,6 +1,6 @@
 # best_web.exe Version´s
 
-> Current best_web.exe 6.0.22 - http://download.cordaware.com/support/v6/web/6022/best_web.exe
+> Current best_web.exe 6.0.23 - http://download.cordaware.com/support/v6/web/6023/best_web.exe
 
 
 EN: Webinterface for bestinformed Version 6 can be downloaded here:
@@ -10,6 +10,14 @@ http://download.cordaware.com/support/v6/web/
 DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 
 http://download.cordaware.com/support/v6/web/
+
+
+------------------
+-Changelog best_web 6.0.23 (28.10.2016)
+* Dashboard Laden optimiert
+* neue Hilfe-Version 6.0.23
+* Guardians: Upload der Archive wurde verbessert
+* Channels: Programmiersprache immer Pascal
 
 ------------------
 -Changelog best_web 6.0.22 (28.10.2016)
