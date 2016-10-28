@@ -1,6 +1,6 @@
 # best_web.exe Version´s
 
-> Current best_web.exe 6.0.21 - http://download.cordaware.com/support/v6/web/6021/best_web.exe
+> Current best_web.exe 6.0.22 - http://download.cordaware.com/support/v6/web/6022/best_web.exe
 
 
 EN: Webinterface for bestinformed Version 6 can be downloaded here:
@@ -10,6 +10,31 @@ http://download.cordaware.com/support/v6/web/
 DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 
 http://download.cordaware.com/support/v6/web/
+
+------------------
+-Changelog best_web 6.0.22 (28.10.2016)
+                
+* Das Dashboard wird anhand vorhandener Rechte erstellt / bei keinem Ergebnis erscheint das bestinformed Logo                
+* Erlang Sandbox unterstützt für Erlang Scriptfilter das Module best_script
+* Domäne: weitere Fehlermeldungen beim Verbindungsaufbau (Einstellungen testen)
+* Infofelder: Formular geändert, Verbesserungen beim Speichern & Editieren
+* Sprachwechsel innerhalb der Weboberfläche geändert (Parameter in der URL)
+* Geänderter Installer für best_web.exe (korrigierte vm.args), etc\infoserver.ini und etc\ssl\* werden bei der Deinstallation nicht gelöscht
+
+Infoeditor:
+* Infofelder konnten mehrfach hinzugefügt werden
+* Periode -> Bei Zahlenfeldern ist die Eingabe einer 0 nicht mehr möglich
+* Periode -> Leere Fehlermeldung bei der Zeitüberschreitung der Anforderung verbessert
+* Zeitberechnung beim Erstellen der Info mit einer numerischen Beginn/Endzeit verbessert
+ 
+StatusInfo/Neue Info:
+* Contentverwaltung -> Workaround für IE11 auf Windows 10 eingebaut
+ 
+EasyIE:
+* Leere Info konnte zum Versand freigegeben werden
+                
+- Umfragen: Draw2d Optimierungen beim Wechsel des Benutzers
+- Umfragen: Fixed: Prozentanzeige bei Gruppenumfrage geändert, wenn eine Umfrage ohne Fragen erstellt wurde
 
 ------------------
 -Changelog best_web 6.0.21 (27.10.2016)
