@@ -13,6 +13,14 @@ http://download.cordaware.com/support/v6/web/
 
 
 ------------------
+-Changelog best_web 6.0.24 (03.11.2016)
+
+* Scripteditor: Tooltip für Script in der Tabelle
+* Umfragen: Sprache korrigiert für Englisch
+* Umfragen: Benachrichtigung geändert zum Auslesen der E-Mail Adressen
+* Filter: Regulärer Ausdruck hinzugefügt als Filter Operator
+
+------------------
 -Changelog best_web 6.0.23 (28.10.2016)
 * Dashboard Laden optimiert
 * neue Hilfe-Version 6.0.23
