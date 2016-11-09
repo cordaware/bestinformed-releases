@@ -1,6 +1,6 @@
 # best_web.exe Version´s
 
-> Current best_web.exe 6.0.23 - http://download.cordaware.com/support/v6/web/6023/best_web.exe
+> Current best_web.exe 6.0.25 - http://download.cordaware.com/support/v6/web/6025/best_web.exe
 
 
 EN: Webinterface for bestinformed Version 6 can be downloaded here:
@@ -11,6 +11,40 @@ DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 
 http://download.cordaware.com/support/v6/web/
 
+------------------
+-Changelog best_web 6.0.25 (09.11.2016)
+
+Font Awesome:
+* Neue Version -> 4.7
+ 
+Clients -> Konfiguration:
+* Verbesserung des Scrollverhaltens
+* Optimierung des Empfänger-Tabs
+ 
+Neue Info:
+* Layoutanpassungen bei Schaltflächen
+* Entwarnungs-ID kann jetzt verwendet werden
+* Guardians -> Neue Elemente wurden nicht in der Auswahlbox synchronisiert
+* Template laden ->Beschreibung wurde nicht in das Formular geladen
+ 
+Templates:
+* Löschen des Templates optimiert
+* Workflow -> Template editieren und Template laden sind jetzt 2 getrennte Funktionen
+ 
+EasyIE:
+* Templategruppen implementiert
+ 
+Concierge:
+* App-Icon eingebaut
+
+Allgemein:
+* Auswahlfeldern erfodern bei bestimmten App´s eine Auswahl (keine manuelle Eingabe möglich)
+
+Gruppenmanager:
+* Erlang Funktion verbessert beim Importieren von Gruppen/Benutzer und co.
+
+Channels:
+* Verwendet immer Pascal Scripte (aktuell noch kein Erlang Script möglich)
 
 ------------------
 -Changelog best_web 6.0.24 (03.11.2016)
