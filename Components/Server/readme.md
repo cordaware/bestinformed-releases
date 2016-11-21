@@ -14,3 +14,4 @@
 6.0.18 doc_type, advanced bots
 6.0.19 bot answer, info background
 6.0.20 fixed sendmessage to bot
+6.0.21 new installer
