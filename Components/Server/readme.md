@@ -15,3 +15,4 @@
 6.0.19 bot answer, info background
 6.0.20 fixed sendmessage to bot
 6.0.21 new installer
+6.0.22 Fixed KeepAlive
