@@ -12,13 +12,20 @@ DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 http://download.cordaware.com/support/v6/web/
 
 ------------------
+-Changelog best_web 6.0.27 (24.11.2016) - NOT FOR PUBLIC
+
+* weitere Tooltip Konfiguration (benutzerdefiniert) über das Serverboard einstellbar
+* Umfragen: Prüfung auf 100% / Bestätigen und Zurückweisen bietet die Möglichkeit zur Angabe eines Kommentars
+* Umfragen: werden Umfragen über die Schaltfläche (Schließen und Benachrichtigen) geschlossen - so befindet sich anschließend die Umfrage aktuell in Prüfung, wenn ein Benutzer die Umfrage erneut öffnen möchte
+
+------------------
 -Changelog best_web 6.0.26 (15.11.2016)
 
-- Standardmäßiges ADMIN-Passwort und für die M2I-Schnittstelle: bestinformed
-- Neue Statistik für die durchschnittliche Anzahl der Clientverbindungen in den letzten 7 Tagen
-- Neue Rechte für Umfragen in den Rollen (Benachrichtigungen für Umfragen erlauben, Anzeige der Gruppenumfragen, Ansicht für Umfragen / Initiierte Umfragen / Gruppenumfragen anhand der Anmeldegruppen-/filter einschränken)
-- Geänderte Auswertung bei Anzeige der Umfrage Ergebnisse für Compliance Umfragen
-- Hilfe für Deutsch / Englisch aktualisiert
+* Standardmäßiges ADMIN-Passwort und für die M2I-Schnittstelle: bestinformed
+* Neue Statistik für die durchschnittliche Anzahl der Clientverbindungen in den letzten 7 Tagen
+* Neue Rechte für Umfragen in den Rollen (Benachrichtigungen für Umfragen erlauben, Anzeige der Gruppenumfragen, Ansicht für Umfragen / Initiierte Umfragen / Gruppenumfragen anhand der Anmeldegruppen-/filter einschränken)
+* Geänderte Auswertung bei Anzeige der Umfrage Ergebnisse für Compliance Umfragen
+* Hilfe für Deutsch / Englisch aktualisiert
 
 ------------------
 -Changelog best_web 6.0.25 (09.11.2016)
