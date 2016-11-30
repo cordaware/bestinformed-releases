@@ -17,3 +17,4 @@
 6.0.21 new installer
 6.0.22 Fixed KeepAlive
 6.0.23 Fixed Telegram Bot save
+6.0.24 Allowed to use big infos
