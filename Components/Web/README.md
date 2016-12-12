@@ -1,6 +1,6 @@
 # best_web.exe Version´s
 
-> Current best_web.exe 6.0.26 - http://download.cordaware.com/support/v6/web/6026/best_web.exe
+> Current best_web.exe 6.0.28 - http://download.cordaware.com/support/v6/web/6028/best_web.exe
 
 
 EN: Webinterface for bestinformed Version 6 can be downloaded here:
@@ -10,6 +10,12 @@ http://download.cordaware.com/support/v6/web/
 DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 
 http://download.cordaware.com/support/v6/web/
+
+------------------
+- Changelog best_web 6.0.28 (12.12.2016)
+* Neuer Infoeditor
+* Templates exportieren / importieren
+* uvm.
 
 ------------------
 -Changelog best_web 6.0.27 (24.11.2016) - NOT FOR PUBLIC
