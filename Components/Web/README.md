@@ -1,11 +1,9 @@
 # best_web.exe Version´s
 
-> Current All-In One Installer - http://download.cordaware.com/support/v6/all/6001/bestinformed.exe
+> Current best_web.exe 6.0.30 (no CouchDB) - http://download.cordaware.com/support/v6/web/6030/best_web.exe
 
-> Current best_web.exe 6.0.28 (no CouchDB) - http://download.cordaware.com/support/v6/web/6028/best_web.exe
-
-All-In One Installer:
-http://download.cordaware.com/support/v6/all/
+All-In One Installer (Version 6.0.0.2 - 20.12.2016)
+http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
 
 EN: Webinterface for bestinformed Version 6 can be downloaded here:
