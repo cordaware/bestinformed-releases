@@ -17,6 +17,16 @@ DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 http://download.cordaware.com/support/v6/web/
 
 ------------------
+- Changelog best_web 6.0.30 (20.12.2016)
+* Hilfedateien (deutsch & englisch)
+* Lizenz: Compliance hinzugefügt
+
+------------------
+- Changelog best_web 6.0.29 (15.12.2016)
+* Infoeditor Optimierungen
+* Client-Konfiguration
+
+------------------
 - Changelog best_web 6.0.28 (12.12.2016)
 * Neuer Infoeditor
 * Templates exportieren / importieren
