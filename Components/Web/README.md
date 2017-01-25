@@ -14,6 +14,18 @@ DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 
 http://download.cordaware.com/support/v6/web/
 
+
+------------------
+- Changelog best_web 6.0.32 (25.01.2017)
+* Fixed: M2I mit @@
+* Geändert: Klickverhalten zum Einfügen von Bildern im Infoeditor / StatusInfodetails
+* Sprachwechsel behoben
+* Fixed: Autoupdate Checkbox als Boolean in System(global)
+* Neu: Lizenzhinweis wenn keine gültige Lizenz gefunden wurde (erscheint als angemeldeter admin nur)
+* Fixed: Duplicate Message wenn Datenbank nicht mehr erreichbar
+* Anzeige des best_srv Host in der aktuellen Verbindungsübersicht + Historie
+
+
 ------------------
 - Changelog best_web 6.0.31 (23.01.2017)
 * Autoupdate
