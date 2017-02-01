@@ -14,6 +14,17 @@ DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 
 http://download.cordaware.com/support/v6/web/
 
+------------------
+Changelog best_web 6.0.33 (01.02.2017)
+* Guardians: Aktion entfernt - Prozess ausführen
+* Filter, Gruppen, Gruppierungen - Neuer Typ „Script“
+* Neue App: Knopfdruck
+* StatusInfo Name kein _ erlaubt
+* Fixed: bi_backup from database_dir
+* Fixed: Info kopieren, wenn diese aus dem Easy Infoeditor erstellt worden ist
+* Fixed: Overflow in der Infoübersicht (z. B. bei großen Texten)
+* Fixed: Easy Infoeditor - Erweiterte Ansicht
+* Fixed: Enable Info als angemeldete Rolle
 
 ------------------
 - Changelog best_web 6.0.32 (25.01.2017)
