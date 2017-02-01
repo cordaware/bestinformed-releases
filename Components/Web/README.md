@@ -14,6 +14,35 @@ DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 
 http://download.cordaware.com/support/v6/web/
 
+
+------------------
+- Changelog best_web 6.0.32 (25.01.2017)
+* Fixed: M2I mit @@
+* Geändert: Klickverhalten zum Einfügen von Bildern im Infoeditor / StatusInfodetails
+* Sprachwechsel behoben
+* Fixed: Autoupdate Checkbox als Boolean in System(global)
+* Neu: Lizenzhinweis wenn keine gültige Lizenz gefunden wurde (erscheint als angemeldeter admin nur)
+* Fixed: Duplicate Message wenn Datenbank nicht mehr erreichbar
+* Anzeige des best_srv Host in der aktuellen Verbindungsübersicht + Historie
+
+
+------------------
+- Changelog best_web 6.0.31 (23.01.2017)
+* Autoupdate
+* StatusInfo: Statusdetails geändert
+* Infoeditor: Fixed App Wechsel zu Guardian und Channel über die Plus Schaltfläche
+* Client-Konfiguration: Address and Port ist nicht mehr emptyText und für weitere Felder wurde es ebenfalls geändert
+* Infohistorie: Anzeige der Empfänger + Aufruf der Empfänger
+* Guardians können aus der App als neue Info direkt verschickt werden
+* Fixed: Statistik App HDD Speicherbelegung (Frei / Genutzt war vertauscht)
+* Neu: Replikation App
+* Infofelder werden jetzt im Infoeditor angezeigt
+* Fixed: Dashboard Layout bei Fenstergröße ändern
+* Geändert: StatusInfo Details (Felder für Channel, Typ)
+* best_script: member_of_filegroup
+* Suche und Sortierungen in der Empfangsübersicht für gesendete, empfangene Infos + Response
+* Guardians: Neue Option beim Erstellen: Info anzeigen für Fenster / Prozesse
+
 ------------------
 - Changelog best_web 6.0.30 (20.12.2016)
 * Hilfedateien (deutsch & englisch)
