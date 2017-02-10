@@ -31,6 +31,7 @@ Changelog 6.0.34 (10.02.2017)
 * Fixed: Vererbung bei Rollen Ressourcen: Templategruppen, Szenarien, Guardians
 * Fixed: Darstellung von vererbten Szenarien
 * Neu: MinAlarmSendTo, MaxAlarmLoop, MinAlarmSendToTime in System(global)
+* Neu: Erlang OTP 19.2
 
 
 ------------------
