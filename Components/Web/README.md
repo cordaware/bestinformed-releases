@@ -15,6 +15,25 @@ DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 http://download.cordaware.com/support/v6/web/
 
 ------------------
+Changelog 6.0.34 (10.02.2017)
+* System(global) - TsHaltGroup, SafetyGroup, DemandGroup Auswahl von Filter/Gruppen vom Typ Script nur
+* Neues Dokument  bi-info_default : Stellt für die Felder einer Info die Datentypen dar (nur für internen Gebrauch…)
+* Neues Dokument  bi-template_default : Template als Standard für den Ursprung jeder neuen Info, dieses Template "default" kann nicht vom ADMIN gelöscht worden und auch nur vom ADMIN angepasst werden.
+* StatusInfo Gruppen: Nur Infoclient, Script, Info2Mail als Gruppen/ Filter Typ möglich
+* M2I Ansicht
+* Fixed: Infoeditor Hintergrundfarbe laden aus Template
+* Replikations App entfernt
+* Neue App: Cluster & Task
+* Umbenannt im Infoeditor Guardians -> Guardian
+* StatusInfo: StatusQuo Spalte zeigt jetzt „Bitte hier klicken, um den Status Quo zu ändern“
+* Fixed: Optimierungen zum Info editieren, Info aus Template erzeugen, Info kopieren etc
+* Fixed: Szenarien Formular Boolean Werte
+* Fixed: Vererbung bei Rollen Ressourcen: Templategruppen, Szenarien, Guardians
+* Fixed: Darstellung von vererbten Szenarien
+* Neu: MinAlarmSendTo, MaxAlarmLoop, MinAlarmSendToTime in System(global)
+
+
+------------------
 Changelog best_web 6.0.33 (01.02.2017)
 * Guardians: Aktion entfernt - Prozess ausführen
 * Filter, Gruppen, Gruppierungen - Neuer Typ „Script“
