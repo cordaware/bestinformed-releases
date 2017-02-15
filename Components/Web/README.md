@@ -1,8 +1,5 @@
 # best_web.exe Version´s
 
-> Current best_web.exe 6.0.30 (no CouchDB) - http://download.cordaware.com/support/v6/web/6030/best_web.exe
-
-All-In One Installer (Version 6.0.0.2 - 20.12.2016)
 http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
 
@@ -13,6 +10,24 @@ http://download.cordaware.com/support/v6/web/
 DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 
 http://download.cordaware.com/support/v6/web/
+
+
+------------------
+Changelog 6.0.35 (15.02.2017)
+* Geändert: Guardians - Ziel ist jetzt ein Pflichtfeld
+* Fixed: Guardians - Bei Fenstertitel schließen und sperren keine Zeitangabe möglich
+* Fixed: Guardians - Checkbox Info Anzeigen
+* Fixed: Szenarien und ScriptVar Werte beim Speichern
+* Fixed: ScriptVar internal matching regular expression
+* Fixed: ScriptVar Reihenfolge beim Auslesen berücksichtigen
+* Fixed: Inifile mit QuickUsers
+* Geändert: Intern M2I Schnittstelle anhand bi-info_default angepasst (nur für internen Gebrauch…)
+* Fixed: Infoeditor Guardians Aufklappen der Auswahlliste mit einem Klick
+* Neu: Benutzereinstellungen - Standardtemplate
+* Geändert: Quickuser Eingabe bei einer Neuen Info + Client-Konfiguration setzt jetzt bei Benutzername ein *, wenn entweder nur Computername, IP-Adresse oder Domäne angegeben wird
+* Neu: Rechte in Rollen für Guardians entfernt für Software + Archive hochladen
+* Interne Änderungen bi-info_default, bi-template_default - Anpassungen der Models für Info und co.
+* Neu: Anzeige von Popup: IE benutzen in den Infodetails zu einer Info
 
 ------------------
 Changelog 6.0.34 (10.02.2017)
