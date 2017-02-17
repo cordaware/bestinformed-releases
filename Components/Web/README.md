@@ -11,6 +11,20 @@ DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 
 http://download.cordaware.com/support/v6/web/
 
+------------------
+Changelog 6.0.36 (17.02.2017)
+* Fixed: Infoeditor zurücksetzen, wenn kein Standardtemplate gesetzt ist
+* Fixed: Refresh Stores Dashboard, Standardtemplate, Templategruppen, Templates, Gruppen für EasyIE
+* Geändert: Reihenfolge ScriptVars bei Szenarien
+* Geändert: Verbindungsübersicht - Toolbar die Option Suche entfernt
+* Geändert: Empfangsübersicht - Toolbar die Option Suche entfernt
+* Intern: Verwaltung der aktuellen Verbindungsübersicht zum best_srv verbessert
+* Fixed: Rolle - Ressourcen Haken bei Guardians (dynamisch - alle)
+* Geändert: Vergabe von Rollen Ressourcen bei Rollen aktuell nicht notwendig - entfernt
+* Neu: Anzeige der vererbten Guardians im Rollen Baum als Ressource
+* Geändert: Rolle - Guardians Tagfield - Anzeige der Typen
+* Fixed: Einstellung fulllogin im Serverboard
+* Neu: Reboot des Webservers im Serverboard möglich
 
 ------------------
 Changelog 6.0.35 (15.02.2017)
