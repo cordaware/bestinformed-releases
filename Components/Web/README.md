@@ -12,6 +12,16 @@ DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
 http://download.cordaware.com/support/v6/web/
 
 ------------------
+Changelog 6.0.37 (22.02.2017)
+* Fixed: Empfangsübersicht sortieren nach Empfangen am
+* Neu: Infoeditor - IniFile - Speichern von Beginn / Ende als UTC
+* Neu: Hinweismeldung im Infoeditor wenn Aktivzeit oder Beginn / Ende falsch sind
+* M2I Schnittstelle mit begin,end oder begindate,enddate,begintime,endtime
+* Autoupdate - Anzeige der durchgeführten Autoupdates
+* Fixed: Templategruppen, Templates Auswahlliste im Dashboard und Infoeditor
+* Optimierungen Infoeditor - Template laden / Standardtemplate / Zurücksetzen des Editors
+
+------------------
 Changelog 6.0.36 (17.02.2017)
 * Fixed: Infoeditor zurücksetzen, wenn kein Standardtemplate gesetzt ist
 * Fixed: Refresh Stores Dashboard, Standardtemplate, Templategruppen, Templates, Gruppen für EasyIE
