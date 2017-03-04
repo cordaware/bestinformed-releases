@@ -1,19 +1,81 @@
 # best_web.exe Version´s
 
-> Current best_web.exe 6.0.30 (no CouchDB) - http://download.cordaware.com/support/v6/web/6030/best_web.exe
-
-All-In One Installer (Version 6.0.0.2 - 20.12.2016)
+All-In-One Download:
 http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
+------------------
+Changelog 6.0.37 (22.02.2017)
+* Fixed: Empfangsübersicht sortieren nach Empfangen am
+* Neu: Infoeditor - IniFile - Speichern von Beginn / Ende als UTC
+* Neu: Hinweismeldung im Infoeditor wenn Aktivzeit oder Beginn / Ende falsch sind
+* M2I Schnittstelle mit begin,end oder begindate,enddate,begintime,endtime
+* Autoupdate - Anzeige der durchgeführten Autoupdates
+* Fixed: Templategruppen, Templates Auswahlliste im Dashboard und Infoeditor
+* Optimierungen Infoeditor - Template laden / Standardtemplate / Zurücksetzen des Editors
 
-EN: Webinterface for bestinformed Version 6 can be downloaded here:
+------------------
+Changelog 6.0.36 (17.02.2017)
+* Fixed: Infoeditor zurücksetzen, wenn kein Standardtemplate gesetzt ist
+* Fixed: Refresh Stores Dashboard, Standardtemplate, Templategruppen, Templates, Gruppen für EasyIE
+* Geändert: Reihenfolge ScriptVars bei Szenarien
+* Geändert: Verbindungsübersicht - Toolbar die Option Suche entfernt
+* Geändert: Empfangsübersicht - Toolbar die Option Suche entfernt
+* Intern: Verwaltung der aktuellen Verbindungsübersicht zum best_srv verbessert
+* Fixed: Rolle - Ressourcen Haken bei Guardians (dynamisch - alle)
+* Geändert: Vergabe von Rollen Ressourcen bei Rollen aktuell nicht notwendig - entfernt
+* Neu: Anzeige der vererbten Guardians im Rollen Baum als Ressource
+* Geändert: Rolle - Guardians Tagfield - Anzeige der Typen
+* Fixed: Einstellung fulllogin im Serverboard
+* Neu: Reboot des Webservers im Serverboard möglich
 
-http://download.cordaware.com/support/v6/web/
+------------------
+Changelog 6.0.35 (15.02.2017)
+* Geändert: Guardians - Ziel ist jetzt ein Pflichtfeld
+* Fixed: Guardians - Bei Fenstertitel schließen und sperren keine Zeitangabe möglich
+* Fixed: Guardians - Checkbox Info Anzeigen
+* Fixed: Szenarien und ScriptVar Werte beim Speichern
+* Fixed: ScriptVar internal matching regular expression
+* Fixed: ScriptVar Reihenfolge beim Auslesen berücksichtigen
+* Fixed: Inifile mit QuickUsers
+* Geändert: Intern M2I Schnittstelle anhand bi-info_default angepasst (nur für internen Gebrauch…)
+* Fixed: Infoeditor Guardians Aufklappen der Auswahlliste mit einem Klick
+* Neu: Benutzereinstellungen - Standardtemplate
+* Geändert: Quickuser Eingabe bei einer Neuen Info + Client-Konfiguration setzt jetzt bei Benutzername ein *, wenn entweder nur Computername, IP-Adresse oder Domäne angegeben wird
+* Neu: Rechte in Rollen für Guardians entfernt für Software + Archive hochladen
+* Interne Änderungen bi-info_default, bi-template_default - Anpassungen der Models für Info und co.
+* Neu: Anzeige von Popup: IE benutzen in den Infodetails zu einer Info
 
-DE: Weboberfläche zu bestinformed Version 6 hier herunterladen:
+------------------
+Changelog 6.0.34 (10.02.2017)
+* System(global) - TsHaltGroup, SafetyGroup, DemandGroup Auswahl von Filter/Gruppen vom Typ Script nur
+* Neues Dokument  bi-info_default : Stellt für die Felder einer Info die Datentypen dar (nur für internen Gebrauch…)
+* Neues Dokument  bi-template_default : Template als Standard für den Ursprung jeder neuen Info, dieses Template "default" kann nicht vom ADMIN gelöscht worden und auch nur vom ADMIN angepasst werden.
+* StatusInfo Gruppen: Nur Infoclient, Script, Info2Mail als Gruppen/ Filter Typ möglich
+* M2I Ansicht
+* Fixed: Infoeditor Hintergrundfarbe laden aus Template
+* Replikations App entfernt
+* Neue App: Cluster & Task
+* Umbenannt im Infoeditor Guardians -> Guardian
+* StatusInfo: StatusQuo Spalte zeigt jetzt „Bitte hier klicken, um den Status Quo zu ändern“
+* Fixed: Optimierungen zum Info editieren, Info aus Template erzeugen, Info kopieren etc
+* Fixed: Szenarien Formular Boolean Werte
+* Fixed: Vererbung bei Rollen Ressourcen: Templategruppen, Szenarien, Guardians
+* Fixed: Darstellung von vererbten Szenarien
+* Neu: MinAlarmSendTo, MaxAlarmLoop, MinAlarmSendToTime in System(global)
+* Neu: Erlang OTP 19.2
 
-http://download.cordaware.com/support/v6/web/
 
+------------------
+Changelog best_web 6.0.33 (01.02.2017)
+* Guardians: Aktion entfernt - Prozess ausführen
+* Filter, Gruppen, Gruppierungen - Neuer Typ „Script“
+* Neue App: Knopfdruck
+* StatusInfo Name kein _ erlaubt
+* Fixed: bi_backup from database_dir
+* Fixed: Info kopieren, wenn diese aus dem Easy Infoeditor erstellt worden ist
+* Fixed: Overflow in der Infoübersicht (z. B. bei großen Texten)
+* Fixed: Easy Infoeditor - Erweiterte Ansicht
+* Fixed: Enable Info als angemeldete Rolle
 
 ------------------
 - Changelog best_web 6.0.32 (25.01.2017)
