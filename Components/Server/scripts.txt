@@ -1,0 +1,18 @@
+% alarm infogroup
+best_script:setinfotext([{<<"info_0">>,<<"Mein Info Text neu">>}]),
+
+% safetygroup
+main(Doc) ->
+ ID = best_script:info_id(),
+ Info = best_script:info(),
+ User = best_script:info_username(),
+ L    = [{<<"Templatename">>,<<"Sicherheitstemplate">>},
+         {<<"@ID">>,ID},
+         {<<"@Info">>,Info},
+         {<<"@User">>,User}],
+  best_script:createinfo(L),
+  {true,Doc}.
+
+main(Doc) ->
+  best_script:enableinfo(best_script:info_id()),
+  {true,Doc}.
