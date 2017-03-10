@@ -4,6 +4,13 @@ All-In-One Download:
 http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
 
+------------------
+Changelog 6.0.39 (10.03.2017)
+* Fixed: Cluster Manager
+* Geändert: Empfangsübersicht - Spalte Host
+* Task App: Spaltenbreite optimiert, Tooltips, Darstellung eines Cluster Status
+
+------------------
 Changelog 6.0.38 (09.03.2017)
 * Geändert: System(global) - TsHaltGroup nur Filter/Gruppen vom Typ Infoclient erlaubt
 * Neu: Vorschau Periode zu einer Info
