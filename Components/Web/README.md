@@ -3,6 +3,28 @@
 All-In-One Download:
 http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
+
+Changelog 6.0.38 (09.03.2017)
+* Geändert: System(global) - TsHaltGroup nur Filter/Gruppen vom Typ Infoclient erlaubt
+* Neu: Vorschau Periode zu einer Info
+* Templates Funktionalität für Clients -> Konfiguration
+* Fixed / Implementiert: Textdatei App mit HTML Quellcode oder weiterem Inhalt möglich als Inhalt.
+* Geändertes Verhalten in Template App - Editieren eines Templates öffnet entweder den Infoeditor oder die Client-Konfiguration
+* Neue Spalte in der Template App „Typ“ zeigt Info oder Konfiguration an
+* Internal only: Sprachbausteine in bi-lang_7 (deutsch), bi-lang_9 (englisch) docs in der Datenbank
+* Neue Script Operatoren für den Filter (script.is_alarm, script.is_allclear etc).
+* Fixed: Setzen der korrekten Webseitensprache bei Session Timeout
+* Hinweis geändert im Infoeditor: Kein Infotext für Alle Sprachen definiert
+* Fixed: Checkbox „Alle Rollen“ bei Profile App
+* Fixed: StatusInfo Bild vom Infoserver einfügen
+* Rechtschreibung korrigiert Infoeditor -> Bitte wählen Sie hier die gewünschten Gruppierungen aus
+* Korrigiert M2i Ansicht für username=admin
+* Infoeditor: Generell alles mit LDAP-Gruppen verbessert
+* Neu: LDAP-Gruppen per MailToInfo ansprechen
+* Geänderte Darstellung in der Task App
+* Cluster App: Weitere Optionen hinzugefügt für Datenbank
+* Beta: Migrationsassistent Version 5 -> Version 6
+
 ------------------
 Changelog 6.0.37 (22.02.2017)
 * Fixed: Empfangsübersicht sortieren nach Empfangen am
