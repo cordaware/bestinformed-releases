@@ -3,6 +3,19 @@
 All-In-One Download:
 http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
+------------------
+Changelog 6.0.40 (14.03.2017)
+* Fixed: Quickusers in der IniFile-App
+* Neu: Anzeige des Lizenzstatus im Browsertitel
+* Fixed: Dashboard Laden der Templates,Templategruppen,Gruppen für den Easy Infoeditor beim Anmelden eines Benutzers
+* Fixed: Beim Entwarnen einer Info werden die QuickUsers entfernt
+* Fixed: Easy IE Infoeditor - Infos senden
+* Fixed: Cluster Manager beim Editieren
+* (INTERNAL ONLY) - Fixed: erlang code:is_loaded()
+* (INTERNAL ONLY) - Optimize doc_vsn in CouchDB Documents for Cluster - Update only when current VNS is newer
+* (INTERNAL ONLY) - Fixed: Infos erstellen mit best_srv Version 6.0.33
+* NEU: best_data Version 6.1.6.3 mit CouchDB Secret
+* NEU: Erlang Dienst geändert für Mnesia Datenbank für Erlang best_web@127.0.0.1
 
 ------------------
 Changelog 6.0.39 (10.03.2017)
