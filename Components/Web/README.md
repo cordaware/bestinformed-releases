@@ -15,7 +15,7 @@ Changelog 6.0.40 (14.03.2017)
 * (INTERNAL ONLY) - Optimize doc_vsn in CouchDB Documents for Cluster - Update only when current VNS is newer
 * (INTERNAL ONLY) - Fixed: Infos erstellen mit best_srv Version 6.0.33
 * NEU: best_data Version 6.1.6.3 mit CouchDB Secret
-* NEU: Erlang Dienst geändert für Mnesia Datenbank für Erlang best_web@127.0.0.1
+* NEU: Erlang Dienst geändert für Mnesia Datenbank für Erlang best_web@127.0.0.1 - Ordner in data\mnesia\best_web@127.0.0.1
 
 ------------------
 Changelog 6.0.39 (10.03.2017)
