@@ -21,3 +21,4 @@
 6.0.25 %%ID%%, %%MYID%%
 6.0.26 Fixed Channels, Alarm Template Only
 6.0.32 Almost all implemented! Beta+
+6.0.33 Ini and co
