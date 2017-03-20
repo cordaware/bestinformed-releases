@@ -3,6 +3,15 @@
 All-In-One Download:
 http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
+
+------------------
+Changelog 6.0.41 (20.03.2017)
+* Geändert: Cluster App -  „Bitte das Secret eintragen"
+* Geändert: Domänen App - RAM-Speichernutzung/Domain Handlers als Felder versteckt
+* Geändert: Infoeditor -> Schaltfläche geändert „ScriptVars ersetzen und weiter zur Vorschau“
+* Neu - ScriptVars - für die Typen Datum oder Zeit kann ein Format gesetzt werden z. B. d.m.Y für Datum oder H:i:s für Zeit
+* Geändertes Verhalten: Im Dashboard oder Infoeditor kann in der Templategruppen / Templates Auswahlliste gesucht werden.
+
 ------------------
 Changelog 6.0.40 (14.03.2017)
 * Fixed: Quickusers in der IniFile-App
