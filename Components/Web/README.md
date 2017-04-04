@@ -3,6 +3,19 @@
 All-In-One Download:
 http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
+------------------
+Changelog 6.0.42 (04.04.2017)
+* Fixed: Vererbte Gruppierungen als Ressourcen im Infoeditor
+* Neu: ScriptVars als Mehrfachauswahl
+* Neu: ScriptVars „Liste alphabetisch sortieren lassen“ möglich für die Typen Einzelauswahl und Mehrfachauswahl
+* Geändert: Policies in der Navigation wurde umbenannt zu Team
+* Geändert: Textdateien mit Typ „filegroup“ oder „text“
+* Geändert: Cluster Typ Server -> umbenannt zu Infoserver
+* Geändert: Hilfe Datei öffnen
+* Geändert: Guardians Fenstertitel nur Aktionen möglich: „Nur Benachrichtigung“, „Fenster schließen“, „Fenster schließen und Prozess anhalten“
+* Fixed: Synchronisation des Infoeditor wenn immer das gleiche Template nacheinander geladen wird
+* Neu: Standard Content-Inhalte (Sounds, Images, Icons)
+* Neu: Migration von Gruppen aus Version 5 nach Version 6 (aktuell nur Benutzername, Computername, IP-Adresse, MemberOFNTGroup, MemberOFNTComputerGroup)
 
 ------------------
 Changelog 6.0.41 (20.03.2017)
