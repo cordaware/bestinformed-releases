@@ -14,6 +14,7 @@ Changelog 6.0.42 (04.04.2017)
 * Geändert: Hilfe Datei öffnen
 * Geändert: Guardians Fenstertitel nur Aktionen möglich: „Nur Benachrichtigung“, „Fenster schließen“, „Fenster schließen und Prozess anhalten“
 * Fixed: Synchronisation des Infoeditor wenn immer das gleiche Template nacheinander geladen wird
+* Fixed: Statistik App auf Touchscreen-Monitore
 * Neu: Standard Content-Inhalte (Sounds, Images, Icons)
 * Neu: Migration von Gruppen aus Version 5 nach Version 6 (aktuell nur Benutzername, Computername, IP-Adresse, MemberOFNTGroup, MemberOFNTComputerGroup)
 
