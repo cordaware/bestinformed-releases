@@ -19,6 +19,15 @@ Changelog 6.0.42 (04.04.2017)
 * Neu: Standard Content-Inhalte (Sounds, Images, Icons)
 * Neu: Migration von Gruppen aus Version 5 nach Version 6 (aktuell nur Benutzername, Computername, IP-Adresse, MemberOFNTGroup, MemberOFNTComputerGroup)
 
+Fixed Gruppenmanager:
+* Import von kompletten Gruppen aus der Domäne (z. B. alle OUs)
+* Typ Script wird jetzt angezeigt
+* Anzeige der einzelnen Typen für die Filter im Baum
+* Beim Ändern des Gruppen-Typ wird nun eine Warnmeldung angezeigt und danach bei Änderung die zugewiesenen Filter verworfen
+* Filter und Gruppen vom Typ Logon können erstellt werden
+* Bei Import von AD Gruppen in eine vorhandene Infoserver Gruppe werden die Filter mit dem jeweiligen Typ der Gruppe erstellt
+* Die Anzahl der aktuell vorhandenen Gruppen im Infoserver wird nun angezeigt
+
 ------------------
 Changelog 6.0.41 (20.03.2017)
 * Geändert: Cluster App -  „Bitte das Secret eintragen"
