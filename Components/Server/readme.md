@@ -21,4 +21,6 @@
 6.0.25 %%ID%%, %%MYID%%
 6.0.26 Fixed Channels, Alarm Template Only
 6.0.32 Almost all implemented! Beta+
-6.0.33 Ini and co
+6.0.33 Installer with inf 
+6.0.34 Background Color Popup and Ticker, erl 19.3
+6.0.35 PopupPosition, Redirect Config to only the first one, MemberOfFileGroup(not tested)
