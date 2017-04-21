@@ -7,7 +7,7 @@ http://download.cordaware.com/support/v6/latest/bestinformed.exe
 Changelog 6.0.43 (21.04.2017)
 * Neu: Anzeige des Hostname im Browsertitel (änderbar in der Sektion best_web unter hostname=SERVER123 im Serverboard)
 * Fixed: Verbindungsübersicht der Clientverbindungen
-* Fixed: Anzeige der Empfangsübersicht nur Verbindungsübersicht erlaubt ist
+* Fixed: Anzeige der Empfangsübersicht nur wenn die Verbindungsübersicht erlaubt ist
 * Fixed: DICV Generator in der IniFile App
 * Fixed: DICV Type Stores in der IniFile App
 * Neu: Statistik App ist jetzt Responsive
