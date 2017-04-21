@@ -1,6 +1,15 @@
 # All-In-One Version´s
 
 ------------------
+Changelog 6.0.1.9 (21.04.2017)
+
+* includes best_srv 6.0.35
+* includes best_web 6.0.43
+* includes infoclient 6.0.4.0
+* includes best_data 6.1.6.3
+* includes Cordaware5to6 1.0.2.0
+
+------------------
 Changelog 6.0.1.8 (04.04.2017)
 
 * includes best_srv 6.0.34

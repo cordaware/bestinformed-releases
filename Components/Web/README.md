@@ -4,6 +4,24 @@ All-In-One Download:
 http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
 ------------------
+Changelog 6.0.43 (21.04.2017)
+* Neu: Anzeige des Hostname im Browsertitel (änderbar in der Sektion best_web unter hostname=SERVER123 im Serverboard)
+* Fixed: Verbindungsübersicht der Clientverbindungen
+* Fixed: Anzeige der Empfangsübersicht nur Verbindungsübersicht erlaubt ist
+* Fixed: DICV Generator in der IniFile App
+* Fixed: DICV Type Stores in der IniFile App
+* Neu: Statistik App ist jetzt Responsive
+* Geändert: Gruppenmanager - Es wird jetzt eine Fehlermeldung angezeigt, wenn Gruppen nicht importiert werden konnten. Es werden auch die Gruppennamen angezeigt, die nicht importiert werden konnten
+* Fixed: Gruppenmanager - Die Anzahl der lokalen Infoserver Gruppen wurden falsch berechnet
+* Fixed: Eingabe im Datum-Feld (Beginn/Ende) im Infoeditor (Synchronisation der Zeiten für Beginn und Ende)
+* Neu: Angabe der Position für ein Popup im Infoeditor (Standardanzeige mittig) - mittig, links (oben), links (unten), rechts (oben), rechts (unten)
+* Neu: Channel sind jetzt nach Namen sortiert
+* Neu: Cluster sind jetzt nach Namen sortiert
+* Neu: Cluster Status (Online, Offline, Waiting) - Der Status Waiting existiert nur beim Typ Datenbank, d.h. dieser Zustand tritt nur dann auf falls nicht alle 3 Datenbanken (bi_data,bi_client_info,bi_chat) nicht repliziert werden
+* Neu: Cluster bei denen der Haken im Formular auf nicht aktiv gesetzt ist, werden in der Übersichtstabelle der entsprechenden Zeile grau markiert
+* Geändert: Sicherheitsprüfung beim Template speichern für ADMIN Benutzer
+
+------------------
 Changelog 6.0.42 (04.04.2017)
 * Fixed: Vererbte Gruppierungen als Ressourcen im Infoeditor
 * Neu: ScriptVars als Mehrfachauswahl
