@@ -4,6 +4,11 @@ All-In-One Download:
 http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
 ------------------
+Changelog 6.0.44 (08.05.2017)
+* Hilfe Dateien für Deutsch / Englisch ausgetauscht
+* Geändert: Cluster "Die Secrets stimmen nicht überein"
+
+------------------
 Changelog 6.0.43 (21.04.2017)
 * Neu: Anzeige des Hostname im Browsertitel (änderbar in der Sektion best_web unter hostname=SERVER123 im Serverboard)
 * Fixed: Verbindungsübersicht der Clientverbindungen
