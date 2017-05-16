@@ -4,6 +4,18 @@ All-In-One Download:
 http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
 ------------------
+Changelog 6.0.45 (16.05.2017)
+* Neue Rechte in den Rollen für Empfangsübersicht 
+* Fixed: Anzeige der richtigen ScriptVar Ressourcen im Infoeditor
+* Geändert: Verbindungsübersicht -> Historie Schaltfläche nicht anzeigen wenn das Recht nicht gesetzt wurde
+* Neues Recht in den Rollen für den Infoeditor „Info entwarnen erlauben“
+* Geändert: Anzeige des Benutzername, Domäne in der Infoübersicht
+* Neu: Infoübersicht Schaltflächen für Infohistorie, Info/Szenario entwarnen oder Empfangsübersicht anzeigen werden ausgeblendet, wenn der Benutzer nicht das Recht hierfür hat
+* Spalten für Empfangsübersicht einschränken (Ausnahme: Gilt nicht für Response einer Info einsehen!)
+* Fixed: Rollen -> Ressourcen Mitbenutzung umbenannt von Profilebene auf Rollenebene
+* Neu: Domänen - neue Checkbox ob ein RootDSE verwendet werden soll oder nicht, um das LDAP zu lesen.
+
+------------------
 Changelog 6.0.44 (08.05.2017)
 * Hilfe Dateien für Deutsch / Englisch ausgetauscht
 * Geändert: Cluster "Die Secrets stimmen nicht überein"
