@@ -1,6 +1,16 @@
 # All-In-One Version´s
 
 ------------------
+Changelog 6.0.2.3 (01.06.2017)
+Fixed: Update with All-In-One Installer from older versions...
+
+* includes best_srv 6.0.41
+* includes best_web 6.0.46
+* includes infoclient 6.0.5.0
+* includes best_data 6.1.6.3
+* includes Cordaware5to6 1.0.2.0
+
+------------------
 Changelog 6.0.2.2 (17.05.2017)
 Fixed: Update with All-In-One Installer from older versions...
 
