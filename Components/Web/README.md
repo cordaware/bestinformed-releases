@@ -11,7 +11,7 @@ Changelog 6.0.46 (01.06.2017)
 - Neu: Gruppenmanager - Anzeige der Mitglieder als DN-Syntax im Gruppenbaum
 - Geändert: Infoeditor bei den LDAP-Gruppen zeigt jetzt keine OU´s mehr an
 - Geändert: Contentverwaltung - Hochladen in die Ordner Icons/Images/Sounds ab jetzt erlaubt
-- Neu: Migration - Anzeige eines Ergebnis bei der Durchführung der Migration (Es werden die Namen angezeigt und ein Status z. B. grüner Haken oder ein rotes Kreuz, bei Gruppen kann auch ein weiterer Zustand angezeigt werden, falls nicht alle Mitglieder einer Gruppe migriert werden konnten)
+- Neu: Migration - Anzeige eines Ergebnis bei der Durchführung der Migration (Es werden die Namen angezeigt und ein Status z. B. grüner Haken oder ein rotes Ausrufezeichen, bei Gruppen kann auch ein weiterer Zustand angezeigt werden, falls nicht alle Mitglieder einer Gruppe migriert werden konnten)
 - Neu: Verbesserte Migration von Templates und deren Inhalte (Sprachen, Channels, Gruppen, Auschlussgruppen)
 - Neu: Unterstützung für weitere Filter-Möglichkeiten (Gruppen, OU´s mit LDAP-Attributen) 
 
