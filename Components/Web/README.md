@@ -4,6 +4,14 @@ All-In-One Download:
 http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
 ------------------
+Changelog 6.0.47 (02.06.2017)
+- Fixed: Gruppenmanager - Import von vorhandenen Gruppennamen
+- Geändert: Gruppenmanager - Fehlermeldung bei vorhandenen Gruppennamen
+- Fixed: Migration von Templates und beeinhaltenden Gruppen unter Windows OS
+- Fixed: Migration von Templates mit Sound, Beginn/Ende, Vollbildschirm-Popup
+- Geändert: Gruppenmanager zeigt nur Gruppen vom Typ Infoclient / Logon
+
+------------------
 Changelog 6.0.46 (01.06.2017)
 - Fixed: Gruppenmitglieder auslesen per LDAP von Apache Directory
 - Optimierungen für Gruppenmanager / schnelleres Laden
