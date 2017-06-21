@@ -3,6 +3,14 @@
 All-In-One Download:
 http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
+Changelog 6.0.48 (19.06.2017) - ONLY DEVELOPMENT VERSION
+- Neu: Filter Operator : beginnt mit / beginnt nicht mit
+- Geändert: Nur Filter können getestet werden vom Typ Infoclient / Logon
+- Fixed: Filter Wizard
+- Fixed: Gruppenmanager - schnelleres Laden der Infoserver-Gruppen
+- Neu: Domänen Live-LDAP Synchronisation
+- Neu: Unterstützung weiterer Domänen für eine Clientverbindung (Benutzername muss bei den Domänen identisch sein)
+
 ------------------
 Changelog 6.0.47 (02.06.2017)
 - Fixed: Gruppenmanager - Import von vorhandenen Gruppennamen
