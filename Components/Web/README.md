@@ -3,6 +3,44 @@
 All-In-One Download:
 http://download.cordaware.com/support/v6/latest/bestinformed.exe
 
+------------------
+Changelog 6.0.74 (21.07.2017)
+- Geändert: Rollen Ressourcen Mitbenutzung
+- Neu: Anzeige des angemeldeten Benutzers im Titel des Browsers
+
+------------------
+Changelog 6.0.73 (19.07.2017) 
+- (INTERNAL ONLY) Erlang Mnesia Tabellen zuerst erzeugen lassen
+
+------------------
+Changelog 6.0.72 (17.07.2017) 
+- Fixed: Zeichenkodierung bei Dateinamen beim Upload von Dateien (z. B. in der Contentverwaltung)
+- Geändert: Temporäres Laden von Domänen verwendet jetzt Erlang ETS-Tabellen
+- (INTERNAL ONLY) - Start Scripte für die Applikation angepasst
+
+------------------
+Changelog 6.0.55 (13.07.2017) 
+- Interne Verbesserungen für die Verwaltung der Verbindungsübersicht
+- (INTERNAL ONLY) Erlang Nodetool
+
+------------------
+Changelog 6.0.53 (10.07.2017) 
+- Weitere Verbesserungen beim Starten der Erlang Datenbank Mnesia
+- Erlang Tuning
+
+------------------
+Changelog 6.0.51 (07.07.2017) 
+- (INTERNAL ONLY) In ranch.app there must be add ssl to applications!!!!!
+- (INTERNAL ONLY) Erlang Supervisor angepasst für best_web, bi_auth, bi_interval, bi_kvs, bi_uuid 
+- Verbesserungen beim Starten der Erlang Datenbank Mnesia
+- Neue Start Scripte unter Windows für die Applikation best_web
+- Wechsel zu Erlang Version 19.3 (8.3)
+- Fixed: Abbrechen der Domänen Aktualisierung, wenn die Domäne gelöscht wird.
+- Neu: Angabe von Alias in der Domäne, einzelne Domänen können in einer Komma-getrennten Liste angegeben werden
+- Geändert: Beschreibung für den Namen der Domäne wurde in der App ausgetauscht
+- (INTERNAL ONLY) Neu: best_domain_client ??? 
+
+------------------
 Changelog 6.0.48 (19.06.2017) - ONLY DEVELOPMENT VERSION
 - Neu: Filter Operator : beginnt mit / beginnt nicht mit
 - Geändert: Nur Filter können getestet werden vom Typ Infoclient / Logon
