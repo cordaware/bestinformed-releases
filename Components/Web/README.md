@@ -1,8 +1,5 @@
 # best_web.exe Version´s
 
-All-In-One Download:
-http://download.cordaware.com/support/v6/latest/bestinformed.exe
-
 ------------------
 Changelog 6.0.74 (21.07.2017)
 - Geändert: Rollen Ressourcen Mitbenutzung
