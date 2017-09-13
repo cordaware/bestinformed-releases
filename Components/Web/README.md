@@ -1,5 +1,23 @@
 # best_web.exe Version´s
 
+
+------------------
+Changelog 6.0.80 (13.09.2017)
+
+- Neue Lizenzoptionen
+- Fixed: Szenarien versenden wenn Änderungen am Infotext / Entwarnungen nicht erlaubt ist
+- Fixed: Rechtezuweisung bei Guardians: Löschen von dynamischer Guradians -> Beschreibung war falsch
+- Neu: Zusätzliche Alarm Empfänger, Notfall-Gruppe, Eskalationsgruppe in System (global)
+- Neu: Automatischer Upload von Filegruppen, Intervall einstellbar im Serverboard [bi_filegroup] interval= (default: 60)
+- Fixed: Sencha Tagfield reset of field
+- Automatische Aktualisierung der Ressourcen / Rechte für angemeldete Benutzer
+- Optimierungen für Benachrichtungen an die Weboberfläche über den Websocket
+- Neu: Ressourcen Mitbenutzung von Infos
+- Optimierte Anzeige der InfoclientValues, Channels, DynamicInfoclientValues in der Verbindungsübersicht
+- Kompatibilität für CouchDB 2.1
+- Neue Optionen in System (global) für Alarm: Zusätzliche Alarm-Empfänger, Notfallgruppe, Eskalationsgruppe
+- In Scripten kann jetzt zusätzlich das Module "binary" verwendet werden, z. B. für binary:replace/3 etc.
+
 ------------------
 Changelog 6.0.74 (21.07.2017)
 - Geändert: Rollen Ressourcen Mitbenutzung
