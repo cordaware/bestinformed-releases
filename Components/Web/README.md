@@ -1,5 +1,8 @@
 # best_web.exe Version´s
 
+------------------
+Changelog 6.0.81 (15.09.2017)
+- Kompatibilität für CouchDB 2.1 erweitert
 
 ------------------
 Changelog 6.0.80 (13.09.2017)
