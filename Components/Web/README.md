@@ -1,6 +1,11 @@
 # best_web.exe Version´s
 
 ------------------
+Changelog 6.0.82 (18.09.2017)
+- Fixed: Standardwerte beim Erstellen einer neuen Info aus der Guardian App / Verbindungsübersicht
+- Fixed: Statistik App - Datenbank - Ausgabe der Größe in MB
+
+------------------
 Changelog 6.0.81 (15.09.2017)
 - Kompatibilität für CouchDB 2.1 erweitert
 
