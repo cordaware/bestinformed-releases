@@ -1,6 +1,10 @@
 # best_web.exe Version´s
 
 ------------------
+Changelog 6.0.84 (19.09.2017)
+- Geändert: Lizenzserver
+
+------------------
 Changelog 6.0.83 (19.09.2017)
 - Fixed: Infohistorie Status (beendet, abgebrochen)
 - Fixed: Infohistorie Baum / Jahre und Monatsdarstellung
