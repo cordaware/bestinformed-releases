@@ -1,6 +1,13 @@
 # best_web.exe Version´s
 
 ------------------
+Changelog 6.0.83 (19.09.2017)
+- Fixed: Infohistorie Status (beendet, abgebrochen)
+- Fixed: Infohistorie Baum / Jahre und Monatsdarstellung
+- Fixed: Benutzerdefiniertes Menü / Benutzereinstellungen
+- Korrigiert numerierte -> nummerierte im WYSIWYG-Editor
+
+------------------
 Changelog 6.0.82 (18.09.2017)
 - Fixed: Standardwerte beim Erstellen einer neuen Info aus der Guardian App / Verbindungsübersicht
 - Fixed: Statistik App - Datenbank - Ausgabe der Größe in MB
