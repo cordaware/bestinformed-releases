@@ -8,6 +8,7 @@ Changelog 6.0.86 (27.09.2017)
 - Neu: Neues Recht bei den Rollen für Neue Info "Mail2Info - Schnittstelle für Infoversand erlauben" in Verbindung mit "Erstellen von Infos erlauben", Benutzer können jetzt auch die Mail2Info-Schnittstelle verwenden. Authentifizierung der Benutzer erfolgt über LDAP.
 - Fixed: Filter testen
 - Geändert: Farbe für Filter Schaltflächen UND / ODER
+- Neue Filter Operatoren (endet mit, endet nicht mit)
 - Neu: [general] allclear_only=true (default: true) - Verhalten einstellbar für das Entwarnen von Infos, ob auch weitere Filter/Gruppen sofort ausgewählt werden können.
  
 ------------------
