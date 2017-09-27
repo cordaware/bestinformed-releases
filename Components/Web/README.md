@@ -1,6 +1,21 @@
 # best_web.exe Version´s
 
 ------------------
+Changelog 6.0.86 (27.09.2017)
+- Lizenzoptionen / Hinweismeldungen wurden implementiert
+- Fixed: Jumping beim Anklicken von Optionen in der Rollen App (Rechte, Ressourcen)
+- Neu: Hinweis in der Rollen App bei den Ressourcen
+- Neu: Neues Recht bei den Rollen für Neue Info "Mail2Info - Schnittstelle für Infoversand erlauben" in Verbindung mit "Erstellen von Infos erlauben", Benutzer können jetzt auch die Mail2Info-Schnittstelle verwenden. Authentifizierung der Benutzer erfolgt über LDAP.
+- Fixed: Filter testen
+- Geändert: Farbe für Filter Schaltflächen UND / ODER
+- Neu: [general] allclear_only=true (default: true) - Verhalten einstellbar für das Entwarnen von Infos, ob auch weitere Filter/Gruppen sofort ausgewählt werden können.
+ 
+------------------
+Changelog 6.0.85 (21.09.2017)
+- Mehr Optionen in der Client-Konfiguration bei den Clienteinstellungen
+- Verbesserungen beim Einspielen einer Lizenz
+
+------------------
 Changelog 6.0.84 (19.09.2017)
 - Geändert: Lizenzserver
 
