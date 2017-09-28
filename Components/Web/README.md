@@ -1,6 +1,10 @@
 # best_web.exe Version´s
 
 ------------------
+Changelog 6.0.87 (28.09.2017)
+- Lizenzen und Hinweismeldungen optimiert
+
+------------------
 Changelog 6.0.86 (27.09.2017)
 - Lizenzoptionen / Hinweismeldungen wurden implementiert
 - Fixed: Jumping beim Anklicken von Optionen in der Rollen App (Rechte, Ressourcen)
