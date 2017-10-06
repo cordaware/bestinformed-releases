@@ -1,5 +1,18 @@
 # best_web.exe Version´s
 
+Changelog 6.0.89 (06.10.2017)
+- Neu: [general] info_source_edit=false (default: false) - Schaltet den Infoeditor standardmäßig in den HTML Source bearbeiten Modus
+- Neu: [general] template_source_edit=false (default: false) - Schaltet den Infoeditor standardmäßig in den HTML Source bearbeiten Modus, wenn ein Template bearbeitet wird.
+- Neu: bei [general] allclear_only=false werden im Infoeditor die Filter/Gruppen/Gruppierungen (aber keine vom Typ "Infoclient") der Ursprungs-Info übernommen
+
+------------------
+
+Changelog 6.0.88 (05.10.2017)
+- Neu: Cluster Optionen für Infoserver - UUID und Infoserver wird für Info2Mail verwendet
+- Neu: Content - Upload von mehreren Dateien gleichzeitig möglich, Upload-Vorgang optimiert und schöner gestaltet
+- Neu: System (global) - Alarm-Icon (wenig Computer), Alarm-Icon (genügend Computer)
+- Fixed: StatusInfo HTMLEditor Synchronisation
+
 ------------------
 Changelog 6.0.87 (28.09.2017)
 - Lizenzen und Hinweismeldungen optimiert
