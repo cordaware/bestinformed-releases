@@ -1,9 +1,16 @@
 # All-In-One Version´s
 
 
+TEMP Changelog 6.0.5.1 (dd.mm.yyyy)
+* includes best_srv 6.0.88
+* includes best_web 6.0.91
+* includes infoclient 6.1.3.0
+* includes best_data 6.2.1.3
+* includes Cordaware5to6 1.0.2.0
+
 ------------------
 
-Changelog 6.0.4.9 (10.10.2017)
+Changelog 6.0.5.0 (10.10.2017)
 * includes best_srv 6.0.88
 * includes best_web 6.0.91
 * includes infoclient 6.1.3.0
