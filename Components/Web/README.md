@@ -1,9 +1,15 @@
 # best_web.exe Version´s
 
+Changelog 6.0.91 (09.10.2017)
+- Verhalten geändert: bei [general] allclear_only=false wird der Tab "Empfänger" automatisch aktiviert. Im Infoeditor werden die Filter/Gruppen/Gruppierungen automatisch von der Ursprungs-Info übernommen
+
+Changelog 6.0.90 (09.10.2017)
+- Neue Optionen unter System -> System (global): Clientanmeldegruppe, Clientauthentizitätsgruppe.
+
 Changelog 6.0.89 (06.10.2017)
 - Neu: [general] info_source_edit=false (default: false) - Schaltet den Infoeditor standardmäßig in den HTML Source bearbeiten Modus
 - Neu: [general] template_source_edit=false (default: false) - Schaltet den Infoeditor standardmäßig in den HTML Source bearbeiten Modus, wenn ein Template bearbeitet wird.
-- Neu: bei [general] allclear_only=false werden im Infoeditor die Filter/Gruppen/Gruppierungen (aber keine vom Typ "Infoclient") der Ursprungs-Info übernommen
+- (VERALTET!!!!) Neu: bei [general] allclear_only=false werden im Infoeditor die Filter/Gruppen/Gruppierungen (aber keine vom Typ "Infoclient") der Ursprungs-Info übernommen
 
 ------------------
 
