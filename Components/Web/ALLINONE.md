@@ -5,6 +5,7 @@ TEMP Changelog 6.0.5.1 (dd.mm.yyyy)
 * includes best_srv 6.0.88
 * includes best_web 6.0.91
 * includes infoclient 6.1.3.0
+Fixed best_data keep secret after uninstall
 * includes best_data 6.2.1.3
 * includes Cordaware5to6 1.0.2.0
 
