@@ -1,7 +1,25 @@
 # All-In-One Version´s
 
+Changelog 6.0.5.4 (13.10.2017)
+* includes best_srv 6.0.91
+* includes best_web 6.0.93
+* includes infoclient 6.1.5.0
+* includes best_data 6.2.1.4
+* includes Cordaware5to6 1.0.2.0
 
-TEMP Changelog 6.0.5.1 (dd.mm.yyyy)
+------------------
+
+Changelog 6.0.5.3 (12.10.2017)
+Allow installer path for C:\Program Files\...
+* includes best_srv 6.0.90
+* includes best_web 6.0.92
+* includes infoclient 6.1.5.0
+* includes best_data 6.2.1.4
+* includes Cordaware5to6 1.0.2.0
+
+------------------
+
+TEMP Changelog 6.0.5.1 
 * includes best_srv 6.0.88
 * includes best_web 6.0.91
 * includes infoclient 6.1.3.0
