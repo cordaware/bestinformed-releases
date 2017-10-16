@@ -2,6 +2,11 @@
 
 ------------------
 
+Changelog 6.0.94 (16.10.2017)
+- StatusInfo: Sprache bei Statusdetail in der Übersicht hinzugefügt
+
+------------------
+
 Changelog 6.0.93 (13.10.2017)
 - Geändert: Guardians Script beim Anlegen von einem neuen Guardian
 - Fixed: Standard Icons,Sounds,Images in der Contentverwaltung
