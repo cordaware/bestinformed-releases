@@ -1,5 +1,17 @@
 # All-In-One Version´s
 
+Changelog 6.0.5.6 (17.10.2017)
+
+All-In-One makes automatically an best_data upgrade if somebody uses older version = 1.6
+
+* includes best_srv 6.0.91
+* includes best_web 6.0.94
+* includes infoclient 6.1.6.0
+* includes best_data 6.2.1.4
+* includes Cordaware5to6 1.0.2.0
+
+------------------
+
 Changelog 6.0.5.5 (16.10.2017)
 * includes best_srv 6.0.91
 * includes best_web 6.0.94
