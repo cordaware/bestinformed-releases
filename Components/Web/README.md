@@ -2,6 +2,12 @@
 
 ------------------
 
+Changelog 6.0.95 (18.10.2017)
+- Neu: Setzen des "Benutzername", "Anmelden als" über http://localhost:8000/?name=BENUTZERNAME&logon=LOGONUSER
+- Fixed: Filter testen als angemeldeter Domänenbenutzer. Achtung: Beachten der Rollen Ressourcen Filter/Gruppen/Gruppierungen!
+
+------------------
+
 Changelog 6.0.94 (16.10.2017)
 - StatusInfo: Sprache bei Statusdetail in der Übersicht hinzugefügt
 
