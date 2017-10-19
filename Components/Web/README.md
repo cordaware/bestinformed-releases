@@ -1,5 +1,13 @@
 # best_web.exe Version´s
 
+
+
+Changelog 6.0.96 (19.10.2017)
+- Geändert: Lizenz Compliance Umfragen
+- Geändert: SMTP Benachrichtungen über die Weboberfläche (Umfragebenachrichtigungen oder SMTP Einstellungen testen) - für neuere SMTP Server kann man die TLS Versionen für den SMTP Verbindungsaufbau einstellen über das Serverboard in
+[bi_smtp] tls_connect=['tlsv1', 'tlsv1.1', 'tlsv1.2']  <- (default)
+
+
 ------------------
 
 Changelog 6.0.95 (18.10.2017)
