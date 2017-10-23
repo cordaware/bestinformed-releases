@@ -1,7 +1,6 @@
 # All-In-One Version´s
 
-
-Changelog 6.0.6.1 (23.10.2017) 
+Changelog 6.0.6.1 (23.10.2017) <- CURRENT LATEST
 
 * includes best_srv 6.0.94
 * includes best_web 6.0.96
@@ -21,7 +20,7 @@ Changelog 6.0.6.0 (20.10.2017)
 
 ------------------
 
-Changelog 6.0.5.9 (19.10.2017) <- CURRENT LATEST
+Changelog 6.0.5.9 (19.10.2017)
 
 * includes best_srv 6.0.92
 * includes best_web 6.0.96
