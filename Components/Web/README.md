@@ -7,6 +7,7 @@ Changelog 6.0.97 (27.10.2017)
 - Neu: Im Migrationsassistenten können jetzt auch Logon Gruppen migriert werden (Achtung: Standardomäne muss zuvor gesetzt sein)
 - Neu: Timeout beim Migrationsassistenten erhöht auf 30 Minuten
 - Geändert: Ausgabe des Ergebnis im Migrationsassistenten
+- Geändert: Infos (Ressourcen Mitbenutzung) - in der Infohistorie werden keine Infos vom ADMIN aufgelistet.
 - Neue Filter Optionen: client.sessionusername, client.sessioncomputername, client.sessiondomain
 - Einstellbares Format für {TIMESTAMP} in der E-Mail Umfrage Benachrichtigung im Serverboard unter [bi_survey] timestamp=d.m.Y (default: d.m.y H:i:s)
 - Fixed: Anmeldemaske für Sprache-Auswahlfeld
