@@ -1,5 +1,45 @@
 # All-In-One Version´s
 
+Changelog 6.0.6.5 (27.10.2017)
+
+* includes best_srv 6.0.98
+* includes best_web 6.0.97
+* includes infoclient 6.1.6.0
+* includes best_data 6.2.1.4
+* includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.0.6.4 (26.10.2017)
+
+* includes best_srv 6.0.98
+* includes best_web 6.0.96
+* includes infoclient 6.1.6.0
+* includes best_data 6.2.1.4
+* includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.0.6.3 (25.10.2017)
+
+* includes best_srv 6.0.96
+* includes best_web 6.0.96
+* includes infoclient 6.1.6.0
+* includes best_data 6.2.1.4
+* includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.0.6.2 (24.10.2017)
+
+* includes best_srv 6.0.95
+* includes best_web 6.0.96
+* includes infoclient 6.1.6.0
+* includes best_data 6.2.1.4
+* includes Cordaware5to6 1.0.2.0
+
+------------------
+
 Changelog 6.0.6.1 (23.10.2017) <- CURRENT LATEST
 
 * includes best_srv 6.0.94

@@ -1,6 +1,26 @@
 # best_web.exe Version´s
 
 
+Changelog 6.0.97 (27.10.2017)
+
+- Performance Verbesserungen beim Laden von Datensätzen
+- Neu: Im Migrationsassistenten können jetzt auch Logon Gruppen migriert werden (Achtung: Standardomäne muss zuvor gesetzt sein)
+- Neu: Timeout beim Migrationsassistenten erhöht auf 30 Minuten
+- Geändert: Ausgabe des Ergebnis im Migrationsassistenten
+- Neue Filter Optionen: client.sessionusername, client.sessioncomputername, client.sessiondomain
+- Einstellbares Format für {TIMESTAMP} in der E-Mail Umfrage Benachrichtigung im Serverboard unter [bi_survey] timestamp=d.m.Y (default: d.m.y H:i:s)
+- Fixed: Anmeldemaske für Sprache-Auswahlfeld
+- Fixed: "Umfragen, initiierte Umfragen, Gruppenumfragen anhand von den Anmeldegruppen einschränken"
+- Neu: In den Filter Scripten kann die Erlang Funktion integer_to_binary verwendet werden
+- Neu: Alarm Einstellungen wurden stark erweitert wodurch nun mehr Anpassungmöglichkeiten gegeben sind
+- Neu: Navigation durch die Alarm Auslöser- zu Empfängerzuordnungen per Tastatur
+- Neu: Alarme werden nun in der aktuellen Sprache der Weboberfläche generiert
+- Fixed: Groß- und Kleinschreibung bei Alarm Anzeigenamen LDAP Import wurden nicht beachtet
+- Fixed: Darstellungsproblem beim Alarm LDAP Import von Räumen mit bestimmten Satzzeichen
+- Fixed: Englische Alarm App öffnet sich nicht
+- Fixed: Fehlerhaftes Scrolling in Alarm App bei Rechnern mit Touchscreen
+
+------------------
 
 Changelog 6.0.96 (19.10.2017)
 - Geändert: Lizenz Compliance Umfragen
