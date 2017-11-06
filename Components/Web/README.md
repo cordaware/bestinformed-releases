@@ -1,5 +1,13 @@
 # best_web.exe Version´s
 
+Changelog 6.0.98 (06.11.2017)
+
+- Neu: Geänderte Namen von Ressourcen werden automatisch in den Zuordnungen übernommen
+- Neu: Hinzufügen Buttons in der System Global App für Alarm Ressourcen hinzugefügt
+- Fixed: Beispiel Basis Alarm bei Erstkonfiguration der Alarm App
+- Fixed: Einige Textanpassungen in der Alarm App
+
+------------------
 
 Changelog 6.0.97 (27.10.2017)
 
