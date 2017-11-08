@@ -1,5 +1,13 @@
 # best_web.exe Version´s
 
+
+Changelog 6.0.99 (08.11.2017)
+
+- Fixed: Contentverwaltung Grid
+- Geändert: On Demand Lizenz Prüfung
+
+------------------
+
 Changelog 6.0.98 (06.11.2017)
 
 - Neu: Geänderte Namen von Ressourcen werden automatisch in den Zuordnungen übernommen
