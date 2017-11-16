@@ -1,6 +1,14 @@
 # best_web.exe Version´s
 
 
+Changelog 6.0.100 (16.11.2017)
+
+- Neu: System (global) - "Für nicht bekannte Domänen in der Verbindungsübersicht wird die Standarddomäne (siehe oben) verwendet."
+- Neu: Demo Lizenz hinzugefügt
+- Fixed: Sencha Fieldset Text bei Mac OS Safari / iOS 11
+
+------------------
+
 Changelog 6.0.99 (08.11.2017)
 
 - Fixed: Contentverwaltung Grid
@@ -25,7 +33,7 @@ Changelog 6.0.97 (27.10.2017)
 - Geändert: Ausgabe des Ergebnis im Migrationsassistenten
 - Geändert: Infos (Ressourcen Mitbenutzung) - in der Infohistorie werden keine Infos vom ADMIN aufgelistet.
 - Neue Filter Optionen: client.sessionusername, client.sessioncomputername, client.sessiondomain
-- Einstellbares Format für {TIMESTAMP} in der E-Mail Umfrage Benachrichtigung im Serverboard unter [bi_survey] timestamp=d.m.Y (default: d.m.y H:i:s)
+- Einstellbares Format für {TIMESTAMP} in der E-Mail Umfrage Benachrichtigung im Serverboard unter [bi_survey] timestamp=d.m.Y (default: d.m.Y H:i:s)
 - Fixed: Anmeldemaske für Sprache-Auswahlfeld
 - Fixed: "Umfragen, initiierte Umfragen, Gruppenumfragen anhand von den Anmeldegruppen einschränken"
 - Neu: In den Filter Scripten kann die Erlang Funktion integer_to_binary verwendet werden
