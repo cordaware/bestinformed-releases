@@ -1,6 +1,21 @@
 # best_web.exe Version´s
 
 
+Changelog 6.0.102 (20.11.2017)
+
+- Neu: Migration von Poweruser zu Rollen nach Version 6
+- Neu: Migration von StatusInfos nach Version 6
+- Neu: Lizenz (Demand) -> Konfiguration herunterladen (als JSON)
+- Fixed: Umfragen - Bearbeiten / Ansicht von Umfragen
+- Fixed: Rollen / Rechte Überprüfung für ac_guest (Gastanmeldungen) bei Umfrageteilnehmer
+
+Changelog 6.0.101 (17.11.2017)
+
+- Neu: Verbindung zum best_srv TLS/PSK
+- Neu: Migration von AKM zur V6 Alarm App
+- Neu: Optionale Anpassung der Navigation an die Alarm Funktionalität
+
+
 Changelog 6.0.100 (16.11.2017)
 
 - Neu: System (global) - "Für nicht bekannte Domänen in der Verbindungsübersicht wird die Standarddomäne (siehe oben) verwendet."
