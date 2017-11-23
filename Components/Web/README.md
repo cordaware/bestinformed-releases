@@ -1,6 +1,17 @@
 # best_web.exe Version´s
 
 
+Changelog 6.0.103 (23.11.2017)
+
+- Fixed: Domänen / LDAP Monitor
+- Fixed: 500er Internal Server Error - Crashes bei nicht verbundener Datenbank
+- Neu: [general] keep_info_begin_end=true/false (default: true) -> Behält beim Kopieren von Infos bei noch aktiver Zeit den Beginn / Ende. Bei keep_info_begin_end=false ist immer Beginn / Ende auf leer gesetzt bei einer kopierten Info
+- Neu: [general] init_scriptvar_copy=true/false (default: true) -> ScriptVar Werte werden beim Kopieren einer Info beibehalten.
+- Neu: [general] init_scriptvar_allclear=true/false (default: true) -> ScriptVar Werte werden beim Entwarnen einer Info beibehalten.
+- Verbesserungen: Schnellere Migration beim Alarm Konfigurationsmanager aus der Version 5
+
+------------------
+
 Changelog 6.0.102 (20.11.2017)
 
 - Neu: Migration von Poweruser zu Rollen nach Version 6
@@ -9,12 +20,15 @@ Changelog 6.0.102 (20.11.2017)
 - Fixed: Umfragen - Bearbeiten / Ansicht von Umfragen
 - Fixed: Rollen / Rechte Überprüfung für ac_guest (Gastanmeldungen) bei Umfrageteilnehmer
 
+------------------
+
 Changelog 6.0.101 (17.11.2017)
 
 - Neu: Verbindung zum best_srv TLS/PSK
 - Neu: Migration von AKM zur V6 Alarm App
 - Neu: Optionale Anpassung der Navigation an die Alarm Funktionalität
 
+------------------
 
 Changelog 6.0.100 (16.11.2017)
 
