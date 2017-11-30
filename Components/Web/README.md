@@ -1,6 +1,20 @@
 # best_web.exe Version´s
 
 
+Changelog 6.0.105 (28.11.2017)
+
+- Neue Guardian Optionen unter System(global) zum Einschränken der Aktionen für Prozesse & Fenstertitel
+
+
+------------------
+
+Changelog 6.0.104 (24.11.2017)
+
+- Fixed: Domänen / LDAP Monitor
+
+
+------------------
+
 Changelog 6.0.103 (23.11.2017)
 
 - Fixed: Domänen / LDAP Monitor
