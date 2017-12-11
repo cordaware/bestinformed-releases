@@ -11,6 +11,12 @@ Changelog 6.0.7.6 (11.12.2017)
 
 ------------------
 
+Changelog 6.0.7.5
+
+- no changelog available, only development all-in-one....
+
+------------------
+
 Changelog 6.0.7.4 (30.11.2017) <- CURRENT LATEST
 
 * includes best_srv 6.0.109

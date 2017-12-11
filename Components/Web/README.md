@@ -13,6 +13,12 @@ Changelog 6.0.107 (11.12.2017)
 
 ------------------
 
+Changelog 6.0.106
+
+- no changelog available, only development
+
+------------------
+
 Changelog 6.0.105 (28.11.2017)
 
 - Neue Guardian Optionen unter System(global) zum Einschränken der Aktionen für Prozesse & Fenstertitel
