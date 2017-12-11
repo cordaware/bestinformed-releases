@@ -1,5 +1,17 @@
 # best_web.exe Version´s
 
+Changelog 6.0.107 (11.12.2017)
+
+- Audit Modus kann im Serverboard bei [bi_audit] audit=true (type: boolean - default: true) an/aus geschaltet werden.
+- Debug vom best_srv kann im Nachrichten-Panel im Serverboard mit [general] debugtoweb=true (type: boolean - default: true) an/aus geschaltet werden.
+- Bei der Infoeditor Vorschau kann die ScriptVar Anzeige im Serverboard positioniert werden [best_web] dock_scriptvar_preview=bottom/top (default: bottom - or top allowed
+- Fixed: Domänen App - Auswahlliste/TagField für weitere Domänen (weitere Einstellungen)
+- Optimierungen für LDAP Gruppen im Infoeditor
+- Fixed: Szenarien entwarnen mit ScriptVars
+- Mehr Informationen / Details in den Infodetails hinzugefügt
+- Neu: Löschen von mehreren Gruppen gleichzeitigt
+
+------------------
 
 Changelog 6.0.105 (28.11.2017)
 
