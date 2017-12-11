@@ -9,7 +9,7 @@ Changelog 6.0.107 (11.12.2017)
 - Optimierungen für LDAP Gruppen im Infoeditor
 - Fixed: Szenarien entwarnen mit ScriptVars
 - Mehr Informationen / Details in den Infodetails hinzugefügt
-- Neu: Löschen von mehreren Gruppen gleichzeitigt
+- Neu: Löschen von mehreren Gruppen gleichzeitig
 
 ------------------
 
