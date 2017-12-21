@@ -22,6 +22,9 @@ Changelog 6.0.107 (11.12.2017)
 - Fixed: Szenarien entwarnen mit ScriptVars
 - Mehr Informationen / Details in den Infodetails hinzugefügt
 - Neu: Löschen von mehreren Gruppen gleichzeitig
+- Neu: Alarm Visualizer (Zeigt Zuordnung graphisch dar)
+- Neu: Generierung einer PDF-Datei mit Alarm Zuordnungen
+- Fixed: Falsche Alarm Anzeigenamen im Popup nach LDAP Usernamen Import
 
 ------------------
 
