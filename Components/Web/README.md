@@ -1,5 +1,17 @@
 # best_web.exe Version´s
 
+Changelog 6.0.108 (21.12.2017)
+
+- Aktualisiert auf Sencha Framework 6.5.2
+- Beta: Clients -> Registriert als APP
+Alarm:
+- Neu: Hinweis auf doppelte Zuordnungen beim Öffnen der Alarm App
+- Neu: Alarm ScriptVars und die Auslöser Rückmeldung ist nun beim "Alarm an alle" möglich
+- Neu: Alarm Visualizer kann nun auf bestimmte Eskalationsstufen begrenzt werden
+- Neu: Optimierung beim Versand von neuen Alarm Einstellungen
+
+------------------
+
 Changelog 6.0.107 (11.12.2017)
 
 - Audit Modus kann im Serverboard bei [bi_audit] audit=true (type: boolean - default: true) an/aus geschaltet werden.
