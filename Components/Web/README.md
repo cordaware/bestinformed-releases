@@ -1,5 +1,17 @@
 # best_web.exe Version´s
 
+
+Changelog 6.0.109 (08.01.2018)
+
+- Neue Testlizenz gültig bis 31.03.2018
+- Fixed: E-Mail Validierung Formular
+- Fixed: Login Hinweismeldung bzgl. Sencha Framework 6.5.2
+- Neu: Filterung der Auslöseräume in der Übersicht der Alarm-Eskalationsstufen
+- Fix: Behebung eines Fehlers beim Löschen von mehreren zugeordneten Räumen mit Kommas
+- Fix: Erstellung und gleichzeitige Zuweisung von mehreren Räumen mit Kommas
+
+------------------
+
 Changelog 6.0.108 (21.12.2017)
 
 - Aktualisiert auf Sencha Framework 6.5.2
