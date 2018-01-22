@@ -1,5 +1,15 @@
 # All-In-One Version´s
 
+Changelog 6.0.7.9 (22.01.2018)
+
+ * includes best_srv 6.0.118
+ * includes best_web 6.0.110
+ * includes infoclient 6.1.6.1
+ * includes best_data 6.2.1.5 (couchdb 2.1.1)
+ * includes Cordaware5to6 1.0.2.0
+
+ ------------------
+
 Changelog 6.0.7.8 (08.01.2018) <- CURRENT LATEST
 
  * includes best_srv 6.0.116

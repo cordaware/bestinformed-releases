@@ -1,5 +1,19 @@
 # best_web.exe Version´s
 
+Changelog 6.0.110 (22.01.2018)
+
+- Fixed: Infoeditor bei Benutzer als Rolle angemeldet (ohne Recht: LDAP Gruppen erlauben)
+- Fixed: Suche von LDAP-Gruppen ohne ausgefüllte Benutzersuche, zeigt nur den Zweig der Gruppen an
+- Neu: Anzeige der ausgewählten Hintergrundfarbe für Infotext / Caption in der Infoübersicht - Einstellbar in [general] info_overview_background=true/false (default: true)
+- Neu: Anzeige der zugewiesenen Domäne in der Verbindungsübersicht
+- Neu: Quickusers im Infoeditor, die zugewiesene Domäne kann mit #cordaware300 adressiert werden. Normale Domäne des OS bleibt nach wie vor gleich.
+- Neu: Alarm Visualizer ist nun direkt von der Hauptseite der Alarm App aufrufbar
+- Neu: Erstellung von Alarmen mit nur einer Taste möglich
+- Neu: Panikalarm (Auslösen eines Alarmes mit einer Anzahl von beliebigen Tasten)
+- Neu: Optimierung des Ladens von externen Daten in der Alarm App
+- Fix: Darstellungsfehler in der Übersicht der verfügbaren Räume in den Alarmierungskreisen
+
+------------------
 
 Changelog 6.0.109 (08.01.2018)
 
