@@ -1,6 +1,27 @@
 # best_web.exe Version´s
 
-Changelog 6.0.110 (22.01.2018)
+
+Changelog 6.0.113 (29.01.2018)
+
+- Neu: Erweitere Anpassung der Eskalationsstufen im Alarm Visualizer
+- Neu: Kopieren von Datensätzen in den folgenden Apps: Channel,ScriptVar,Template,Konfiguration,Domäne,Filter,Rolle
+- Neu: Höhe für Navigation (links) reduziert
+
+------------------
+
+Changelog 6.0.112 (January 2018) - ONLY DEVELOP
+
+- Fixed: Info / IniFile. Standardwert für quickusersadditional ist default true.
+
+------------------
+
+Changelog 6.0.111 (January 2018) - ONLY DEVELOP
+
+- Fixed: Lademaske im Serverboard beim Hinzufügen von neuen Einträgen
+
+------------------
+
+Changelog 6.0.110 (January 2018) - - ONLY DEVELOP
 
 - Fixed: Infoeditor bei Benutzer als Rolle angemeldet (ohne Recht: LDAP Gruppen erlauben)
 - Fixed: Suche von LDAP-Gruppen ohne ausgefüllte Benutzersuche, zeigt nur den Zweig der Gruppen an
