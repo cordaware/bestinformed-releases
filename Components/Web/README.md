@@ -1,5 +1,10 @@
 # best_web.exe Version´s
 
+Changelog 6.0.114 (31.01.2018)
+
+- Neu: Erlang 20.2
+
+------------------
 
 Changelog 6.0.113 (29.01.2018)
 
