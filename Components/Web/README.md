@@ -1,5 +1,21 @@
 # best_web.exe Version´s
 
+Changelog 6.0.116 (07.02.2018)
+
+- Zähler für Migration von Gruppen verbessert
+- Migration 5to6: MemberOfNT.. unterstützt jetzt auch DOMÄNE\Gruppenname und wird zur Standarddomäne konvertiert.
+- Migration 5to6: StatusInfo Migration verbessert
+- (INTERNAL ONLY) - changed beam module for best_data
+
+------------------
+
+Changelog 6.0.115 (02.02.2018)
+
+- (INTERNAL ONLY) - hackney app new vsn
+
+------------------
+
+
 Changelog 6.0.114 (31.01.2018)
 
 - Neu: Erlang 20.2

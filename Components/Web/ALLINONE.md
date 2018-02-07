@@ -1,5 +1,25 @@
 # All-In-One Version´s
 
+Changelog 6.0.8.5 (07.02.2018)
+
+  * includes best_srv 6.0.124
+  * includes best_web 6.0.116
+  * includes infoclient 6.1.8.0
+  * includes best_data 6.2.1.5 (couchdb 2.1.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.0.8.4 (02.02.2018)
+
+  * includes best_srv 6.0.123
+  * includes best_web 6.0.115
+  * includes infoclient 6.1.8.0
+  * includes best_data 6.2.1.5 (couchdb 2.1.1)
+  * includes Cordaware5to6 1.0.2.0
+
+ ------------------
+
 Changelog 6.0.8.3 (31.01.2018)
 
   * includes best_srv 6.0.122 - Erlang 20.2
