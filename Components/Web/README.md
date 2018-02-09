@@ -1,5 +1,28 @@
 # best_web.exe Version´s
 
+Changelog 6.0.118 (09.02.2018)
+
+- Alarm Texte für Sprache Englisch geändert
+
+------------------
+
+
+Changelog 6.0.117 (07.02.2018)
+
+- (INTERNAL ONLY) - changed service to restart onfail
+
+------------------
+
+Changelog 6.0.116 (07.02.2018)
+
+- Zähler für Migration von Gruppen verbessert
+- Migration 5to6: MemberOfNT.. unterstützt jetzt auch DOMÄNE\Gruppenname und wird zur Standarddomäne konvertiert.
+- Migration 5to6: StatusInfo Migration verbessert
+- (INTERNAL ONLY) - changed beam module for best_data
+
+------------------
+
+
 Changelog 6.0.116 (07.02.2018)
 
 - Zähler für Migration von Gruppen verbessert
