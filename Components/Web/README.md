@@ -1,5 +1,12 @@
 # best_web.exe Version´s
 
+
+Changelog 6.0.119 (26.02.2018)
+
+-
+
+------------------
+
 Changelog 6.0.118 (09.02.2018)
 
 - Alarm Texte für Sprache Englisch geändert
