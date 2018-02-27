@@ -1,7 +1,7 @@
 # All-In-One Version´s
 
 
-Changelog 6.0.8.9 (26.02.2018)
+Changelog 6.0.8.9 (26.02.2018) - current testing
 
   * includes best_srv 6.0.126
   * includes best_web 6.0.119
@@ -15,7 +15,7 @@ Changelog 6.0.8.8 - not public only testing
 
 ------------------
 
-Changelog 6.0.8.7 (09.02.2018)
+Changelog 6.0.8.7 (09.02.2018) <- CURRENT LATEST
 
   * includes best_srv 6.0.124
   * includes best_web 6.0.118
@@ -105,7 +105,7 @@ Changelog 6.0.7.9 (January 2018) - ONLY DEVELOP
 
  ------------------
 
-Changelog 6.0.7.8 (08.01.2018) <- CURRENT LATEST
+Changelog 6.0.7.8 (08.01.2018)
 
  * includes best_srv 6.0.116
  * includes best_web 6.0.109
