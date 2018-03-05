@@ -1,9 +1,18 @@
 # best_web.exe Version´s
 
 
+Changelog 6.0.120 (05.03.2018)
+
+- Cluster Standardwerte geändert
+
+------------------
+
+
 Changelog 6.0.119 (26.02.2018)
 
--
+- Wichtig: Verbindungsübersicht verbessert
+- (INTERNAL ONLY) code loader best_data optimized
+- Anzeigeformat Zahl angepasst für Verbindungen, Empfangsübersicht
 
 ------------------
 
