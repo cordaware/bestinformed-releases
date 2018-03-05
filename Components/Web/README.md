@@ -1,12 +1,16 @@
 # best_web.exe Version´s
 
 
-Changelog 6.0.120 (05.03.2018)
+Changelog 6.0.121 (05.03.2018)
 
 - Cluster Standardwerte geändert
+- Fixed: Contentverwaltung Dateinamen
 
 ------------------
 
+Changelog 6.0.120 - not available
+
+------------------
 
 Changelog 6.0.119 (26.02.2018)
 
