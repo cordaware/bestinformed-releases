@@ -1,5 +1,17 @@
 # best_web.exe Version´s
 
+Changelog 6.0.123 (12.03.2018)
+
+- Fixed: Cluster Status für Infoserver
+
+------------------
+
+Changelog 6.0.122 (07.03.2018)
+
+- Fixed: Datenbank Änderungs Feed - Benachrichtungen innerhalb der Weboberfläche
+
+------------------
+
 
 Changelog 6.0.121 (05.03.2018)
 
