@@ -1,5 +1,12 @@
 # best_web.exe Version´s
 
+Changelog 6.0.124 (22.03.2018)
+
+- Fixed: Cluster Status für Infoserver
+- Neu: Spalte "Geräte-Typ" in der Verbindungsübersicht. Bei Mobile wird die Zeile als hellgrün markiert
+
+------------------
+
 Changelog 6.0.123 (12.03.2018)
 
 - Fixed: Cluster Status für Infoserver
