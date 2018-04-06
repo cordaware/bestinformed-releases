@@ -1,9 +1,31 @@
 # best_web.exe Version´s
 
+Changelog 6.0.127 (05.04.2018)
+
+- Fixed: gelöschte Datensätze die bereits gelöscht sind und in der Oberfläche nochmal gelöscht werden
+- Fixed: Infos die abgebrochen oder in der Historie sind und anschließend als Template gespeichert werden.
+
+------------------
+
+Changelog 6.0.126 (05.04.2018)
+
+- Gelöschte Datensätze werden jetzt anders gespeichert in der Datenbank
+- Geändert: Audit bei gelöschten Datensätzen
+
+------------------
+
+Changelog 6.0.125 (04.04.2018)
+- Neu: Der Alarm Plan kann nun auch Computer-Raum Zuordnungen ausgeben
+- Fixed: System (global) - bei Infoversand
+
+------------------
+
 Changelog 6.0.124 (22.03.2018)
 
 - Fixed: Cluster Status für Infoserver
 - Neu: Spalte "Geräte-Typ" in der Verbindungsübersicht. Bei Mobile wird die Zeile als hellgrün markiert
+- Neu: Wenn in der Alarm App Räume umbenannt werden, bleiben Zuordnungen vorhanden
+- Geändert: Kein Beep mehr beim Entwarnen von Alarmen
 
 ------------------
 
