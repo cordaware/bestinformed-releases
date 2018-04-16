@@ -1,5 +1,10 @@
 # best_web.exe Version´s
 
+Changelog 6.0.128 (16.04.2018)
+
+- Fixed: Quickuser hinzufügen im Infoeditor, Client-Konfiguration
+------------------
+
 Changelog 6.0.127 (05.04.2018)
 
 - Fixed: gelöschte Datensätze die bereits gelöscht sind und in der Oberfläche nochmal gelöscht werden
