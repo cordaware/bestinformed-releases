@@ -2,12 +2,15 @@
 
 Changelog 6.0.130 (18.04.2018)
 
--
+- Fixed: Öffnen vom LDAP Import Fenster ohne Lizenz
+- Neu: Alarm LDAP Zuordnungen können nun bei Installationen ohne Cluster-Betrieb automatisch synchron gehalten werden
+
 ------------------
 
 Changelog 6.0.129 (16.04.2018)
 
--
+- no changelog available, only development
+
 ------------------
 
 
