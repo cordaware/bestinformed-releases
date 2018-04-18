@@ -1,5 +1,16 @@
 # best_web.exe Version´s
 
+Changelog 6.0.130 (18.04.2018)
+
+-
+------------------
+
+Changelog 6.0.129 (16.04.2018)
+
+-
+------------------
+
+
 Changelog 6.0.128 (16.04.2018)
 
 - Fixed: Quickuser hinzufügen im Infoeditor, Client-Konfiguration
