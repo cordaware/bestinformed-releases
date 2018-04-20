@@ -3,7 +3,7 @@
 Changelog 6.0.131 (20.04.2018)
 
 - Fixed: Sicherheitsprüfung und Änderungen bzgl. Speichern von Templates als ADMIN, Rolle
-- Fixed: Rollen können keine verberten Template-Ressourcen vom ADMIN bearbeiten
+- Fixed: Rollen können keine vererbten Template-Ressourcen vom ADMIN bearbeiten
 
 ------------------
 
