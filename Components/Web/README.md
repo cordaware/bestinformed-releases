@@ -1,5 +1,12 @@
 # best_web.exe Version´s
 
+Changelog 6.0.131 (20.04.2018)
+
+- Fixed: Sicherheitsprüfung und Änderungen bzgl. Speichern von Templates als ADMIN, Rolle
+- Fixed: Rollen können keine verberten Template-Ressourcen vom ADMIN bearbeiten
+
+------------------
+
 Changelog 6.0.130 (18.04.2018)
 
 - Fixed: Öffnen vom LDAP Import Fenster ohne Lizenz
