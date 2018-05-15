@@ -1,5 +1,35 @@
 # best_web.exe Version´s
 
+
+------------------
+
+Changelog 6.0.133 (15.05.2018)
+
+- Neu: System (lokal) - Ausführung einer Datenbank Komprimierung
+- Neu: System (lokal) - Datensätze eines Benutzers löschen (Angabe von Domäne, Benutzername)
+- Neu: Es gibt neue Einträge um eine automatische Bereinigung der Empfangsübersicht, Verbindungshistorie einstellen zu können. Wird standardmäßig automatisch um 00:00 Uhr ausgeführt
+* In der infoserver.ini gibt es die neuen Einträge:
+* [best_web] last_clean_history =   <- speichert die letzte Ausführung für die Verbindungshistorie (Zeitstempel, z. B. 2018-05-15T00:00:00Z)
+* [best_web] last_clean_client =   <- speichert die letzte Ausführung für die Empfangsübersicht (Response, Empfangen, Gesendet, Autoupdate Archiv) (Zeitstempel, z. B. 2018-05-15T00:00:00Z)
+* [best_web] clean_history_after = 20160   (Angabe in Minuten, default 20160) - Bereinigt alles nach 2 Wochen standardmäßig für die Verbindungshistorie
+* [best_web] clean_client_after = 20160   (Angabe in Minuten, default 20160) - Bereinigt alles in Empfangsübersicht (Response, Empfangen, Gesendet, Autoupdate Archiv) was älter als 2 Wochen ist (standardmäßig)
+
+
+------------------
+
+Changelog 6.0.132 (04.05.2018)
+
+- Neu: Dienst wird gestoppt, wenn die Verbindung zur Datenbank abbricht
+- Neu: infoserver.ini [couch] max_retries = 3 (default), nach 3 fehlerhaften Versuchen die Datenbank zu kontaktieren, stoppt sich der best_web Dienst
+- Fixed: MailToInfo SMTP Authentifizierung
+- Fixed: Rollen - Auswahlfeld für die Ressourcen Mitbenutzung
+- Neu: Hilfesymbol für den schnellen Zugriff aus der Alarm App zu den entsprechenden Kapiteln im Hilfe Dokument
+- Neu: Globale Alarm Einstellung für das Verhalten bei Rechner mit aktivem Bildschirmschoner / gesperrten Zustand
+- Neu: Beim Alarm-Typ "Alarm an alle Infoclients" kann man nun optional den Alarm ebenfalls für den Auslöser anzeigen lassen
+- Fix: Falls die Navigation durch Alarm App reduziert wurde und bisher keine Usersettings gesetzt wurden, änderten sich die Standardsettings bzgl. des Infoversands
+
+------------------
+
 Changelog 6.0.131 (20.04.2018)
 
 - Fixed: Sicherheitsprüfung und Änderungen bzgl. Speichern von Templates als ADMIN, Rolle
