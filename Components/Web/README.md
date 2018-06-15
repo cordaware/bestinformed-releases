@@ -1,5 +1,24 @@
 # best_web.exe Version´s
 
+------------------
+
+Changelog 6.0.135 (14.06.2018)
+
+- Neu: Verbindungsübersicht zeigt die Anzahl der Passiven Verbindungen. Hierzu wird aus dem Serverboard der Eintrag [best_mqttc] uuid= verwendet oder aus den Cluster best_srv Datensätzen die UUID zur Ermittlung der passiven Verbindungen benötigt.
+- Neu: Rolle hat eine neue Ressource (Infos - alle dynamisch)
+- Neu: Infoübersicht - Ansicht kann für Alle Infos oder nur eigene Infos angepasst werden
+
+------------------
+
+Changelog 6.0.135 (13.06.2018)
+
+- Fixed: M2I Schnittstelle bei Standard Lizenz
+
+------------------
+
+Changelog 6.0.134 (07.06.2018)
+
+- Geändert: Verhalten für IniFile Infos kopieren geändert
 
 ------------------
 
