@@ -2,7 +2,35 @@
 
 ------------------
 
-Changelog 6.0.135 (14.06.2018)
+Changelog 6.0.140 (23.07.2018)
+
+- Fixed: Szenarien entwarnen
+- (INTERNAL) Fixed: Childs stoppen im bi_connection_mgr des Clusters
+
+------------------
+
+Changelog 6.0.139 (20.07.2018) - DEVELOP ONLY
+- Suche geändert in der Verbindungshistorie und Verbindungsübersicht
+- Suche geändert für alle anderen Grids / Sucht nun nicht mehr nach dem eingegeben Anfangstext sondern jetzt global.
+
+------------------
+
+Changelog 6.0.138 (17.07.2018) - DEVELOP ONLY
+
+- Neu: Audit-Ansicht eines Alarmes gibt nun detaillierte Informationen über den Auslöser aus
+- Export als JSON für Empfangsübersicht (Empfangen, Gesendet, Response)
+- Neu: Sencha Version 6.6.0.258
+
+------------------
+
+Changelog 6.0.137 (17.07.2018) - DEVELOP ONLY
+
+- Neu: Der Alarmtyp "Info an Empfänger des Templates" kann nun mit Alarm-Variablen und Alarm-Rückmeldung genutzt werden
+- Domänen Manager startet sich bei Verbindungsverlust zum LDAP erneut neu.
+
+------------------
+
+Changelog 6.0.136 (14.06.2018)
 
 - Neu: Verbindungsübersicht zeigt die Anzahl der Passiven Verbindungen. Hierzu wird aus dem Serverboard der Eintrag [best_mqttc] uuid= verwendet oder aus den Cluster best_srv Datensätzen die UUID zur Ermittlung der passiven Verbindungen benötigt.
 - Neu: Rolle hat eine neue Ressource (Infos - alle dynamisch)
