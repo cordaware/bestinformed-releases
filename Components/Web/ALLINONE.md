@@ -1,5 +1,72 @@
-# All-In-One Version´s
+Changelog 6.1.1.9 (04.09.2018)
 
+  * includes best_srv 6.0.155
+  * includes best_web 6.0.149
+  * includes infoclient 6.2.2.9
+  * includes best_data 6.2.2.1 (couchdb 2.1.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.1.1.8 (30.08.2018)
+
+  * includes best_srv 6.0.155
+  * includes best_web 6.0.148
+  * includes infoclient 6.2.2.9
+  * includes best_data 6.2.2.1 (couchdb 2.1.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.1.1.7 (27.08.2018)
+
+  * includes best_srv 6.0.155
+  * includes best_web 6.0.147
+  * includes infoclient 6.2.2.9
+  * includes best_data 6.2.2.1 (couchdb 2.1.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.1.1.6 (23.08.2018)
+
+  * includes best_srv 6.0.153
+  * includes best_web 6.0.146
+  * includes infoclient 6.2.2.8
+  * includes best_data 6.2.2.1 (couchdb 2.1.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.1.1.5 (23.08.2018)
+
+  * includes best_srv 6.0.152
+  * includes best_web 6.0.146
+  * includes infoclient 6.2.2.8
+  * includes best_data 6.2.2.1 (couchdb 2.1.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.1.1.4 (22.08.2018)
+
+  * includes best_srv 6.0.151
+  * includes best_web 6.0.145
+  * includes infoclient 6.2.2.8
+  * includes best_data 6.2.2.1 (couchdb 2.1.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.1.1.3 (21.08.2018)
+
+  * includes best_srv 6.0.149
+  * includes best_web 6.0.144
+  * includes infoclient 6.2.2.8
+  * includes best_data 6.2.2.1 (couchdb 2.1.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
 
 Changelog 6.1.0.9 (23.07.2018) <- CURRENT LATEST
 
@@ -10,9 +77,13 @@ Changelog 6.1.0.9 (23.07.2018) <- CURRENT LATEST
   * includes Cordaware5to6 1.0.2.0
 
 ------------------
+
 Changelog 6.1.0.8 - TEST
+
 ------------------
+
 Changelog 6.1.0.7 - TEST
+
 ------------------
 
 Changelog 6.1.0.6 (25.06.2018)

@@ -2,6 +2,62 @@
 
 ------------------
 
+Changelog 6.0.149 (04.09.2018)
+
+- Testlizenz bis 31.12.2018
+
+------------------
+
+Changelog 6.0.148 (29.08.2018)
+
+- Weitere Verbesserungen für das Auslesen der Domäne / LDAP
+- Der Gruppenmanager zeigt nun für Benutzer & Computer die zugewiesenen Gruppen und OU´s.
+- Der Gruppenmanager zeigt beim Aufklappen einer Gruppe die enthaltenen Mitglieder (Benutzer, Computer)
+
+------------------
+
+Changelog 6.0.147 (27.08.2018)
+
+- Neu: System (global) - Alarm Icon bei keinem Computer einstellbar
+
+------------------
+
+Changelog 6.0.146 (23.08.2018)
+
+- Weitere Performance Verbesserungen für das Auslesen der Domäne / LDAP
+
+------------------
+
+Changelog 6.0.145 (22.08.2018)
+
+- Interne Optimierung beim Laden von statischen Dateien für die Weboberfläche
+- Das Auslesen von Gruppen,Benutzer,OU,Computer über LDAP wurde verbessert
+- In "Nachrichten,Berechtigungen" werden jetzt mehr Informationen bzgl. des Auslesen der Domäne aufgelistet
+- Fixed: Anzeige des StatusQuo in der StatusInfo App
+- Fixed: Client-Konfiguration speichern / editieren wurde verbessert
+
+------------------
+
+Changelog 6.0.144 - DEVELOP ONLY
+
+------------------
+
+Changelog 6.0.143 (03.08.2018)
+
+- Gruppenmanager zeigt nun für die Benutzer die zugewiesenen Gruppen aus dem LDAP
+
+------------------
+
+Changelog 6.0.142 (02.08.2018)
+
+- Weboberfläche für Internet Explorer 11 Kompatibilität verbessert
+
+------------------
+
+Changelog 6.0.141 - DEVELOP ONLY
+
+------------------
+
 Changelog 6.0.140 (23.07.2018)
 
 - Fixed: Szenarien entwarnen
