@@ -2,6 +2,12 @@
 
 ------------------
 
+Changelog 6.0.150 (06.09.2018)
+
+- Neu: Benutzerdefiniertes Menü - Gruppierung kann aktiviert werden (Standardwert: false)
+
+------------------
+
 Changelog 6.0.149 (04.09.2018)
 
 - Testlizenz bis 31.12.2018
