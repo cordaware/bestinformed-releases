@@ -5,6 +5,9 @@
 Changelog 6.0.150 (06.09.2018)
 
 - Neu: Benutzerdefiniertes Menü - Gruppierung kann aktiviert werden (Standardwert: false)
+- Neu: Alarm-Typ "Info an Alarm-Auslöser" - Sendet eine Info an den Auslöser des Alarms (Alarmfunktionstest)
+- Change: Recht für das Öffnen der Alarm App wird automatisch vergeben, falls andere Alarm-Berechtigung vorhanden
+- Fix: Nur "Computer verwalten" Recht für die Alarm App funktioniert nun wieder
 
 ------------------
 
@@ -19,6 +22,7 @@ Changelog 6.0.148 (29.08.2018)
 - Weitere Verbesserungen für das Auslesen der Domäne / LDAP
 - Der Gruppenmanager zeigt nun für Benutzer & Computer die zugewiesenen Gruppen und OU´s.
 - Der Gruppenmanager zeigt beim Aufklappen einer Gruppe die enthaltenen Mitglieder (Benutzer, Computer)
+- Neu: Die Alarm Ampel besitzt nun einen dritten Status für die Anzeige von keinen Empfängern- Neu: Die Alarm Ampel besitzt nun einen dritten Status für die Anzeige von keinen Empfängern
 
 ------------------
 
