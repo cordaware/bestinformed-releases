@@ -2,6 +2,17 @@
 
 ------------------
 
+Changelog 6.0.152 (10.09.2018)
+
+- Option in der infoserver.ini wurde entfernt [alarm] ldap_delete_everything_before_import
+- Neu: Domäne "Protokollierung - LDAP Protokollierung aktivieren" -> schreibt in best_web/log/error.log
+
+------------------
+
+Changelog 6.0.151  - VERSION ONLY
+
+------------------
+
 Changelog 6.0.150 (06.09.2018)
 
 - Neu: Benutzerdefiniertes Menü - Gruppierung kann aktiviert werden (Standardwert: false)
