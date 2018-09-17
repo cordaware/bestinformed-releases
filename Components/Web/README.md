@@ -2,6 +2,24 @@
 
 ------------------
 
+Changelog 6.0.155 (17.09.2018)
+
+- Verbesserte IE 11 Kompatibilität
+
+------------------
+
+Changelog 6.0.154 (11.09.2018)
+
+- Geändert: Gruppenmanager zeigt Benutzer, Computer die OU´s
+
+------------------
+
+Changelog 6.0.153 (11.09.2018)
+
+- Geändert: Einschränkung in der Contentverwaltung für die Ordner-Ansicht anhand der berechtigten Rollen, Ressourcen Mitbenutzung
+
+------------------
+
 Changelog 6.0.152 (10.09.2018)
 
 - Option in der infoserver.ini wurde entfernt [alarm] ldap_delete_everything_before_import
