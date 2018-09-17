@@ -1,6 +1,6 @@
 ------------------
 
-Changelog 6.1.2.6 (17.09.2018)
+Changelog 6.1.2.6 (17.09.2018) <- CURRENT LATEST
 
   * includes best_srv 6.0.157
   * includes best_web 6.0.155
@@ -134,7 +134,7 @@ Changelog 6.1.1.3 (21.08.2018)
 
 ------------------
 
-Changelog 6.1.0.9 (23.07.2018) <- CURRENT LATEST
+Changelog 6.1.0.9 (23.07.2018)
 
   * includes best_srv 6.0.144
   * includes best_web 6.0.140
