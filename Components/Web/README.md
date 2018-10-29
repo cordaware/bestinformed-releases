@@ -2,6 +2,49 @@
 
 ------------------
 
+Changelog 6.0.161 (23.10.2018) - special ASM Beta Version
+
+- Fixed: Demand Webseite für Alarm Standortmanager
+- Verschiedene Anpassungen und Bugfixes in der Alarm Standortmanager App
+- Geändert: Systemgenerierte Filter sind nicht mehr kopierbar
+- Geändert: In der Gruppen App werden nun systemgenerierte Einträge entsprechend markiert und als nicht editierbar behandelt
+
+------------------
+
+Changelog 6.0.160 (16.10.2018)
+
+- Neu: Response-Ansicht in der Empfangsübersicht ist nun sortier- & filterbar
+- Neu: System(global): Einstellung für das Verhalten von LDAP Gruppen (neue Info): Nur Benutzer adressieren, nur Computer adressieren, Benutzer oder Computer adressieren
+- Neu: Warnung beim Versand von Infos in Kombination von QuickUser und Ausschlussfilter
+- Geändert: Ausgabe der LDAP-Gruppen für M2I-Schnittstelle in lowercase
+- (INTERNAL) - Demo Registrierung implementiert, so dass man sich mit einer E-Mail Adresse registrieren kann
+
+------------------
+
+Changelog 6.0.159 (16.10.2018)
+ - Development version only
+
+------------------
+
+Changelog 6.0.158 (16.10.2018)
+ - Development version only
+
+------------------
+
+Changelog 6.0.157 (12.10.2018)
+ - Development version only
+
+------------------
+
+Changelog 6.0.156 (28.09.2018)
+
+- Neu: Token Lebensdauer (Minuten) in System(global) für externe Clients einstellbar
+- Neu: Anzeige aller vollständigen LDAP Attribute beim Filter testen
+- Weitere Optionen für die Migration von V5 nach V6 in den Gruppen implementiert
+- System Bereinigung verbessert
+
+------------------
+
 Changelog 6.0.155 (17.09.2018)
 
 - Verbesserte IE 11 Kompatibilität
