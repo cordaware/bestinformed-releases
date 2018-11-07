@@ -2,6 +2,13 @@
 
 ------------------
 
+Changelog 6.0.163 (07.11.2018)
+
+- Neu: Alarm AD Import ändert nur noch selbst erstellte Ressourcen und Zuordnungen
+- Geändert: In der Alarm App wird kein "undefined" Raum mehr für Computer ohne Zuordnung erstellt
+
+------------------
+
 Changelog 6.0.162 (07.11.2018) - special ASM Beta Version
 
 - Neu: Hinweis, dass kein Alarm ohne entsprechende Lizenz versendet werden kann
