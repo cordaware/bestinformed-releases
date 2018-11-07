@@ -2,6 +2,14 @@
 
 ------------------
 
+Changelog 6.0.162 (07.11.2018) - special ASM Beta Version
+
+- Neu: Hinweis, dass kein Alarm ohne entsprechende Lizenz versendet werden kann
+- Neu: Gruppierung für die Manager Ansicht im ASM
+- Neu: ASM Manager Filter werden nun entfernt, falls diese von keinem Manager mehr benötigt werden
+
+------------------
+
 Changelog 6.0.161 (23.10.2018) - special ASM Beta Version
 
 - Fixed: Demand Webseite für Alarm Standortmanager
