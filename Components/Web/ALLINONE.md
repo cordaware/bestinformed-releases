@@ -1,5 +1,23 @@
 ------------------
 
+Changelog 6.1.3.7 (19.12.2018)
+  * includes best_srv 6.0.164
+  * includes best_web 6.0.165
+  * includes infoclient 6.2.4.2
+  * includes best_data 6.2.2.1 (couchdb 2.1.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.1.3.6 (18.12.2018)
+  * includes best_srv 6.0.164
+  * includes best_web 6.0.164
+  * includes infoclient 6.2.4.2
+  * includes best_data 6.2.2.1 (couchdb 2.1.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
 Changelog 6.1.3.1 (23.10.2018) - ASM VERSION ONLY
   * includes best_srv 6.0.161
   * includes best_web 6.0.161
