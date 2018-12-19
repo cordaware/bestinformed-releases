@@ -9,6 +9,21 @@ Changelog 6.0.165 (19.12.2018)
 
 ------------------
 
+Changelog 6.0.163 (07.11.2018)
+
+- Neu: Alarm AD Import ändert nur noch selbst erstellte Ressourcen und Zuordnungen
+- Geändert: In der Alarm App wird kein "undefined" Raum mehr für Computer ohne Zuordnung erstellt
+
+------------------
+
+Changelog 6.0.162 (07.11.2018) - special ASM Beta Version
+
+- Neu: Hinweis, dass kein Alarm ohne entsprechende Lizenz versendet werden kann
+- Neu: Gruppierung für die Manager Ansicht im ASM
+- Neu: ASM Manager Filter werden nun entfernt, falls diese von keinem Manager mehr benötigt werden
+
+------------------
+
 Changelog 6.0.161 (23.10.2018) - special ASM Beta Version
 
 - Fixed: Demand Webseite für Alarm Standortmanager
