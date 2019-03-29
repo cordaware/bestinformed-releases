@@ -3,9 +3,53 @@
 
 ------------------
 
+Changelog 6.0.170 (29.03.2019)
+
+- Neue Optionen in der Domänen App für "zusätzliche Filter" bei sehr großen LDAP-Strukturen:
+* {active_n,"once"}. % once,true,N > 0
+* {min_bin_vheap_size,"10240"}. % number > 233, only on large system
+* {min_heap_size,"10240"}. %% number > 4555, only on large system in best_domain
+
+------------------
+
+Changelog 6.0.169 (22.03.2019)
+
+- Optimierungen in der Domänen App für das Laden von OU´s
+
+------------------
+
+Changelog 6.0.168 (14.03.2019)
+
+- Neu: Testlizenz bis 30.06.2019
+- In der App für das Testen von Filtern wurde ein Hinweis eingebaut: "Es können ausschließlich Filter getestet werden, welche Objekte einer Domäne filtern, z. B.: die das Attribut domain. im Filter enthalten! Die Domänen App muss hierzu in der Lizenz enthalten sein."
+
+------------------
+
+Changelog 6.0.167 (12.03.2019)
+
+- Neue Optionen für das Laden von rekursiven Gruppen in der Domänen App
+- In der Client-Konfiguration App können nun personalisierte Infoclient.ini Einträge versendet werden
+- Fixed: Anmeldegruppen bei Umfragen
+
+------------------
+
+Changelog 6.0.166 (11.02.2019)
+
+- Starter App für Lizenz korrigiert
+- Laden der Weboberfläche bei geänderten Lizenz-Demand Einstellungen
+- Neu: Die MailToInfo-Schnittstelle unterstützt jetzt im Mailbody das JSON-Format
+
+------------------
+
 Changelog 6.0.165 (19.12.2018)
 
 - Testlizenz bis 31.03.2019
+- Neu: Gruppierung der Navigation wird beibehalten, falls "Navigation reduzieren" bei Alarm App Erstkonfiguration gewählt wird
+- Fix: Ladeproblem des Alarm Plans beim Verwenden des Mandantenkonzepts
+- Fix: LDAP Import von verbotenen Zeichen in die Alarm App
+- Fix: Anzeigenamen ScriptVar Problem bei bestimmten Einträgen in der Alarm App
+- Geändert: "Raum" Modus in Alarm App wurde zu "Alarmierungskreise"
+- Geändert: Ein paar Fehler- / Infomeldungen in der Alarm App wurden konkretisiert
 
 ------------------
 
