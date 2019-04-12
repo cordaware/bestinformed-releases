@@ -1,5 +1,14 @@
 
 
+Changelog 6.2.0.0 (12.04.2019) - ASM
+  * includes best_srv 6.0.175
+  * includes best_web 6.0.171
+  * includes infoclient 6.2.6.0
+  * includes best_data 6.2.2.1 (couchdb 2.1.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
 Changelog 6.1.5.0 (09.04.2019) - spezieller All-In-One nur für Pilotkunden mit Testlizenz bis 30.06.2019
 
   * includes best_srv 6.0.164

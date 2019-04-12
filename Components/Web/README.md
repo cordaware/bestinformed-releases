@@ -3,6 +3,18 @@
 
 ------------------
 
+Changelog 6.0.171 (12.04.2019)
+
+- Neu: Alarm Standortmanager App Version 3.0 mit folgenden Features:
+* Drastische Erhöhung der Versandgeschwindigkeit von Alarmen in großen Umgebungen
+* Bereitstellung von Alarmierung für einzelne Benutzer (Terminalserver)
+* Filter App mit Manager, Wächter und der Mobile Gruppe verwendbar
+* Filterung des Alarm Planes nach Alarmeinheiten
+* Anpassung des gesamten Alarm Standortmanager Templatetextes
+* Deaktivierbarer Audit: [asm] audit=false
+
+------------------
+
 Changelog 6.0.170 (29.03.2019)
 
 - Neue Optionen in der Domänen App für "zusätzliche Filter" bei sehr großen LDAP-Strukturen:
