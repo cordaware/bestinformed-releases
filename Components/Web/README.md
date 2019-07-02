@@ -1,5 +1,9 @@
 # best_web.exe Version´s
 
+------------------
+
+Changelog 6.0.172 (01.07.2019)
+- Hilfe Willkommensfenster geändert
 
 ------------------
 
