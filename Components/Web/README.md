@@ -1,5 +1,57 @@
 # best_web.exe Version´s
 
+
+------------------
+
+Changelog 6.0.185 (25.09.2019)
+
+- Geändert: Suche nach Benutzern (z. b. user_100) in den LDAP-Gruppen im Infoeditor, werden als "[user_100] Gruppenname" aufgelistet.
+
+------------------
+
+Changelog 6.0.184 (24.09.2019)
+
+- Fixed: Anmeldung an einer Domäne, wenn zusätzliche Domänen ausgewählt wurden
+- Neu: System - Serverboard [general] info_preview_time = true (default: false) zeigt die Zeiteinstellung bei der Vorschau einer Info
+- Geändert: Die Auswahl von LDAP-Gruppen ist jetzt mit einer Mehrfachauswahl möglich
+
+
+------------------
+
+Changelog 6.0.182 (17.09.2019)
+
+- Performance Verbesserungen bei der Nutzung von Filter-Logiken
+
+------------------
+
+Changelog 6.0.181 (11.09.2019)
+
+- Fixed: Client Konfiguration / als personalisierte Infoclient.ini versenden
+
+------------------
+
+Changelog 6.0.180 (10.09.2019)
+
+- Version only, ähnlich wie 6.0.174
+
+------------------
+
+Changelog 6.0.174 (02.09.2019)
+
+- Die Höhe und Breite eines Popups kann nun in % angegeben werden
+- Eine Info mit der Option „Bricht alle laufenden Infos ab" kann nun als Silent Info versendet werden (somit unsichtbar)
+- Neuer Infoclient.ini Eintrag: PlayMasterInfoAllowed=True/False (Default=False)
+- PlayMasterInfoAllowed legt fest, ob der Benutzer eine erstelle Info mit der Option "Option „Bricht alle laufenden Infos ab“  über das Infogitter erneut starten kann oder nicht.
+- Eine Info kann nun für eine bestimmte Zeit X in Minuten als nicht schließbar markiert werden. Nach Ablauf dieser Zeit kann die Info wieder vom Benutzer geschlossen werden.
+- StatusInfos können nun für eine bestimmte Zeit X in Sekunden als nicht schließbar markiert werden. Nach Ablauf dieser Zeit kann die Info wieder vom Benutzer geschlossen werden.
+
+------------------
+
+Changelog 6.0.173 (26.07.2019)
+
+- Template Beschreibung lässt sich in der Template App editieren
+- Fixed: Ein http-request für Infos in die Historie verschieben oder wenn Infos abgebrochen werden
+
 ------------------
 
 Changelog 6.0.172 (01.07.2019)
