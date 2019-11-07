@@ -1,5 +1,46 @@
 # best_web.exe Version´s
 
+------------------
+
+Changelog 6.1.0.6 (06.11.2019)
+
+- Fixed: Aus der Historie gelöschte Infos wurden immernoch in der Infoübersicht in anderen offenen Tabs aufgelistet.
+- Fixed: Ausblenden der Rechte für Offline Infos, Bricht alle laufenden Infos ab
+- Fixed: StatusInfo Contentlink einfügen Icon
+- Fixed: Verschiedene Icon´s wurden angepasst
+- Neu: Bei nicht vererbten Infofeldern über die Rolle/n wird im Infoeditor der Tab "Infofelder" automatisch ausgeblendet.
+
+------------------
+
+Changelog 6.1.0.5
+
+- Fixed: Empfangsübersicht und Verbindungsübersicht mit den Rollen Empfängerfiltern
+
+------------------
+
+Changelog 6.1.0.4
+
+- Neu: Empfängerfilter können nun in den Rollen gesetzt werden
+- Neu: Anzeige von weiteren Details in der Infoübersicht (aufklappbar / einklappbar)
+
+------------------
+
+Changelog 6.1.0.3 (.10.2019)
+
+- Neu: Erlang 22.1.1
+- Neu: Sencha 7.0.0 als JavaScript Framework
+- Fixed: Lademaske für das Speichern des Routings einer Umfrage
+- Fixed: Bug "Leere Info" wird nach abbrechen einer Info oder über "In die Historie verschieben" erstellt
+
+
+------------------
+
+NEW Major Version .....
+
+------------------
+
+Changelog 6.0.186 (.09.2019)
+
 
 ------------------
 
