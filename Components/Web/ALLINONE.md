@@ -1,4 +1,16 @@
 
+------------------
+
+Changelog 6.2.2.7 (06.11.2019)
+
+  * includes best_srv 6.1.3.9
+  * includes best_web 6.1.0.6
+  * includes infoclient 6.2.8.1
+  * includes best_data 6.2.2.1 (couchdb 2.1.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
 Changelog 6.2.0.1 (01.07.2019) - Aktueller Release
   * includes best_srv 6.0.175
   * includes best_web 6.0.172
