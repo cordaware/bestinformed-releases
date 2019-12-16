@@ -1,5 +1,62 @@
 # best_web.exe Version´s
 
+
+------------------
+
+Changelog 6.1.1.5 (13.12.2019)
+
+- Verbesserungen bezüglich der Verbindungsübersicht und Anzeige
+
+------------------
+
+Changelog 6.1.1.4 (12.12.2019)
+
+- Neu: Upgrade auf Erlang OTP 22.2
+
+------------------
+
+Changelog 6.1.1.3 (10.12.2019)
+
+- Neu: Bereinigung alter Räume in Alarm App Alarmierungskreisen
+- Neu: Kleinere Verbesserungen an der Alarm App Oberfläche
+
+------------------
+
+Changelog 6.1.1.2 (06.12.2019)
+
+- Fixed: Rollen und die Verwendung von Filtern, Empfängerfilter beim Versand von Infos
+
+------------------
+
+Changelog 6.1.1.1 (05.12.2019)
+
+- Neu: In der Infohistorie wird jetzt die Caption als Spalte aufgelistet
+- Neu: Tooltips in der Infohistorie für die Spalte: Info, Caption
+
+------------------
+
+Changelog 6.1.1.0 (28.11.2019)
+
+- Performance Optimierungen bei der Nutzung von Filtern
+
+------------------
+
+Changelog 6.1.0.9 (27.11.2019)
+
+- Fixed - Info in die Historie verschieben (manuell)
+
+------------------
+
+Changelog 6.1.0.8 (27.11.2019)
+
+- Fixed - Info in die Historie verschieben um 24 Uhr
+
+------------------
+
+Changelog 6.1.0.7 (26.11.2019)
+
+- Optimierungen bei der Nutzung der Rollen Ressourcen / Filter und co.
+
 ------------------
 
 Changelog 6.1.0.6 (06.11.2019)
