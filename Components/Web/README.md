@@ -1,5 +1,54 @@
 # best_web.exe Version´s
 
+------------------
+
+Changelog 6.1.2.0 (16.01.2020)
+
+- Neu: Mehrfache Standard ASM Favoriten und Gruppen können nun entfernt werden
+- Neu: ASM Standortabfrage kann nun optional nur nach IP-Wechsel angezeigt werden
+
+------------------
+
+Changelog 6.1.1.9 (13.01.2020)
+
+- Neu (internal): hackney_v1.15.2.1 
+- Fixed: Cluster Status im Dashboard
+- Neu: Beim Löschen von ASM Alarmen werden nun Anpassungen ebenfalls entfernt
+- Geändert: Einige Texte und kleinere Workflow Aspekte in der ASM App
+
+------------------
+
+Changelog 6.1.1.8 (09.01.2020)
+
+- Client Konfiguration Hilfe Hyperlink angepasst
+- Neu: Additional Colors im Infoeditor / StatusInfos
+Zeigt die Standardfarben oder eigene definierte Farben an. Die einzelnen Werte lassen sich über das Serverboard einstellen.
+
+Sektion: general
+Schlüssel: additionalcolorsonly
+Wert: false/true (boolean, default: false)
+
+Sektion: general
+Schlüssel: additionalcolors
+Wert: Liste als Beispiel unten:
+
+[{<<"#ACD819">>, <<"All clear">>},{<<"#009EE0">>, <<"Info">>},{<<"#FFC000">>, <<"Warning">>},{<<"#FF0000">>, <<"Alert">>}]
+
+Liste aus Hexadezimal, mit anzeigbaren Text in der Liste
+
+------------------
+
+Changelog 6.1.1.7 (19.12.2019)
+
+- Neu: Über die ASM Alarmplan Funktion können sich nun separat alle mobilen Geräte ausgegeben werden
+- Neu: Beim ASM Geräte Alarmplan werden nun mobile Geräte extra markiert
+
+
+------------------
+
+Changelog 6.1.1.6 (16.12.2019)
+
+- Kompatibilität mit CouchDB Version 2.3.x
 
 ------------------
 
@@ -44,6 +93,11 @@ Changelog 6.1.1.0 (28.11.2019)
 Changelog 6.1.0.9 (27.11.2019)
 
 - Fixed - Info in die Historie verschieben (manuell)
+- Neu: Demandwebsite vom ASM zeigt nun initial alle Standorte an, wenn keine Favoriten vorhanden sind
+- Neu: Mehrere ASM Demand Favoriten können nun auf einmal entfernt werden
+- Neu: BSMs und Alarmkreise werden nun beim Löschen von ASM Einheiten ebenfalls entfernt
+- Neu: Kleinere optische und technische Verbesserungen in der ASM App
+- Behoben: Zeitstempel nach ASM Demand Änderungen
 
 ------------------
 

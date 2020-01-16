@@ -1,5 +1,12 @@
 best_data Changelog
 
+
+------------------------------
+
+Changelog 6.2.3.4
+
+* add nssm.exe for starting best_data, before with erlsrv.exe service could not be stopped correctly
+
 ------------------------------
 
 Changelog 6.2.3.3 (19.12.2019)
