@@ -1,5 +1,10 @@
 # best_web.exe Version´s
 
+
+Changelog 6.1.2.3 (20.01.2020)
+
+- Bugfixes im ASM
+
 ------------------
 
 Changelog 6.1.2.0 (16.01.2020)
