@@ -1,5 +1,36 @@
 # best_web.exe Version´s
 
+Changelog 6.1.2.6 (24.01.2020)
+
+- Neuerungen in der Umfrage App:
+    * Neu: Es können nun mehrere Umfragen sowie initiierte Umfragen auf einmal gelöscht werden.
+    * Neu: Beendete Umfragen werden in der Übersicht nun klar hervorgehoben.
+    * Neu: Vorschau Button für einzelne Fragen.
+    * Neu: Umfrageergebnisse können nun für einzelne Benutzer zurückgesetzt werden.
+    * Neu: Es können zu Umfragen „Ansichtsgruppen“ hinzugefügt werden, um einen Benutzerkreis via Filter lesenden Zugriff auf eine Umfrage zu gestatten.
+    * Änderung: Einige Punkte wurden zur Vereinfachung des Interfaces ausgeblendet.
+    * Änderung: Die Breite der Antwortfelder ist nun pro Frage definierbar, nicht mehr pro Textfeld. Ebenfalls ist sie nicht mehr von der Fragetextlänge abhängig.
+    * Änderung: Admin sieht nun alle Umfragen und kann diese bearbeiten.
+    * Optimierung: Generelle Verbesserung der UX durch verschiedene Interface Optimierungen.
+    * Behoben: Diverse Anzeige- und Rechtschreibfehler korrigiert.
+    * Behoben: Ein seltener Fehler beim Kopieren von Umfragen wurde behoben.
+    * Behoben: HTML-Code im Umfragetitel wird nun dargestellt.
+    * Behoben: Umfragetext wird nun auch gespeichert, wenn man sich zum Zeitpunkt des Speicherns im HTML-Editor Modus befindet.
+    * Behoben: Die Listenpunkte werden im Umfragetext nicht immer Linksbündig angezeigt, sondern folgen dem Text.
+
+------------------
+
+Changelog 6.1.2.5 (23.01.2020)
+
+- DEVELOP ONLY
+
+------------------
+
+Changelog 6.1.2.4 (23.01.2020)
+
+- DEVELOP ONLY
+
+------------------
 
 Changelog 6.1.2.3 (20.01.2020)
 

@@ -1,3 +1,36 @@
+
+
+Changelog 6.2.7.3 (24.01.2020) - Umfragen
+
+  * includes best_srv 6.1.7.8
+  * includes best_web 6.1.2.6
+  * includes infoclient 6.2.9.4
+  * includes best_data 6.2.3.4 (couchdb 2.3.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.2.7.2 (23.01.2020) 
+
+  * includes best_srv 6.1.7.8
+  * includes best_web 6.1.2.5
+  * includes infoclient 6.2.9.4
+  * includes best_data 6.2.3.4 (couchdb 2.3.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.2.7.1 (23.01.2020) 
+
+  * includes best_srv 6.1.7.8
+  * includes best_web 6.1.2.4
+  * includes infoclient 6.2.9.4
+  * includes best_data 6.2.3.4 (couchdb 2.3.1)
+  * includes Cordaware5to6 1.0.2.0
+
+------------------
+
+
 Changelog 6.2.7.0 (20.01.2020)  - Aktueller Release im Kundenportal
 
   * includes best_srv 6.1.7.8
