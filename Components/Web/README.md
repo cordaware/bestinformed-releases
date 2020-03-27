@@ -12,6 +12,7 @@ Changelog 6.1.3.0 (27.03.2020)
 
 - Neu: Cluster Status kann unter System -> System (global) über die Option "Cluster Status - Anzeige des Cluster-Status im Dashboard der Weboberfläche" aktiviert / deaktiviert werden.
 - Fixed: Cluster Status und der Verbindungszähler
+- Neu: Erlang OTP 22.3
 - Geändert: Anzeige einer Fehlermeldung bei einer falsch hochgeladenen Datei in Autoupdate -> Autoupdate Archiv
 
 ------------------
