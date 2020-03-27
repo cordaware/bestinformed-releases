@@ -1,5 +1,41 @@
 # best_web.exe Version´s
 
+
+Changelog 6.1.3.0 (27.03.2020)
+
+- Neu: Infos können nun als Live-Preview direkt an den eigenen Client gesendet werden
+    * hierzu gibt es im Infoeditor unten rechts eine neue Schaltfläche mit "Live-Vorschau"
+    * in den Rollen gibt es ein neues Recht unterhalb von Infos  - "Erlaubt eine Live-Vorschau (an den Infoclient) an den eigenen Benutzer zur Kontrolle der Nachricht"
+    * als ADMIN gibt es eine Einstellung unter System -> System (global) "Info als Live-Preview (ADMIN)", dort kann für den ADMIN ein Filter gesetzt werden an dem die Live-Preview gesendet wird.
+    * als Benutzer / Domäne wird die Live-Preview an den eigenen verbunden Client aus der Kombination des angemeldeten Benutzername und Domäne aus der Weboberfläche verwendet
+    * unter System -> System (global) kann die Aktivzeit und Anzeigedauer bei "Live-Preview (Minuten)" im Bereich von 1 bis 1440 Minuten eingestellt werden.
+
+- Neu: Cluster Status kann unter System -> System (global) über die Option "Cluster Status - Anzeige des Cluster-Status im Dashboard der Weboberfläche" aktiviert / deaktiviert werden.
+- Fixed: Cluster Status und der Verbindungszähler
+- Geändert: Anzeige einer Fehlermeldung bei einer falsch hochgeladenen Datei in Autoupdate -> Autoupdate Archiv
+
+------------------
+
+Changelog 6.1.2.9 (.0.2020)
+
+NACHTRAGEN
+
+------------------
+
+Changelog 6.1.2.8 (.2020)
+
+NACHTRAGEN
+
+------------------
+
+Changelog 6.1.2.7 (17.02.2020)
+
+- Neu: Verbessertes Zusammenspiel der Alarm App mit Rollen
+- Neu: Alarm Serverboard Einstellung "computer_to_upper" true / false, um die optische Darstellung von Computernamen anzupassen
+- Geändert: Alarm App Listenimport zeigt nun die wirkliche Anzahl an neuen Datensätzen an
+
+------------------
+
 Changelog 6.1.2.6 (24.01.2020)
 
 - Neuerungen in der Umfrage App:
