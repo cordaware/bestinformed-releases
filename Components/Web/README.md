@@ -1,6 +1,16 @@
 # best_web.exe Version´s
 
 
+Changelog 6.1.3.1 (30.03.2020)
+
+- Fixed: Info als Live-Preview als ADMIN geht nicht mehr an Alle
+- Fixed: Info als Live-Preview als Benutzer / Domäne geht nun an die zugewiesene Domäne
+- Anpassungen und Änderungen an der Live-Preview (kein Beginn / Ende möglich oder UTC)
+- Fixed: Dynamisches Laden im Infoeditor der Ausschlussfilter / -Gruppen / - Gruppierungen
+- Fixed: Cluster Status Zähler
+
+------------------
+
 Changelog 6.1.3.0 (27.03.2020)
 
 - Neu: Infos können nun als Live-Preview direkt an den eigenen Client gesendet werden
