@@ -1,5 +1,18 @@
 # best_web.exe Version´s
 
+Changelog 6.1.3.2 (01.04.2020)
+
+- Geändert: System -> System (global) - Info als Live-Vorschau nur Auswahl von Filtern möglich, + Button zeigt zur Filter App
+- Fixed: Infoeditor -> Vorschau mit ScriptVars erlaubt erst dann eine Live-Vorschau wenn die ScriptVar gesetzt wurde
+- Geändert: Der HTML Editor unter Umfragen > Benachrichtigungen ist jetzt höher.
+
+- Neu: System(lokal) -> Datensätze umziehen
+    * Domäne & Benutzer (Alt): Der Benutzer dessen Daten umgezogen werden sollen
+    * Benutzer (Neu): Der Loginname des neuen Benutzers. (oder admin für Administrator)
+    * Domäne (Neu): Die neue Domäne der Datensätze. Wenn leer selbe wie alte. Wird ignoriert falls Ziel-Benutzer admin ist.
+    * Profilname: Den Namen des Profils in den die Datensätze übertragen werden sollen. Wenn leer wird das Standardprofil genutzt. Wird ignoriert falls Ziel-Benutzer admin ist.
+
+------------------
 
 Changelog 6.1.3.1 (30.03.2020)
 
