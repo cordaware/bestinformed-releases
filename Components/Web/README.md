@@ -3,6 +3,7 @@
 Changelog 6.1.3.2 (01.04.2020)
 
 - Geändert: System -> System (global) - Info als Live-Vorschau nur Auswahl von Filtern möglich, + Button zeigt zur Filter App
+- Geändert: Die Live-Vorschau speichert beim Versand kein Empfangen/Gesendet in die Datenbank bi_client_info
 - Fixed: Infoeditor -> Vorschau mit ScriptVars erlaubt erst dann eine Live-Vorschau wenn die ScriptVar gesetzt wurde
 - Geändert: Der HTML Editor unter Umfragen > Benachrichtigungen ist jetzt höher.
 
