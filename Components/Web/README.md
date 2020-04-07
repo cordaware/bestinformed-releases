@@ -1,5 +1,14 @@
 # best_web.exe Version´s
 
+
+Changelog 6.1.3.3 (03.04.2020)
+
+- Fixed: Datensätze eines Benutzers umziehen 
+    * Verbesserte Fehlermeldungen
+    * Falsche ID beim Migrieren im Standardprofil behoben
+
+------------------
+
 Changelog 6.1.3.2 (01.04.2020)
 
 - Geändert: System -> System (global) - Info als Live-Vorschau nur Auswahl von Filtern möglich, + Button zeigt zur Filter App
