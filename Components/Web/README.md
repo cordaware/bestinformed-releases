@@ -1,5 +1,14 @@
 # best_web.exe Version´s
 
+Changelog 6.1.3.4 (22.04.2020)
+
+- Verbessert: Info als Live-Vorschau zeigt nur bei enthaltenen ScriptVars ein "Popup" Fenster zur Eingabe. Ansonsten ist immer eine Live-Vorschau möglich, sofern ein Text für Alle Sprachen hinterlegt ist.
+- Neu: Im Infoeditor können im Reiter "Empfänger" als Optionen eine ODER-Verknüpfung zwischen Filter, Gruppen, Ausschlussfilter, Ausschlussgruppen, Gruppierungen und Ausschlussgruppierungen erstellt werden
+- Neu: Im Infoeditor können im Reiter "Empfänger" bei Erweitere Empfängereinstellungen verschiedene UND / ODER  zwischen Filter, Gruppen, Ausschlussfilter, Ausschlussgruppen, Gruppierungen und Ausschlussgruppierungen erstellt werden
+- Neu: Alarmstandort Manager und Wächter können nun als PDF ausgegeben werden.
+- Neu: Im Filter vom Typ Logon kann nun auch für die Anmeldung in der best_web (Weboberfläche) das best_script für die Script Funktionen (load_from_file/1, member_of_filegroup/1, member_of_filegroup/2) verwendet werden.
+
+------------------
 
 Changelog 6.1.3.3 (03.04.2020)
 
