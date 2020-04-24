@@ -1,5 +1,14 @@
 # best_web.exe Version´s
 
+Changelog 6.1.3.5 (24.04.2020) 
+
+- Neu: Neues Rollen Recht im Infoeditor "Empfänger Optionen als ODER-Verknüpfungen erlauben"
+- Neu: Neues Rollen Recht im Infoeditor "Erweiterte Empfängereinstellungen erlauben"
+- Geändert: Abstände im Infoeditor für Schaltflächen, Live-Vorschau, zurücksetzen, abbrechen + Tooltips hinzugefügt
+- Geändert: Infoeditor - Benutzerdesktop + Winlogondesktop -> "Vorschau" in "Vorschau-Info" umbennant.
+
+------------------
+
 Changelog 6.1.3.4 (22.04.2020)
 
 - Verbessert: Info als Live-Vorschau zeigt nur bei enthaltenen ScriptVars ein "Popup" Fenster zur Eingabe. Ansonsten ist immer eine Live-Vorschau möglich, sofern ein Text für Alle Sprachen hinterlegt ist.
