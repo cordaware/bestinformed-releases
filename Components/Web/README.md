@@ -1,5 +1,11 @@
 # best_web.exe Version´s
 
+Changelog 6.1.3.6 (28.04.2020) 
+
+- Fixed: Standortmanager wurden in der Manager PDF Ausgabe nicht angezeigt
+
+------------------
+
 Changelog 6.1.3.5 (24.04.2020) 
 
 - Neu: Neues Rollen Recht im Infoeditor "Empfänger Optionen als ODER-Verknüpfungen erlauben"
