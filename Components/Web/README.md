@@ -1,5 +1,11 @@
 # best_web.exe Version´s
 
+Changelog 6.1.3.7 (29.04.2020) 
+
+- Neu: Infodetails zeigt nun den Zeitstempel an, wann die Info abgebrochen wurde
+
+------------------
+
 Changelog 6.1.3.6 (28.04.2020) 
 
 - Fixed: Standortmanager wurden in der Manager PDF Ausgabe nicht angezeigt
