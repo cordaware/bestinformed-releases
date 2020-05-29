@@ -1,5 +1,26 @@
 # best_web.exe Version´s
 
+Changelog 6.1.3.9 (29.05.2020) 
+
+- Fixed: Automatischen Survey Export Mechanismus
+
+------------------
+
+Changelog 6.1.3.8 (18.05.2020) 
+
+- Geändert: Corporate-Design von Umfragen
+- Neu: Automatischer Export von Umfrageergebnissen bei abgeschlossenen Umfragen:
+  [bi_survey]
+  automatic_export = true
+  interval = 1440 ( default: 1440 in minutes)
+  
+  
+  Ordner in dem exportiert wird:
+  
+  best_web\etc\survey
+
+------------------
+
 Changelog 6.1.3.7 (29.04.2020) 
 
 - Neu: Infodetails zeigt nun den Zeitstempel an, wann die Info abgebrochen wurde
