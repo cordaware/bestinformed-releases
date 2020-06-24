@@ -1,5 +1,37 @@
 # best_web.exe Version´s
 
+Changelog 6.1.4.3 (23.03.202020) 
+
+- Fixed: Infoübersicht und Infodetails, Anzeige der Channels, Dynamische Adressierung, Gruppen, Ausschlussgruppen, Filter, Ausschlussfilter, Gruppierungen, Ausschlussgruppierungen wenn diese gelöscht worden sind
+- Fixed: Anpassungen beim Intervall-Server (Beginn und Ende einer Umfrage)
+- Neu: Pro Umfrage kann der automatische Export der Ergebnisse auch bei nicht beendeter Umfrage eingestellt werden.
+- Neu: Der Dateiname des automatischen Export der Umfragenergebnisse besteht aus Name der Umfrage + ID.
+- Neu: in der infoserver.ini kann unter [bi_survey] start_at = 12:00 die Uhrzeit für den Start des automatischen Export der Umfragenergebnisse eingestellt werden.
+- Neu: Beim Initiieren einer Umfrage wird eine rote Hinweismeldung von oben eingefolgen, wenn z. B. der Beginn oder das Ende einer Umfrage bereits in der Vergangenheit liegt.
+
+------------------
+
+Changelog 6.1.4.2 (19.06.2020) 
+
+- Anpassungen in der Umfragen App für den Intervall-Server (Beginn und Ende einer Umfrage)
+- Co-Design vor Umfragen geändert, der Titel der Umfrage wird nun mittig dargestellt und ohne blauen Balken.
+
+------------------
+
+Changelog 6.1.4.1 (18.06.2020) 
+
+- Neu: In der Umfrage Benachrichtigung kann für den Typ "Neue Umfrage initiiert" ein Beginn und Ende einer Umfrage gesetzt werden. Die Uhrzeit ist jeweils automatisch auf 00:00 Uhr gesetzt.
+
+------------------
+
+Changelog 6.1.4.0 (17.06.2020) 
+
+- Fixed: Umfrage Schwebendatensätze, bei der letzten Seite der Umfrage wird dem Datensatz das Feld finished: true hinzugefügt zur Identifizierung der vollständigen Antworten
+- Fixed: Bei der Umfrage Auswertung werden nur Antworten berücksichtigt die finished: true enthalten
+- Fixed: Co-Design und Anzeige des Umfragetitels bei Durchführung einer Umfrage
+
+------------------
+
 Changelog 6.1.3.9 (29.05.2020) 
 
 - Fixed: Automatischen Survey Export Mechanismus
