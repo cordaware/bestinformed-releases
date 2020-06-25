@@ -1,6 +1,15 @@
 # best_web.exe Version´s
 
-Changelog 6.1.4.3 (23.03.202020) 
+------------------
+
+Changelog 6.1.4.4 (25.06.2020) 
+
+- Neu: Umfrage Benachrichtigungen lassen sich in der Rolle über das Ressourcen-Mitbenutzung teilen und innerhalb der gleichen Rolle editieren.
+
+------------------
+
+
+Changelog 6.1.4.3 (23.03.2020) 
 
 - Fixed: Infoübersicht und Infodetails, Anzeige der Channels, Dynamische Adressierung, Gruppen, Ausschlussgruppen, Filter, Ausschlussfilter, Gruppierungen, Ausschlussgruppierungen wenn diese gelöscht worden sind
 - Fixed: Anpassungen beim Intervall-Server (Beginn und Ende einer Umfrage)
