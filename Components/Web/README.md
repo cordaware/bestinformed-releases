@@ -1,5 +1,33 @@
 # best_web.exe Version´s
 
+
+------------------
+
+Changelog 6.1.4.7 (31.07.2020) 
+- Geändert: Maximale Werte geändert für Zufallsgenerator im Infoeditor
+
+------------------
+
+Changelog 6.1.4.6 (24.07.2020) 
+- Neu: Neues Recht bei der Rolle für Zufallsgenerator erlauben im Infoeditor
+- Fixed: Kalender Einträge im Infoeditor erstellen
+- Neue Alarm + ASM Serverboard Einträge zur Anpassung des "Einmalig" Verhaltens der INI Konfigurationen.
+
+    [alarm]
+    ini_onetime=false
+    
+    [asm]
+    ini_onetime=false
+
+    default ist immer true
+
+------------------
+
+Changelog 6.1.4.5 (23.07.2020) 
+- Neu: Versand von Kalender Einträgen über den Infoeditor
+- Fixed: Fehler beim Laden der gesamten Infoübersicht
+- Neu: Zufallsgenerator im Infoeditor im Reiter "Benutzer"
+
 ------------------
 
 Changelog 6.1.4.4 (25.06.2020) 
