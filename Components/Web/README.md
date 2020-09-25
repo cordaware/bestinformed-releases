@@ -1,5 +1,22 @@
 # best_web.exe Version´s
 
+------------------
+
+Changelog 6.1.5.0 (25.09.2020) 
+- Neu: Export von Alarm Raum + Benutzer Zuordnungen in der Alarm App
+- Neu: System -> System (global) - Einstellungen für API
+- Fixed: Editieren von Infos eines anderen Benutzers
+- Fixed: commatext2text for darwin-macosx64
+
+------------------
+
+Changelog 6.1.4.9 (19.08.2020) 
+- Neue SSL-Einstellungen bei Domäne für den Verbindungsaufbau per LDAPs
+
+------------------
+
+Changelog 6.1.4.8 (17.08.2020) 
+- Neu: System -> Events
 
 ------------------
 
