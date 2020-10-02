@@ -8,7 +8,7 @@ Changelog 6.1.5.2 (02.10.2020)
 - Fixed: Automatischen Export berücksichtigen bei nicht beendeten Umfragen
 - Fixed: Umfragenantworten von einem Benutzer zurücksetzen
 - Fixed: Implementierung anderer Message-ID´s beim Versand von E-Mails
-- Neu: Retries zu SMTP Server können in der SMTP-App eingestellt werden, wie oft wie E-Mail versucht wird zu senden. Standardmäßig ist der Wert 3
+- Neu: Retries zu SMTP Server können in der SMTP-App eingestellt werden, wie oft die E-Mail versucht wird zu senden. Standardmäßig ist der Wert 3
 - Neu: Übersicht der E-Mail Empfänger zur initiierten Umfrage
 - Fixed: Wiederaufnehmen von Umfragen
 - Fixed: Beenden von Umfragen
