@@ -1,4 +1,21 @@
+Changelog 6.2.9.9 (02.10.2020)
 
+  * includes best_srv 6.1.10.2
+  * includes best_web 6.1.5.2
+  * includes infoclient 6.3.1.2
+  * includes best_data 6.2.3.4 (couchdb 2.3.1)
+  * includes Cordaware5to6 1.0.2.0
+  
+  ------------------
+  
+  Changelog 6.2.9.8 (01.10.2020)
+
+  * includes best_srv 6.1.10.2
+  * includes best_web 6.1.5.1
+  * includes infoclient 6.3.1.2
+  * includes best_data 6.2.3.4 (couchdb 2.3.1)
+  * includes Cordaware5to6 1.0.2.0
+  
   ------------------
 
 Changelog 6.2.9.7 (25.09.2020)

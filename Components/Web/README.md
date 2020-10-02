@@ -1,5 +1,24 @@
 # best_web.exe Version´s
 
+
+Changelog 6.1.5.2 (02.10.2020) 
+- Geändert: Umfragen können aus der Historie gelöscht werden, hierbei werden die E-Mail Empfänger gelöscht und die Antworten/Ergebnisse zur der Umfrage aus der Datenbank.
+- Geändert: Beschreibung von initierten Umfragen wird angezeigt
+- Fixed: Scrollen in der Umfragen Historie wurde behoben
+- Fixed: Automatischen Export berücksichtigen bei nicht beendeten Umfragen
+- Fixed: Umfragenantworten von einem Benutzer zurücksetzen
+- Fixed: Implementierung anderer Message-ID´s beim Versand von E-Mails
+- Neu: Retries zu SMTP Server können in der SMTP-App eingestellt werden, wie oft wie E-Mail versucht wird zu senden. Standardmäßig ist der Wert 3
+- Neu: Übersicht der E-Mail Empfänger zur initiierten Umfrage
+- Fixed: Wiederaufnehmen von Umfragen
+- Fixed: Beenden von Umfragen
+- Neu: Ordner können für Umfragen angelegt werden. Bei Umfragen (existierende und neue) kann der Ordner angegeben werden.
+
+------------------
+
+Changelog 6.1.5.1 (01.10.2020) 
+- Neu: Export API Schaltfläche im Infoeditor
+
 ------------------
 
 Changelog 6.1.5.0 (25.09.2020) 
