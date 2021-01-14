@@ -1,6 +1,54 @@
 # best_web.exe Version´s
 
 
+Changelog 6.1.6.0 (14.01.2021) 
+- Fixed: Darstellung der Socks Client in Übersicht Socks
+
+-------------
+
+Changelog 6.1.5.9 (12.01.2021) 
+- Neu: Anzeige der Details (Type, Beschreibungen) beim Tagfield (z. B. bei Neue Info, Filter, Gruppen, Gruppierungen) [general]  tagfield_details=true/false (boolean, default: true)
+- Neu: Neue App für Socks / Übersicht Socks Client für best_tele
+-------------
+
+Changelog 6.1.5.8 (23.11.2020) 
+- Neu: Tooltips für Alarm Computer / Raum und weitere Ansichten in der Alarm App
+- Behoben: Entwarnung des Typ "Alarm an alle anderen Räume" erscheint bei Clients, welche eigentlichen Alarm nicht erhalten haben
+- Entfernt: Abhängigkeiten der Serverboard Alarm Einstellung "computer_to_upper" mit Raumnamen
+- Behoben: ASM Entwarnung erscheint bei Clients, welche eigentlichen Alarm nicht erhalten haben
+- Neu: Bei den Infofeldern kann jetzt eine Breite eingestellt werden
+- Neue App - Externe registriert
+
+-------------
+
+Changelog 6.1.5.7 (10.11.2020) 
+- Cluster Status geändert
+
+-------------
+
+Changelog 6.1.5.6 (06.11.2020) 
+- Neu: Formatierte Gruppenliste bei einer neuen Info im Benutzer Tab
+- Fixed: Safari Browser Scrollprobleme in der Rollen App
+
+-------------
+
+Changelog 6.1.5.5 (30.10.2020) 
+- Fixed: Auslesen der E-Mail Adressen bei einer Umfrage Benachrichtigung verbessert
+
+-------------
+
+Changelog 6.1.5.4 (19.10.2020) 
+- Geändert: E-Mails bei einer Umfrage Benachrichtung werden nacheinander erst versandt (vorher: gleichzeitig)
+
+-------------
+
+Changelog 6.1.5.3 (13.10.2020) 
+- Fixed: Umfrage Benachrichtungen editieren und neu anlegen
+- Fixed: Umfragen Auswahlliste - Bereinigung \r\n oder \n beim Initiieren von einer Umfrage
+- Fixed: SMTP App - erzwinge SMTP Authentifzierung bei Angabe von Benutzername und Passwort
+
+-------------
+
 Changelog 6.1.5.2 (02.10.2020) 
 - Geändert: Umfragen können aus der Historie gelöscht werden, hierbei werden die E-Mail Empfänger gelöscht und die Antworten/Ergebnisse zur der Umfrage aus der Datenbank.
 - Geändert: Beschreibung von initierten Umfragen wird angezeigt
