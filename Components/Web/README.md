@@ -1,6 +1,6 @@
 # best_web.exe Version´s
 
-Changelog 6.1.6.0 (17.02.2021) 
+Changelog 6.1.6.2 (17.02.2021) 
 - Fixed: Entwarnung einer Info versenden
 
 -------------
