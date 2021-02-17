@@ -1,5 +1,16 @@
 # best_web.exe Version´s
 
+Changelog 6.1.6.0 (17.02.2021) 
+- Fixed: Entwarnung einer Info versenden
+
+-------------
+
+
+Changelog 6.1.6.1 
+- INTERNAL
+
+-------------
+
 
 Changelog 6.1.6.0 (14.01.2021) 
 - Fixed: Darstellung der Socks Client in Übersicht Socks
