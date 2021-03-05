@@ -1,5 +1,11 @@
 # best_web.exe Version´s
 
+Changelog 6.1.6.4 (05.03.2021) 
+- Neues Recht bei Rollen: Filter löschen (von anderen Benutzern) erlauben
+- Fixed: Umfrage Anmeldung,Benachrichtung,Ansichtsgruppe als ADMIN editieren
+
+-------------
+
 Changelog 6.1.6.2 (17.02.2021) 
 - Fixed: Entwarnung einer Info versenden
 

@@ -1,4 +1,15 @@
-Changelog 6.3.2.2 (17.02.2021)
+
+Changelog 6.3.2.4 (05.03.2021)
+
+  * includes best_srv 6.1.18.0
+  * includes best_web 6.1.6.4
+  * includes infoclient 6.3.2.9
+  * includes best_data 6.2.3.4 (couchdb 2.3.1)
+  * includes Cordaware5to6 1.0.2.0
+
+  ------------------
+  
+  Changelog 6.3.2.2 (17.02.2021)
 
   * includes best_srv 6.1.16.0
   * includes best_web 6.1.6.2
