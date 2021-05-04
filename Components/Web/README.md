@@ -1,5 +1,39 @@
 # best_web.exe Version´s
 
+
+Changelog 6.1.7.0 (04.05.2021) 
+- Neu: Änderungen bei Alarm App Alarmierungskreisen müssen nicht mehr explizit bestätigt werden
+- Neu: Info2Mail Filter kann nun einfach als Eskalationsscript unter System (Global) für ASM Alarme hinterlegt werden
+- Neu: Änderungen bei ASM Alarmierungskreisen müssen nicht mehr explizit bestätigt werden
+
+-------------
+
+Changelog 6.1.6.9 (22.04.2021) 
+- Eingetragene Reihenfolge der conn_keys in der infoserver.ini behalten für die Spalten der Verbindungsübersicht 
+
+-------------
+
+Changelog 6.1.6.8 (16.04.2021) 
+- Neu: System (global) Gäste-Gruppe
+
+-------------
+
+Changelog 6.1.6.7 (18.03.2021) 
+- Neu: ODER-Verknüpfung mit Empfängergruppen im Infoeditor bei LDAP-Gruppen
+
+-------------
+
+Changelog 6.1.6.6 (16.03.2021) 
+- Anpassungen zu besthome
+
+-------------
+
+Changelog 6.1.6.5 
+- INTERNAL ONLY ERLANG 23
+
+-------------
+
+
 Changelog 6.1.6.4 (05.03.2021) 
 - Neues Recht bei Rollen: Filter löschen (von anderen Benutzern) erlauben
 - Fixed: Umfrage Anmeldung,Benachrichtung,Ansichtsgruppe als ADMIN editieren
