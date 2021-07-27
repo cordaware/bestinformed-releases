@@ -2,8 +2,8 @@
 
 Changelog 6.1.7.3 (27.07.2021) 
 - In der infoserver.ini können weitere Header in dieser Einstellung gesetzt werden:
- [best_web]
-headers = [{"Strict-Transport-Security", "max-age=<expire-time>"}, {"X-Frame-Options", "DENY"}, {"X-Content-Type-Options", "nosniff"}]
+ - [best_web]<br>
+ headers = [{"Strict-Transport-Security", "max-age=<expire-time>"}, {"X-Frame-Options", "DENY"}, {"X-Content-Type-Options", "nosniff"}]
 
     Quelle: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
     * max-age=<expire-time>
@@ -18,13 +18,13 @@ headers = [{"Strict-Transport-Security", "max-age=<expire-time>"}, {"X-Frame-Opt
 Es ist nun nur noch ein Download gleichzeitig möglich bis die Logfiles als Download bereitgestellt worden sind, so dass das System nicht ausgelastet wird.
 
 - Geändert: Stacktraces in Fehlermeldungen
-[general]
+[general]<br>
 stacktrace =true/false (boolean, default: false)
 
 - Verschiedene Anpassungen bezüglich der Zugriffskontrolle wurden optimiert
 
 - Neu: weitere Cookie Optionen können mit der folgenden Option eingestellt werden
-[best_web] 
+[best_web] <br>
 cookies = secure
 siehe, https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
 
