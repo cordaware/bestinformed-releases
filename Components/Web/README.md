@@ -32,6 +32,7 @@ siehe, https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
 
 - Behoben: Browser Caching 
 
+-------------
 
 Changelog 6.1.7.2 (21.07.2021) 
 - Neues Recht für Rollen: Info als offenes Ende versenden
