@@ -9,14 +9,14 @@ Changelog 6.1.7.3 (27.07.2021)
     The time, in seconds, that the browser should remember that a site is only to be accessed using HTTPS.
 
 - Geändert: Fehlermeldungen bei der Authentifzierung können mit der folgenden Option eingestellt werden:
-    * [general]
+    * [general]<br>
         auth_messages=true/false (boolean, default: true)
 
 
 - Fixed: Download infoserver.zip:
 Es ist nun nur noch ein Download gleichzeitig möglich bis die Logfiles als Download bereitgestellt worden sind, so dass das System nicht ausgelastet wird.
 
-- Geändert: Stacktraces in Fehlermeldungen
+- Geändert: Stacktraces in Fehlermeldungen<br><br>
 [general]<br>
 stacktrace =true/false (boolean, default: false)
 
