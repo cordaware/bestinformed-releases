@@ -22,9 +22,9 @@ stacktrace =true/false (boolean, default: false)
 
 - Verschiedene Anpassungen bezüglich der Zugriffskontrolle wurden optimiert
 
-- Neu: weitere Cookie Optionen können mit der folgenden Option eingestellt werden
+- Neu: weitere Cookie Optionen können mit der folgenden Option eingestellt werden<br><br>
 [best_web] <br>
-cookies = secure
+cookies = secure<br><br>
 siehe, https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
 
 - Behoben: iFrame werden als sandbox eingebunden
