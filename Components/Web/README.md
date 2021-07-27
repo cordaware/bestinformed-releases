@@ -1,5 +1,43 @@
 # best_web.exe Version´s
 
+Changelog 6.1.7.3 (27.07.2021) 
+- In der infoserver.ini können weitere Header in dieser Einstellung gesetzt werden:
+ [best_web]
+headers = [{"Strict-Transport-Security", "max-age=<expire-time>"}, {"X-Frame-Options", "DENY"}, {"X-Content-Type-Options", "nosniff"}]
+
+    Quelle: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
+    * max-age=<expire-time>
+    The time, in seconds, that the browser should remember that a site is only to be accessed using HTTPS.
+
+- Geändert: Fehlermeldungen bei der Authentifzierung können mit der folgenden Option eingestellt werden:
+    * [general]
+        auth_messages=true/false (boolean, default: true)
+
+
+- Fixed: Download infoserver.zip:
+Es ist nun nur noch ein Download gleichzeitig möglich bis die Logfiles als Download bereitgestellt worden sind, so dass das System nicht ausgelastet wird.
+
+- Geändert: Stacktraces in Fehlermeldungen
+[general]
+stacktrace =true/false (boolean, default: false)
+
+- Verschiedene Anpassungen bezüglich der Zugriffskontrolle wurden optimiert
+
+- Neu: weitere Cookie Optionen können mit der folgenden Option eingestellt werden
+[best_web] 
+cookies = secure
+siehe, https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
+
+- Behoben: iFrame werden als sandbox eingebunden
+
+- Behoben: Browser Caching 
+
+
+Changelog 6.1.7.2 (21.07.2021) 
+- Neues Recht für Rollen: Info als offenes Ende versenden
+- Fixed: SMTP MailToInfo Schnittstelle - Anpassungen bei nicht gefundenden Datensätze (z. B. Filter,Channel,Gruppen etc.)
+
+-------------
 
 Changelog 6.1.7.0 (04.05.2021) 
 - Neu: Änderungen bei Alarm App Alarmierungskreisen müssen nicht mehr explizit bestätigt werden
