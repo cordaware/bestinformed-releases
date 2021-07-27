@@ -1,8 +1,7 @@
 # best_web.exe Version´s
 
 Changelog 6.1.7.3 (27.07.2021) 
-- In der infoserver.ini können weitere Header in dieser Einstellung gesetzt werden:
- - [best_web]<br>
+- In der infoserver.ini können weitere Header in dieser Einstellung gesetzt werden: <br><br>[best_web]<br>
  headers = [{"Strict-Transport-Security", "max-age=<expire-time>"}, {"X-Frame-Options", "DENY"}, {"X-Content-Type-Options", "nosniff"}]
 
     Quelle: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
