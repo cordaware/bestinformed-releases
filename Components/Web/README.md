@@ -1,5 +1,22 @@
 # best_web.exe Version´s
 
+Changelog 6.1.8.1 (05.11.2021) 
+- Neu: Erlang 23
+- Neu: Neues Recht bei den Rollen für den Infoeditor: "Infoversand nur an ausgewählte Empfänger möglich (kein Versand an Alle)"
+- Neu: Umfragen können in der Historie per Mehrfachauswahl gelöscht werden
+- Neu: Der automatische Import des Alarm Standortmanagers kann nun auch manuell gestartet werden
+- Behoben: Alarm Zuordnungen beim Verwenden des automatischen Alarm Standortmanager Imports
+- Behoben: Serverfehler beim automatischen Import von Geräten ohne vorhandene Organisation oder Alarmeinheit
+- Geändert: Beim Löschen von Alarmeinheiten können Geräte aus der Einheit nun in der Alarm App neu zugewiesen werden
+- Geändert: Texte und Beispiele beim Alarm Standortmanager Import / Export
+
+-------------
+
+Changelog 6.1.8.0 (05.11.2021) - DEVELOP ONLY
+- Intern zum Testen
+
+-------------
+
 Changelog 6.1.7.3 (27.07.2021) 
 - In der infoserver.ini können weitere Header in dieser Einstellung gesetzt werden: <br><br>[best_web]<br>
  headers = [{"Strict-Transport-Security", "max-age=<expire-time>"}, {"X-Frame-Options", "DENY"}, {"X-Content-Type-Options", "nosniff"}]
