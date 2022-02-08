@@ -1,5 +1,32 @@
 # best_web.exe Version´s
 
+
+-------------
+
+Changelog 6.1.8.8 (07.02.2022) 
+
+- Fixed: bestzero Initialisierung wenn SMTP Passwort und Benutzername leer sind
+- INTERNAL ONLY - Upgrade to OTP-23.3.4.11
+
+---------------
+
+Changelog 6.1.8.3 (24.01.2022) 
+
+- bestzero Logo für best_web
+
+---------------
+
+Changelog 6.1.8.2 (21.01.2022) 
+
+- Neu: Alarme in der Berichte App werden nun mit UTC Zeit angezeigt
+- Behoben: Anzeige von Alarm Daten nach AKM Import in der Berichte App
+- Behoben: Session ID wird anders erzeugt und interne Pfade beim Laden von Dateien angepasst
+- Passwörter in der infoserver.ini für die Weboberfläche und MailToInfo Schnittstelle werden automatisch in das neue Format pbkdf2 umgewandelt
+- Passwörter für Admin und MailToInfo-Schnittstelle können nicht über das Serverboard geändert werden -> siehe System (lokal)
+- INTERN - bestzero Registrierungs-Mail
+
+---------------
+
 Changelog 6.1.8.1 (05.11.2021) 
 - Neu: Erlang 23
 - Neu: Neues Recht bei den Rollen für den Infoeditor: "Infoversand nur an ausgewählte Empfänger möglich (kein Versand an Alle)"
