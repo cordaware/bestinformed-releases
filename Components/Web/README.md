@@ -1,5 +1,13 @@
 # best_web.exe Version´s
 
+-------------
+
+Changelog 6.1.9.0 (06.04.2022) 
+
+- Fixed: Erweitere Empfängereinstellungen als Template speichern
+- Neu: Operator Attribut existiert, Attribut existiert nicht in der Filter App
+- Neu: Min. Alarm Bestätigungen sind nun einstellbar - System (global)
+- Fixed: bi-info_default Datensatz beim Initialisieren
 
 -------------
 
