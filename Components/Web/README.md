@@ -1,5 +1,12 @@
 # best_web.exe Version´s
 
+
+-------------
+
+Changelog 6.1.9.1 (25.04.2022)
+
+- Neu: Alarm Eskalationen können nun in Abhängigkeit von Alarm Bestätigungen ausgeführt werden
+
 -------------
 
 Changelog 6.1.9.0 (06.04.2022) 
