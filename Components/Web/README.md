@@ -1,5 +1,16 @@
 # best_web.exe Version´s
 
+-------------
+
+Changelog 6.1.9.2 (08.09.2022)
+
+- Geändert: Lizenzstatus im Format angepasst, (~p,~p,~p,~p) CALs - Users, Mobile, Concierge, Extern
+- Name des Umfrage Maillink kann angepasst werden - Serverboard [bi_survey] maillink=Umfrage-Link (default)
+- Fixed: bi_couch_views für best_data, badarg in couch_ejson compare
+- Neu: Alphabetische Sortierung des Plans für Alarmstandorte
+- Neu: Beschränkter Export von markieren und sichtbaren Geräten im ASM
+- Neu: Mit der ASM Serverboard Einstellung "ini_erase" kann die Funktion zum Entfernen von Alarm Sektionen bei unzugeordneten Geräten deaktiviert werden
+- Neu: Mit der ASM Serverboard Einstellung "export_fullname" kann automatisch der Name des Standorts in den Dateiexport der Geräte als Beschreibung eingefügt werden
 
 -------------
 

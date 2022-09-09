@@ -1,4 +1,25 @@
 
+
+Changelog 6.3.5.5 (08.09.2022)
+
+* includes best_srv 6.1.37.0
+* includes best_web 6.1.9.2
+* includes infoclient 6.3.5.5
+* includes best_data 6.3.0.1 (couchdb 3.2.0)
+* includes Cordaware5to6 1.0.2.0
+
+------------------
+
+Changelog 6.3.5.4 (09.05.2022)
+
+* includes best_srv 6.1.34.0
+* includes best_web 6.1.9.1
+* includes infoclient 6.3.5.5
+* includes best_data 6.3.0.1 (couchdb 3.2.0)
+* includes Cordaware5to6 1.0.2.0
+
+------------------
+
 Changelog 6.3.5.3 (25.04.2022)
 
 * includes best_srv 6.1.33
