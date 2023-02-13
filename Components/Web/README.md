@@ -1,5 +1,20 @@
 # best_web.exe Version´s
 
+
+-------------
+
+Changelog 6.1.9.4 (13.02.2023)
+
+- Geändert: Neues bestinformed Logo
+- Fixed: JSON Rest API Ausgabe im Infoeditor
+- Infohistorie mit Zähler für den ADMIN
+
+-------------
+
+Changelog 6.1.9.3 (03.11.2022)
+
+- Geändert: zwei Listener für MailToInfo Schnittstelle ohne SSL + mit SSL
+
 -------------
 
 Changelog 6.1.9.2 (08.09.2022)
