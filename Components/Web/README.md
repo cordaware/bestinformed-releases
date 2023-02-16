@@ -14,6 +14,9 @@ Changelog 6.1.9.4 (13.02.2023)
 Changelog 6.1.9.3 (03.11.2022)
 
 - Geändert: zwei Listener für MailToInfo Schnittstelle ohne SSL + mit SSL
+- Neu: Anpassung der Manager Ansicht in den Einstellungen der ASM App. Limitierung auf Geräte und Alarme nun möglich.
+- Neu: Beschränkter Export von markierten und sichtbaren Organisationen im ASM
+- Behoben: Die Gerätesuche als Manager in der Alarm Standortmanager App war nicht möglich
 
 -------------
 

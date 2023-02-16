@@ -2,7 +2,7 @@
 Changelog 6.3.5.8 (13.02.2023)
 
 * includes best_srv 6.1.37.0
-* includes best_web 6.1.9.2
+* includes best_web 6.1.9.4
 * includes infoclient 6.3.5.5
 * includes best_data 6.3.3.1 (couchdb 3.3.1)
 * includes Cordaware5to6 1.0.2.0
