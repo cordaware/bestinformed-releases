@@ -10,8 +10,15 @@ Changelog 6.2.0.7 (26.07.2023)
 Changelog 6.2.0.5 (08.05.2023)
 
 - Neu: Erlang/OTP 24.3.4.11
-
-
+- Neu: Alarm App Ampel kann nun bei Bedarf eigene Räume mitzählen
+- Neu: Computer und Raum Beschreibung nun im Alarm Plan für alle Modi
+- Neu: Alarm App Raum Beschreibung nun in der Berichtsapp verfügbar
+- Neu: Zusätzliches Informationsfeld für Alarm Standortmanager Geräte. Feld wird auch exportiert.
+- Neu: Erweitere Ausgabe von ASM Geräte Informationen per [asm] full_combined_item_name (default:true) Serverboard Einstellung
+- Neu: Alarme im Alarm Standortmanager können nun mit verschiedenen Sounds hinterlegt werden
+- Neu: Der Raumname von Alarm Standortmanager Favoriten wird nun standardmäßig in der Favoriten-Ansicht der Standortauswahl angezeigt
+- Neu: Stiller Alarm nun auch in der Alarm Standortmanager App für Computer in identischen Alarmeinheiten und Räumen
+- 
 -------------
 
 Changelog 6.2.0.0 (03.04.2023)
