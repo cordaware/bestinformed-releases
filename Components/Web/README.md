@@ -1,6 +1,44 @@
 # best_web.exe Version´s
 
 
+Changelog 6.2.0.7 (26.07.2023)
+
+- Fixed: Statistik App - Anzeige der Datenbankgröße
+
+-------------
+
+Changelog 6.2.0.5 (08.05.2023)
+
+- Neu: Erlang/OTP 24.3.4.11
+
+
+-------------
+
+Changelog 6.2.0.0 (03.04.2023)
+
+- Neu: OTP 24
+- Fixed Windows streaming files als application / octet-stream
+
+-------------
+
+Changelog 6.1.9.8 (28.03.2023)
+- Fixed: Code Loader für Datenbank Views
+
+-------------
+
+Changelog 6.1.9.7 (21.03.2023)
+- Ein Problem im Navigations Menü wurde behoben
+
+-------------
+
+Changelog 6.1.9.6 (16.03.2023)
+- Sprachen der Übersetzungen wurden ggfs. ausgetauscht bei Rechtschreibfehlern
+
+-------------
+
+Changelog 6.1.9.5 (07.03.2023)
+- INTERNAL ONLY
+
 -------------
 
 Changelog 6.1.9.4 (13.02.2023)
