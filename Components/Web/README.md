@@ -2,6 +2,19 @@
 
 ----------
 
+Changelog 6.2.1.1 (05.02.2024)
+- Neu: Alarm Standortmanager zeigt nun importierte Anzeigenamen im Standorthinweis für mobile Geräte an
+
+----------
+
+Changelog 6.2.1.0 (17.01.2024)
+
+- Neue Erlang Version - Erlang OTP 25 - 25.3.2.8
+- Lizenz App angepasst - Anzahl bestzero
+- Fix: Alarm Standortmanager Audit Fehler in den Debug Log Dateien
+
+----------
+
 Changelog 6.2.0.8 (24.11.2023)
 
 - Neu: Zusätzliches Informationsfeld für Alarm Standortmanager Geräte. Feld wird auch exportiert.

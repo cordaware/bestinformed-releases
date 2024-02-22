@@ -1,10 +1,21 @@
+------------------
+
+Changelog 6.3.7.6 (06.02.2024)
+
+* includes best_srv 6.3.7
+* includes best_web 6.2.1.1
+* includes infoclient 6.3.6.6
+* includes best_data 6.3.3.3 (couchdb 3.3.3)
+* includes Cordaware5to6 1.0.2.0
+
+------------------
 
 Changelog 6.3.7.3 (24.1.2023)
 
 * includes best_srv 6.3.7
 * includes best_web 6.2.0.8
 * includes infoclient 6.3.6.6
-* includes best_data 6.3.3.3 (couchdb 3.3.1)
+* includes best_data 6.3.3.3 (couchdb 3.3.3)
 * includes Cordaware5to6 1.0.2.0
 
 ------------------
@@ -14,7 +25,7 @@ Changelog 6.3.7.0 (12.09.2023)
 * includes best_srv 6.3.1
 * includes best_web 6.2.0.7
 * includes infoclient 6.3.6.2
-* includes best_data 6.3.3.3 (couchdb 3.3.1)
+* includes best_data 6.3.3.3 (couchdb 3.3.3)
 * includes Cordaware5to6 1.0.2.0
 
 ------------------
@@ -24,7 +35,7 @@ Changelog 6.3.6.5 (09.05.2023)
 * includes best_srv 6.2.5
 * includes best_web 6.2.0.5
 * includes infoclient 6.3.5.5
-* includes best_data 6.3.3.3 (couchdb 3.3.1)
+* includes best_data 6.3.3.3 (couchdb 3.3.3)
 * includes Cordaware5to6 1.0.2.0
 
 ------------------
