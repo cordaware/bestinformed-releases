@@ -4,7 +4,8 @@
 
 Changelog 6.2.1.1 (05.02.2024)
 - Neu: Alarm Standortmanager zeigt nun importierte Anzeigenamen im Standorthinweis für mobile Geräte an
-
+- Neu: Wird eine neue Info über ein ausgewähltes Template verschickt, so wird der Templatename nun in der Infoübersicht angezeigt
+- 
 ----------
 
 Changelog 6.2.1.0 (17.01.2024)
