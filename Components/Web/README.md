@@ -1,5 +1,45 @@
 # best_web.exe Version´s
 
+
+----------
+
+Changelog 6.2.1.8 (14.11.2024)
+- bestzero: Anzeige Übersicht Socks überarbeitet
+
+----------
+
+Changelog 6.2.1.7 (13.11.2024)
+- bestzero: Chart / Nutzungsübersicht, Anzeige Socks mit Computername
+
+----------
+
+Changelog 6.2.1.6 (12.11.2024)
+- bestzero Nutzungsübersicht
+- Neu: Export externe registriert, Mobile registiert als JSON
+
+----------
+
+Changelog 6.2.1.5 (09.09.2024)
+- Neu: Erhöhung der initialen max. Ladezeit der Alarm Standortmanager App zur Vermeidung von Timeouts bei großen Datenbanken
+
+----------
+
+Changelog 6.2.1.4 (08.08.2024)
+- Domäne wird aktualisiert während All In One Setup -> Erlang OTP 26 best_srv
+- Fixed: Editierung der Beschreibung eines neu hinzugefügten Alarm App Computers
+- Fixed: Import einer ASM Organisationsdatei mit Großbuchstaben in der OID
+
+----------
+
+Changelog 6.2.1.3 (30.07.2024)
+- Rest API: Fixed extended_filteropts
+
+----------
+
+Changelog 6.2.1.2 (18.06.2024)
+- Fix: Alarm Standortmanager Anzeigen bei Benutzung der Event App
+- Fixed: System (global) - Aktualisierungen innerhalb der App
+
 ----------
 
 Changelog 6.2.1.1 (05.02.2024)
