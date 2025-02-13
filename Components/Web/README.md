@@ -1,6 +1,70 @@
 # best_web.exe Version´s
 
 
+Changelog 6.2.3.1 (06.02.2025)
+
+- Fixed: Login Umfragen
+- Neuer Hilfe Link
+
+----------
+
+Changelog 6.2.3.0 (04.02.2025)
+
+- Fixed: Lizenz Sound + Voice wurde angepasst im Sound-Tab beim Infoeditor
+- Fixed: Englische Hilfe Links
+
+----------
+
+Changelog 6.2.2.9 (03.02.2025)
+
+- Fixed: Anmeldung Weboberfläche Domänenbenutzer ohne SSL
+- Neu: Infodetails zeigt jetzt die Sprachausgabe-Einstellungen an
+- Fixed: Lizenz Sound + Voice wurde angepasst im Sound-Tab beim Infoeditor
+
+----------
+
+
+Changelog 6.2.2.8 (30.01.2025)
+
+- Fixed: Anmeldung Weboberfläche Domänenbenutzer ohne SSL
+- Neu: Infodetails zeigt jetzt die Sprachausgabe-Einstellungen an
+- Fixed: Lizenz Sound + Voice wurde angepasst im Sound-Tab beim Infoeditor
+
+----------
+
+Changelog 6.2.2.7 (27.01.2025)
+
+- Neu: Voice - System Lizenz
+- Neu: Rolle neues Recht bei Info / Info als Sprachausgabe erlauben
+- Neu: StatusInfo -> StatusDetail - StatusInfo als Sprachausgabe vorlesen
+- Neu: Infoeditor -> Tab Sound neue Sprachausgabe Optionen
+
+----------
+
+Changelog 6.2.2.6 (23.01.2025)
+
+- Fix Webmessage über Websocket
+
+----------
+
+Changelog 6.2.2.5 (15.01.2025)
+
+- Neue Session Logik / Set-Cookie Header
+- Channel vom Typ Bot wurde entfernt
+- Fixed: not_contains in der Filter App
+- Fixed: bi_couch_views.beam Modul für die Datenbank best_data (better handling of couchdb views without bi_couch_views.beam module not needed anymore to be compiled in otp for couchdb on debian, ubuntu, freebsd etc.
+  )
+- Fixed: ScriptVar vom Typ Script wurde entfernt
+- Fixed: CVE-2025-0422: Authenticated Remote Code Execution via ScriptVar (bestinformed Web)
+- Fixed: CVE-2025-0423: Multiple Unauthenticated Stored Cross-Site Scripting (bestinformed Web)
+- Fixed: CVE-2025-0424: Multiple Authenticated Stored Cross-Site Scripting (bestinformed Web)
+
+
+----------
+
+Changelog 6.2.1.9 (28.11.2024)
+- Fixed: System (lokal) -> Datensätze eines Benutzers umziehen bei großen Daten
+
 ----------
 
 Changelog 6.2.1.8 (14.11.2024)

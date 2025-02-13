@@ -1,3 +1,42 @@
+
+
+Changelog 6.4.0.4 06.02.2025
+
+; includes best_srv 6.5.2
+; includes best_web 6.2.3.1
+; includes infoclient 6.3.8.1, signed
+; includes best_data 6.3.3.5 (couchdb 3.3.3)
+; includes Cordaware5to6 1.0.2.0
+Fixed: CVE-2025-0425: Local Privilege Escalation via Config Manipulation (bestinformed Infoclient), Version 6.3.7.0
+
+-----------
+
+27.01.2025
+All In One 6.4.0.0
+- Update mit einem KLick All In One
+
+-----------
+
+Changelog 6.3.9.3 02.12.2024
+
+; includes best_srv 6.4.7
+; includes best_web 6.2.2.2
+; includes infoclient 6.3.6.9, signed
+; includes best_data 6.3.3.5 (couchdb 3.3.3)
+; includes Cordaware5to6 1.0.2.0
+
+
+-----------
+
+Changelog 6.3.9.2
+
+; includes best_srv 6.4.7
+; includes best_web 6.2.2.1
+; includes infoclient 6.3.6.9, signed
+; includes best_data 6.3.3.5 (couchdb 3.3.3)
+; includes Cordaware5to6 1.0.2.0
+
+
 ------------------
 
 Changelog 6.3.8.8 (18.11.2024)
