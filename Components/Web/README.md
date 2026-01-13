@@ -1,5 +1,42 @@
 # best_web.exe Version´s
 
+6.2.3.8 - 6.2.3.6 (15.12.2025)
+
+[bi_auth]
+admin_locked_reset = false (default). - mit true kann bei erfolgreichen Login der admin_locked_count zurück gesetzt werden bei Bedarf
+2FA deaktivieren mit BackupCodes nun möglich
+
+
+- System (global) - 2FA Benutzerauthentifzierung
+
+infoserver.ini:
+[bi_auth]
+2fa_backupcodes_count = 10 / default - hier kann eingestellt werden wie viele BackupCodes erzeugt werden.
+qrcode_alias = default ist servername @Server2025 = Computername / Anzeigename im Authenticator konfigurierbar
+
+[bi_auth]
+admin_login_attempt_enabled = false (default)
+admin_login_attempt_count = 5 /default
+admin_locked_count = counter wie oft schon versucht wurde das pw zu probieren
+admin_locked_since = zeitstempel wann gesperrt wurde
+admin_locked = true / false (default), admin zugang ist gesperrt
+admin_locked_startclean = true /false (default)
+admin_locked_timer = 30 (default) in Minuten Angabe, bei 0 ist das automatische sperren deaktiviert.
+
+
+System(local) -> 2fa für einzelne Benutzer zurücksetzen.
+
+----------
+
+Changelog 6.2.3.4 ()
+
+- Fixed: Hintergrundfarbe in Infoeditor laden
+- Neu: HTML in ScriptVar kann verwendet werden
+- Neu: Trennzeichen können bei der ScriptVar Mehrfachauswahl verwendet werden, z. B. <br> usw.
+- Fixed: REST API Preview Infoeditor mit Quickusers
+- Neu: 
+
+----------
 
 Changelog 6.2.3.1 (06.02.2025)
 

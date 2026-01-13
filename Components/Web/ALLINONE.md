@@ -1,4 +1,14 @@
 
+Changelog 6.4.1.7 12.01.2026
+
+; includes best_srv 6.6.6
+; includes best_web 6.2.3.8
+; includes infoclient 6.4.0.0, signed
+; includes best_data 6.3.4.3 (couchdb 3.4.3)
+; includes Cordaware5to6 1.0.2.0
+
+-----------
+
 
 Changelog 6.4.0.4 06.02.2025
 
