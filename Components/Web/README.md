@@ -1,5 +1,45 @@
 # best_web.exe Version´s
 
+best_web 6.2.5.8 (09.09.2026)
+- Neu: Alarm Demand Feature zur Standortauswahl
+- Fixed: bestzero Audit View
+- Neu: OTP 28.5.0.6
+- Neu: Experten-Modus im Alarm Standortmanager für die Erstellung von eigenen Infoclient.ini Alarm-Sektionen
+- Neu: Alarmeinheiten, Manager, Wächter und Alarme im Standortmanager sind nun standardmäßig aufgeklappt
+- Neu: Alarm Standortmanager Startseite wird nicht mehr automatisch beim kurzen Wechseln der App neu geladen
+- Neu: Hilfe Schaltflächen bei der individuellen Alarmanpassung der Alarmeinheiten im Alarm Standortmanager
+- Neu: Lademaske für den Einrichtungsassistent des Alarm Standortmanagers
+
+
+6.2.5.6 (25.08.2026)
+
+Verbesserungen Alarm Demand
+
+6.2.5.5 (20.07.2026)
+ -Erste Schritte Alarm Demand
+- Neu: Standardfilter für die Adressierung von allen angemeldeten Benutzern zur Benutzung in Alarm und ASM App
+- Neu: Verbesserter Umgang mit nicht mehr existierenden Alarm Standortmanager Favoriten durch Anzeige
+
+6.2.5.4 (14.07.2026)
+
+- Fixed: Infoeditor Synchronisation Popup Höhe/Breite
+
+6.2.5.2 (07.05.2026)
+
+- bestzero: macOS Tahoe
+
+6.2.5.1 (06.05.2026)
+
+- Fixed: Infoeditor Live Preview
+- Changed: asm ini_onetime do default false
+- Fixed: MailToInfo - Kompatibiltät SMTP
+- Fixed: IPv6 SMTP und Shutdown bei MailToInfo beim Stoppen von best_web
+- Neu: OTP 28.4.2
+
+
+----------------------------
+
+
 6.2.3.8 - 6.2.3.6 (15.12.2025)
 
 [bi_auth]
